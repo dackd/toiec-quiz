@@ -2,22 +2,19 @@
 
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useEffect, useState, Suspense } from "react";
 
-export default function ResultsPage() {
+function ResultsContent() {
   const searchParams = useSearchParams();
   const [score, setScore] = useState(0);
   const [total, setTotal] = useState(0);
-  const [testId, setTestId] = useState("");
 
   useEffect(() => {
     const scoreParam = searchParams.get("score");
     const totalParam = searchParams.get("total");
-    const testIdParam = searchParams.get("testId");
 
     if (scoreParam) setScore(parseInt(scoreParam));
     if (totalParam) setTotal(parseInt(totalParam));
-    if (testIdParam) setTestId(testIdParam);
   }, [searchParams]);
 
   const percentage = total > 0 ? Math.round((score / total) * 100) : 0;
@@ -111,5 +108,22 @@ export default function ResultsPage() {
         </div>
       </div>
     </div>
+  );
+}
+
+export default function ResultsPage() {
+  return (
+    <Suspense
+      fallback={
+        <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+          <div className="text-center">
+            <div className="w-8 h-8 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+            <p className="text-gray-600">Loading results...</p>
+          </div>
+        </div>
+      }
+    >
+      <ResultsContent />
+    </Suspense>
   );
 }
