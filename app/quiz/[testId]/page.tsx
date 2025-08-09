@@ -6,9 +6,9 @@ import Link from "next/link";
 import { Quiz, Question, UserAnswer } from "@/types/quiz";
 
 interface QuizPageProps {
-  params: {
+  params: Promise<{
     testId: string;
-  };
+  }>;
 }
 
 interface PopupContent {
@@ -25,11 +25,15 @@ export default function QuizPage({ params }: QuizPageProps) {
   const [showResult, setShowResult] = useState(false);
   const [popup, setPopup] = useState<PopupContent>({ type: null, data: null });
   const [loading, setLoading] = useState(true);
+  const [testId, setTestId] = useState<string>("");
 
   useEffect(() => {
     const loadQuiz = async () => {
       try {
-        const response = await fetch(`/test${params.testId}.json`);
+        const resolvedParams = await params;
+        setTestId(resolvedParams.testId);
+
+        const response = await fetch(`/test${resolvedParams.testId}.json`);
         if (!response.ok) {
           throw new Error("Quiz not found");
         }
@@ -43,7 +47,7 @@ export default function QuizPage({ params }: QuizPageProps) {
     };
 
     loadQuiz();
-  }, [params.testId]);
+  }, [params]);
 
   const currentQuestion: Question | null =
     quiz?.questions[currentQuestionIndex] || null;
@@ -77,7 +81,7 @@ export default function QuizPage({ params }: QuizPageProps) {
       const finalScore =
         selectedAnswer === currentQuestion?.correctAnswer ? score + 1 : score;
       router.push(
-        `/results?testId=${params.testId}&score=${finalScore}&total=${quiz?.questions.length}`
+        `/results?testId=${testId}&score=${finalScore}&total=${quiz?.questions.length}`
       );
     }
   };
