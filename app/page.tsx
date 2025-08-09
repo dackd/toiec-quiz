@@ -119,7 +119,7 @@ export default function Home() {
           <h1 className="text-xl font-bold mb-2">Test Your Knowledge with</h1>
           <h1 className="text-xl font-bold mb-4">Quizzes</h1>
           <p className="text-blue-100 mb-6">
-            We're ready to help you learn and
+            We&apos;re ready to help you learn and
             <br />
             practice new concepts
           </p>
