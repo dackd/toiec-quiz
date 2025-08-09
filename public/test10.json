@@ -1,0 +1,335 @@
+{
+    "category": "TEST 10",
+    "questions": [
+        {
+            "question": "According to the department head, __________ are ready to begin work on the Arborney Bridge project.",
+            "questionNumber": 101,
+            "answers": [
+                "(A) us",
+                "(B) we",
+                "(C) our",
+                "(D) ours"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "The policy prohibiting visitor access to the laboratory must be __________ followed.",
+            "questionNumber": 102,
+            "answers": [
+                "(A) strictly",
+                "(B) bitterly",
+                "(C) sizably",
+                "(D) colorfully"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "Yoon-Hee Kim is the __________ graduate of Serrica University to lead a Fortune 500 company.",
+            "questionNumber": 103,
+            "answers": [
+                "(A) most",
+                "(B) for",
+                "(C) first",
+                "(D) nearly"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "Contact Frank Marilli in the IT department __________ you have any problems with the new database software.",
+            "questionNumber": 104,
+            "answers": [
+                "(A) and",
+                "(B) then",
+                "(C) but",
+                "(D) if"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "A __________ efficiency expert will be visiting our work site in early November.",
+            "questionNumber": 105,
+            "answers": [
+                "(A) led",
+                "(B) leader",
+                "(C) leading",
+                "(D) leads"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "At Gallant's Pet Store, customer __________ are accepted between 9:00 A.M. and 6:00 P.M.",
+            "questionNumber": 106,
+            "answers": [
+                "(A) behaviors",
+                "(B) relations",
+                "(C) orders",
+                "(D) types"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "The management at Carette Industries __________ values the work of the research team.",
+            "questionNumber": 107,
+            "answers": [
+                "(A) high",
+                "(B) highly",
+                "(C) highest",
+                "(D) higher"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "Pentrexa Pharmacy is able to __________ most prescriptions within one business day.",
+            "questionNumber": 108,
+            "answers": [
+                "(A) care",
+                "(B) earn",
+                "(C) fill",
+                "(D) lift"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "The __________ of a parking structure for Huron General Hospital will begin on June 1.",
+            "questionNumber": 109,
+            "answers": [
+                "(A) construct",
+                "(B) constructed",
+                "(C) construction",
+                "(D) constructs"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "Some of the flower beds surrounding Dale Valley Lodge had to be replanted __________ a recent rainstorm.",
+            "questionNumber": 110,
+            "answers": [
+                "(A) after",
+                "(B) among",
+                "(C) opposite",
+                "(D) beside"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "Several water stations __________ along the route of next week's marathon.",
+            "questionNumber": 111,
+            "answers": [
+                "(A) being installed",
+                "(B) will be installed",
+                "(C) to install",
+                "(D) installed"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "The Crown Lagoon Hotel has 150 rooms, each with a __________ view of the city.",
+            "questionNumber": 112,
+            "answers": [
+                "(A) valid",
+                "(B) recent",
+                "(C) modern",
+                "(D) scenic"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Overall, charitable donations rose last year, __________ specific dollar amounts are not yet available.",
+            "questionNumber": 113,
+            "answers": [
+                "(A) although",
+                "(B) neither",
+                "(C) whenever",
+                "(D) so"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "We strongly advise you to back up the data stored on your electronic device __________ turning it in for repairs.",
+            "questionNumber": 114,
+            "answers": [
+                "(A) once",
+                "(B) both",
+                "(C) then",
+                "(D) before"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Because Ms. Garcia enjoys creating charts and graphs, her supervisor asks her __________ to make materials for presentations.",
+            "questionNumber": 115,
+            "answers": [
+                "(A) frequent",
+                "(B) frequents",
+                "(C) frequenting",
+                "(D) frequently"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Manufacturers of high-end products are dealing with excess __________ because consumers are buying fewer luxury items.",
+            "questionNumber": 116,
+            "answers": [
+                "(A) confidence",
+                "(B) inventory",
+                "(C) capacity",
+                "(D) energy"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "The Hayle Group, __________ consists of business consultants and lawyers, advocates for tax policy reforms.",
+            "questionNumber": 117,
+            "answers": [
+                "(A) themselves",
+                "(B) someone",
+                "(C) whoever",
+                "(D) which"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Daishi Asayama is one of three applicants being __________ to oversee the Kingston franchises.",
+            "questionNumber": 118,
+            "answers": [
+                "(A) decided",
+                "(B) corrected",
+                "(C) considered",
+                "(D) practiced"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "The reviewer of Ms. Chen's book noted that her research was __________.",
+            "questionNumber": 119,
+            "answers": [
+                "(A) impressed",
+                "(B) impressive",
+                "(C) impress",
+                "(D) impression"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "Mr. Pereira has worked in our legal department __________ his transfer to the Atlanta office ten years ago.",
+            "questionNumber": 120,
+            "answers": [
+                "(A) since",
+                "(B) between",
+                "(C) without",
+                "(D) like"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "Pennypack Markets soon plans to break ground on its largest __________ center in the area.",
+            "questionNumber": 121,
+            "answers": [
+                "(A) distributive",
+                "(B) distribute",
+                "(C) distributable",
+                "(D) distribution"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Ms. Miller __________ welcomed the speakers who will be leading the workshops.",
+            "questionNumber": 122,
+            "answers": [
+                "(A) accessibly",
+                "(B) abundantly",
+                "(C) briefly",
+                "(D) momentarily"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "Mr. Nayar __________ the need for enhanced safety protocols long before the government issued a report on the topic.",
+            "questionNumber": 123,
+            "answers": [
+                "(A) stresses",
+                "(B) stressing",
+                "(C) will stress",
+                "(D) had stressed"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Angelia Financial recently announced __________ changes to its benefits package that were greeted enthusiastically by its staff.",
+            "questionNumber": 124,
+            "answers": [
+                "(A) judgmental",
+                "(B) substantial",
+                "(C) magnetic",
+                "(D) chaotic"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "__________ poems written by Mike Hanover are included in the new edition of Merwyn's Anthology.",
+            "questionNumber": 125,
+            "answers": [
+                "(A) Whichever",
+                "(B) Several",
+                "(C) Much",
+                "(D) None"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "For a list of local farms that supply food to restaurants, please __________ to the Hueland Farm Association Web site.",
+            "questionNumber": 126,
+            "answers": [
+                "(A) elect",
+                "(B) adapt",
+                "(C) present",
+                "(D) refer"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Samidu Communications is soliciting suggestions from its staff about ways of improving employee __________.",
+            "questionNumber": 127,
+            "answers": [
+                "(A) produced",
+                "(B) productive",
+                "(C) productivity",
+                "(D) productively"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "Mr. Ben-Moshe always reserves the banquet room at Saitomi's Kitchen __________ the sales team has a holiday event.",
+            "questionNumber": 128,
+            "answers": [
+                "(A) whenever",
+                "(B) regarding",
+                "(C) whether",
+                "(D) besides"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "Annika Dulin __________ the marketing department at Tollason Industries' planning meeting tomorrow.",
+            "questionNumber": 129,
+            "answers": [
+                "(A) will represent",
+                "(B) had represented",
+                "(C) to represent",
+                "(D) be representing"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "Do not post any statements about the company on social media without prior __________.",
+            "questionNumber": 130,
+            "answers": [
+                "(A) authorization",
+                "(B) supplement",
+                "(C) consequence",
+                "(D) responsibility"
+            ],
+            "correctAnswer": "(A)"
+        }
+    ]
+}

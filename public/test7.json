@@ -1,0 +1,768 @@
+{
+    "category": "TEST 7",
+    "questions": [
+        {
+            "question": "Passengers must keep __________ boarding passes and luggage with them at all times.",
+            "questionNumber": 101,
+            "answers": [
+                "(A) their",
+                "(B) his",
+                "(C) my",
+                "(D) our"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là tính từ sở hữu của chủ ngữ 'passengers', bổ ngữ cho cụm danh từ 'boarding passes and luggage'"
+            ],
+            "answerSelection": [
+                "(A) their: của họ",
+                "(B) his: của anh",
+                "(C) my: của tôi",
+                "(D) our: của chúng tôi"
+            ],
+            "vocabulary": [
+                "passenger (n) Hành khách",
+                "boarding passes (np) vé lên máy bay",
+                "luggage (n) hành lý"
+            ]
+        },
+        {
+            "question": "The company's policy allows business travel by __________ train and airplane.",
+            "questionNumber": 102,
+            "answers": [
+                "(A) both",
+                "(B) either",
+                "(C) further",
+                "(D) hardly"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Phía sau sử dụng liên từ 'and' để nối hai danh từ “train” và “airplane” thể hiện hai loại phương tiện giao thông có thể sử dụng",
+                "Đáp án là liên từ đi cặp với 'and' để tạo thành liên từ tương quan",
+                "Nghĩa câu: Chính sách của công ty cho phép đi công tác bằng cả tàu hỏa và máy bay"
+            ],
+            "answerSelection": [
+                "(A) both: liên từ tương quan (kết hợp với 'and' mang nghĩa cả ... và...)",
+                "(B) either: liên từ tương quan (kết hợp với 'or' mang nghĩa hoặc ... hoặc...)",
+                "(C) further: tính từ so sánh hơn (hơn nữa)",
+                "(D) hardly: trạng từ chỉ tần suất (hiếm khi)"
+            ],
+            "vocabulary": [
+                "policy (n) Chính sách",
+                "business travel (np) công tác"
+            ]
+        },
+        {
+            "question": "The production technicians are __________ for maintaining our factory equipment.",
+            "questionNumber": 103,
+            "answers": [
+                "(A) responsibly",
+                "(B) responsible",
+                "(C) responsibility",
+                "(D) responsibilities"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng sau động từ liên kết “are\", đứng trước giới từ \"for\", đóng vai trò tính từ bổ ngữ cho chủ ngữ của câu",
+                "Đáp án là tính từ, bổ nghĩa cho cụm danh từ làm chủ ngữ “The production technicians\""
+            ],
+            "answerSelection": [
+                "(A) responsibly: trạng từ (chịu trách nhiệm về..)",
+                "(B) responsible: tính từ (chịu trách nhiệm về..)",
+                "(C) responsibility: danh từ (trách nhiệm)",
+                "(D) responsibilities: danh từ số nhiều (trách nhiệm)"
+            ],
+            "vocabulary": [
+                "production technicians (np) kỹ thuật viên sản xuất",
+                "maintain (v) bảo dưỡng"
+            ]
+        },
+        {
+            "question": "The team found Ms. Dietrich's advice on managing office staff to be especially __________.",
+            "questionNumber": 104,
+            "answers": [
+                "(A) helpful",
+                "(B) thankful",
+                "(C) regular",
+                "(D) extra"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là tính từ, bổ nghĩa cho tân ngữ \"advice\""
+            ],
+            "answerSelection": [
+                "(A) helpful: có ích, hữu ích",
+                "(B) thankful: biết ơn",
+                "(C) regular: bình thường, thông thường",
+                "(D) extra: them, nhiều them"
+            ],
+            "vocabulary": [
+                "advice (n) lời khuyên",
+                "office staff (np) nhân viên văn phòng"
+            ]
+        },
+        {
+            "question": "The film crew __________ in Namibia earlier this week to prepare for the promotional tourism campaign.",
+            "questionNumber": 105,
+            "answers": [
+                "(A) to arrive",
+                "(B) having arrived",
+                "(C) arrived",
+                "(D) arriving"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền theo sau chủ ngữ \"the film crew\", đóng vai trò là động từ chính trong câu, trong câu trạng từ chỉ thời gian \"earlier this week\"",
+                "Nghĩa câu: Đoàn làm phim đã đến Namibia vào đầu tuần này để chuẩn bị cho chiến dịch quảng bá du lịch",
+                "Đáp án là động từ chia theo thì quá khứ đơn ở thể chủ động."
+            ],
+            "answerSelection": [
+                "(A) to arrive: động từ ở dạng nguyên mẫu có \"to\"",
+                "(B) having arrived: động từ chia ở dạng danh động từ hoàn thành",
+                "(C) arrived: động từ chia theo quá khứ đơn ở thể chủ động.",
+                "(D) arriving: động từ chia ở dạng danh động từ (V-ing)"
+            ],
+            "vocabulary": [
+                "film crew (np) Đoàn làm phim",
+                "promotional (a) quảng bá",
+                "tourism campaign (np) chiến dịch du lịch."
+            ]
+        },
+        {
+            "question": "The committee expects to be finished with the negotiations __________ 4:00 P.M.",
+            "questionNumber": 106,
+            "answers": [
+                "(A) over",
+                "(B) until",
+                "(C) on",
+                "(D) by"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền đứng trước cụm từ chỉ mốc thời gian \"4:00 P.M.\", chỉ việc sẽ hoàn thành vào khoảng thời gian nào",
+                "Nghĩa câu: Ủy ban mong muốn kết thúc cuộc đàm phán trước 4:00 chiều.",
+                "Phương án (D) by là phù hợp nhất."
+            ],
+            "answerSelection": [
+                "(A) over: ở trên (đi chung với khoảng thời gian)",
+                "(B) until: mang nghĩa cho đến (up to) một thời điểm",
+                "(C) on: vào (dùng cho ngày)",
+                "(D) by: trước (một mốc thời gian)"
+            ],
+            "vocabulary": [
+                "committee (n) Ủy ban",
+                "negotiation (n) cuộc đàm phán"
+            ]
+        },
+        {
+            "question": "United Medical Board is an __________ panel of physicians that makes recommendations for hospital improvements.",
+            "questionNumber": 107,
+            "answers": [
+                "(A) expertise",
+                "(B) expert",
+                "(C) expertness",
+                "(D) expertly"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng sau mạo từ \"an\", đứng trước danh từ \"panel of...\"",
+                "Nghĩa câu: United Medical Board là một hội đồng chuyên gia gồm các bác sĩ đưa ra các khuyến nghị để cải thiện bệnh viện.",
+                "Đáp án là tính từ, bổ nghĩa cho danh từ"
+            ],
+            "answerSelection": [
+                "(A) expertise: danh từ (sự thành thạo)",
+                "(B) expert: tính từ (thành thạo, tinh thông)",
+                "(C) expertness: danh từ (sự thành thạo)",
+                "(D) expertly: trạng từ (một cách thành thạo)"
+            ],
+            "vocabulary": [
+                "United Medical Board (np) Uỷ ban Y tế Mỹ",
+                "panel of physicians (np) hội đồng bác sĩ",
+                "recommendations (n) các khuyến nghị"
+            ]
+        },
+        {
+            "question": "Digital payments are __________ accepted at all Southern Coach bus stations.",
+            "questionNumber": 108,
+            "answers": [
+                "(A) tightly",
+                "(B) far",
+                "(C) after",
+                "(D) now"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền là trạng từ, bổ nghĩa cho động từ \"are...accepted\""
+            ],
+            "answerSelection": [
+                "(A) tightly: một cách chặt chẽ",
+                "(B) far: xa xôi",
+                "(C) after: sau đó",
+                "(D) now: hiện"
+            ],
+            "vocabulary": [
+                "digital (a) thuộc về số",
+                "payment (n) thanh toán"
+            ]
+        },
+        {
+            "question": "The fund-raising event for the library was successful, __________ the author's reading was canceled.",
+            "questionNumber": 109,
+            "answers": [
+                "(A) seldom",
+                "(B) though",
+                "(C) rarely",
+                "(D) secondly"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Phía sau chỗ trống là mệnh đề có chủ ngữ là \"the author's reading\" và cụm động từ \"was canceled\"",
+                "Hai vế câu đang thể hiện 02 loại thông tin tương phản.",
+                "Về đầu tiên đề cập đến việc \"gây quỹ thành công\", ở về sau để cập thông tin hoạt động bị hủy.",
+                "Từ cần điền liên kết mệnh đề mang nội dung chính \"The fund-raising event for the library was successful\" và mệnh đề phụ có nội dung ít quan trọng hơn \"the author's reading was canceled\" để tạo nên mối quan hệ tương phản"
+            ],
+            "answerSelection": [
+                "(A) seldom: giới từ mang nghĩa phủ định, cần đảo ngữ (hiếm khi)",
+                "(B) though: liên từ tương phản (mặc dù)",
+                "(C) rarely: giới từ mang nghĩa phủ định, cần đảo ngữ (hiếm khi)",
+                "(D) secondly: liên từ chỉ thứ tự (thứ hai)"
+            ],
+            "vocabulary": [
+                "fund-raising event (np) Sự kiện gây quỹ",
+                "author (n) tác giả",
+                "cancel (v) hủy"
+            ]
+        },
+        {
+            "question": "To __________ the status of your delivery, select the Track Order option in the drop-down menu.",
+            "questionNumber": 110,
+            "answers": [
+                "(A) place",
+                "(B) want",
+                "(C) check",
+                "(D) look"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền là động từ, theo sau giới từ \"to\", tác động lên tân ngữ \" the status of your delivery\""
+            ],
+            "answerSelection": [
+                "(A) place: đặt (vào vị trí nào)",
+                "(B) want: muốn",
+                "(C) check: kiểm tra",
+                "(D) look: nhìn"
+            ],
+            "vocabulary": [
+                "track (v) theo dõi",
+                "drop-down menu (np) menu thả xuống"
+            ]
+        },
+        {
+            "question": "Our project-based mentoring approach enables executives with limited time __________ junior staff.",
+            "questionNumber": 111,
+            "answers": [
+                "(A) to counsel",
+                "(B) should counsel",
+                "(C) counseling",
+                "(D) counseled"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền theo sau cụm danh từ \"limited time\", bổ nghĩa cho danh từ này, tác động lên tân ngữ \"junior staff\"",
+                "Nghĩa câu: Phương pháp hướng dẫn dựa trên dự án của chúng tôi cho phép các quản lý có thời gian giới hạn có thể tư vấn nhân viên mới.",
+                "Đáp án là động từ nguyên mẫu có \"to\""
+            ],
+            "answerSelection": [
+                "(A) to counsel: động từ nguyên mẫu có \"to\"",
+                "(B) should counsel: động từ nguyên mẫu theo sau động từ khiếm khuyết \"should\"",
+                "(C) counseling: động từ dạng danh động từ (V-ing)",
+                "(D) counseled: động từ dạng quá khứ quân từ (V3-ed)"
+            ],
+            "vocabulary": [
+                "project-based (a) dựa trên dự án",
+                "mentor (v) hướng dẫn",
+                "approach (n) Phương pháp",
+                "enable (v) cho phép",
+                "executive (n) quản lý",
+                "counsel (v) tư vấn"
+            ]
+        },
+        {
+            "question": "Mr. Yerkes is updating our quarterly sales __________ after receiving the final report from the Boston office.",
+            "questionNumber": 112,
+            "answers": [
+                "(A) measures",
+                "(B) grounds",
+                "(C) instructions",
+                "(D) figures"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền là danh từ, kết hợp với danh từ \"sales\" tạo thành danh từ ghép"
+            ],
+            "answerSelection": [
+                "(A) measures: biện pháp",
+                "(B) grounds: lý do",
+                "(C) instructions: hướng dẫn",
+                "(D) figures: số liệu"
+            ],
+            "vocabulary": [
+                "quarterly (adv) hàng quý",
+                "sales figures: doanh số bán hàng"
+            ]
+        },
+        {
+            "question": "__________ up your desk with beautiful paper products from Norimi Stationery.",
+            "questionNumber": 113,
+            "answers": [
+                "(A) Brightens",
+                "(B) Brighten",
+                "(C) Brightened",
+                "(D) Brightening"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng đầu câu, trong câu không có động từ nào khác",
+                "Nghĩa câu: Hãy làm bừng sáng bàn làm việc của bạn với những sản phẩm giấy xinh xắn từ Văn phòng phẩm Norimi.",
+                "Đáp án là động từ chia nguyên mẫu ở dạng câu đề nghị"
+            ],
+            "answerSelection": [
+                "(A) Brightens: động từ chia thì hiện tại đơn số ít",
+                "(B) Brighten: động từ nguyên mẫu",
+                "(C) Brightened: động từ dạng quá khứ phân từ",
+                "(D) Brightening: động từ dạng hiện tại phân từ"
+            ],
+            "vocabulary": [
+                "stationery (n) văn phòng phẩm"
+            ]
+        },
+        {
+            "question": "Ultitemp, an application that allows users to __________ room temperature remotely, is currently available only in Asia.",
+            "questionNumber": 114,
+            "answers": [
+                "(A) control",
+                "(B) impose",
+                "(C) announce",
+                "(D) encourage"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là động từ, đứng sau giới từ \"to\", tác động lên tân ngữ \"room temperature\""
+            ],
+            "answerSelection": [
+                "(A) control: kiểm soát, điều khiển",
+                "(B) impose: áp đặt, bắt buộc",
+                "(C) announce: thông báo",
+                "(D) encourage: khuyến khích"
+            ],
+            "vocabulary": [
+                "remotely (adv) từ xa",
+                "currently (adv) hiện nay"
+            ]
+        },
+        {
+            "question": "__________ the cost of travel, the cost of attending the conference is reasonable.",
+            "questionNumber": 115,
+            "answers": [
+                "(A) Along",
+                "(B) Even if",
+                "(C) Aside from",
+                "(D) Because"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Phía sau chỗ trống là cụm danh từ \"the cost of travel\"",
+                "Nghĩa câu: Ngoài chi phí đi lại, thì chi phí tham gia hội nghị khá là hợp lý",
+                "Đáp án là giới từ mang nghĩa phù hợp với câu"
+            ],
+            "answerSelection": [
+                "(A) Along : giới từ, theo sau là cụm danh từ/ Ving, đi kèm với “with (cùng với)",
+                "(B) Even if: liên từ, theo sau là mệnh đề (mặc dù)",
+                "(C) Aside from: giới từ, theo sau là cụm danh từ/ Ving (bên cạnh, ngoại trừ)",
+                "(D) Because: liên từ, theo sau là mệnh đề (bởi vì)"
+            ],
+            "vocabulary": [
+                "reasonable (a) hợp lý"
+            ]
+        },
+        {
+            "question": "Customers are __________ anticipating the latest model pickup truck from Askio Automobiles.",
+            "questionNumber": 116,
+            "answers": [
+                "(A) eagerly",
+                "(B) sharply",
+                "(C) voluntarily",
+                "(D) rapidly"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là trạng từ, bổ nghĩa cho động từ \"are ------anticipating\""
+            ],
+            "answerSelection": [
+                "(A) eagerly: một cách hào hứng",
+                "(B) sharply: một cách chuẩn xác",
+                "(C) voluntarily: một cách tự nguyện",
+                "(D) rapidly: một cách nhanh chóng"
+            ],
+            "vocabulary": [
+                "anticipate (v) mong đợi",
+                "latest (a) mới nhất",
+                "pickup truck (np) xe bán tải"
+            ]
+        },
+        {
+            "question": "Once you have Mr. Garcia's __________, please post the job listing to the usual Web sites.",
+            "questionNumber": 117,
+            "answers": [
+                "(A) approve",
+                "(B) approves",
+                "(C) approval",
+                "(D) approving"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng sau mạo cụm tính từ sở hữu \"Mr. Garcia's -------\"",
+                "Nghĩa câu: Khi bạn đã có sự chấp thuận của ông Garcia, hãy đăng thông tin tuyển dụng lên các trang web thường dùng.",
+                "Đáp án là danh từ"
+            ],
+            "answerSelection": [
+                "(A) approve: động từ nguyên mẫu (đồng ý)",
+                "(B) approves: động từ chia thì hiện tại đơn số ít (đồng ý)",
+                "(C) approval: danh từ (sự chấp thuận, đồng ý)",
+                "(D) approving: tính từ (đồng ý)"
+            ],
+            "vocabulary": [
+                "job listing (np) thông tin tuyển dụng"
+            ]
+        },
+        {
+            "question": "Dabby's Restaurant broadened its customer base by making __________ changes to its menu.",
+            "questionNumber": 118,
+            "answers": [
+                "(A) extensive",
+                "(B) precious",
+                "(C) commercial",
+                "(D) accurate"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là tính từ, bổ nghĩa cho danh từ \"changes\""
+            ],
+            "answerSelection": [
+                "(A) extensive: toàn diện, lớn",
+                "(B) precious: quý giá",
+                "(C) commercial: quảng cáo",
+                "(D) accurate: chính xác"
+            ],
+            "vocabulary": [
+                "broaden (v) mở rộng",
+                "customer base (np) cơ sở tệp khách hàng"
+            ]
+        },
+        {
+            "question": "The redesigned intersection __________ shortens the street-crossing distance for pedestrians, making it safer.",
+            "questionNumber": 119,
+            "answers": [
+                "(A) effectively",
+                "(B) effects",
+                "(C) effective",
+                "(D) effected"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng trước động từ \"shorten\" và bổ nghĩa cho động từ này",
+                "Nghĩa câu: Giao lộ được thiết kế giúp rút ngắn khoảng cách qua đường cho người đi bộ một cách hiệu quả, giúp việc qua đường trở nên an toàn hơn.",
+                "Đáp án là trạng từ, bổ nghĩa cho động từ"
+            ],
+            "answerSelection": [
+                "(A) effectively: trạng từ (một cách hiệu quả)",
+                "(B) effects: danh từ số nhiều (hiệu quả)",
+                "(C) effective: tính từ (có tính hiệu quả)",
+                "(D) effected: động từ chia V3-ed"
+            ],
+            "vocabulary": [
+                "intersection (n) Giao lộ, ngã tư",
+                "pedestrian (n) người đi bộ",
+                "shorten (v) rút gọn"
+            ]
+        },
+        {
+            "question": "Workshop attendees are asked to __________ from asking questions until the end of the formal presentation.",
+            "questionNumber": 120,
+            "answers": [
+                "(A) refrain",
+                "(B) forbid",
+                "(C) retreat",
+                "(D) hesitate"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là động từ, đi kèm với giới từ \"from\""
+            ],
+            "answerSelection": [
+                "(A) refrain: kiềm chế, cố gắng không ..",
+                "(B) forbid: nghiêm cấm",
+                "(C) retreat: rút lui",
+                "(D) hesitate: do dự"
+            ],
+            "vocabulary": [
+                "attendee (n) người tham dự"
+            ]
+        },
+        {
+            "question": "The Tamano Foundation accepts grant __________ related to a wide range of scientific research.",
+            "questionNumber": 121,
+            "answers": [
+                "(A) proposes",
+                "(B) proposed",
+                "(C) proposals",
+                "(D) proposing"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng sau danh từ \"grant\", tạo thành danh từ ghép",
+                "Nghĩa câu: Quỹ Tamano chấp nhận đề xuất tài trợ liên quan đến nhiều nghiên cứu khoa học.",
+                "Đáp án là danh từ"
+            ],
+            "answerSelection": [
+                "(A) proposes: động từ chia hiện tại đơn số ít (đề xuất)",
+                "(B) proposed : động từ chia V3/ed (đề xuất)",
+                "(C) proposals: danh từ số nhiều ( lời đề xuất)",
+                "(D) proposing: động từ chia Ving (đề xuất)"
+            ],
+            "vocabulary": [
+                "grant (n) tài trợ",
+                "related to: liên quan đến"
+            ]
+        },
+        {
+            "question": "Gateway Electronics will cancel any orders that have not been picked up __________ five days.",
+            "questionNumber": 122,
+            "answers": [
+                "(A) about",
+                "(B) during",
+                "(C) within",
+                "(D) from"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng trước cụm từ chỉ khoảng thời gian \"five days.\"",
+                "Nghĩa câu: Gateway Electronics sẽ hủy mọi đơn hàng chưa được lấy trong vòng năm ngày.",
+                "Phương án (C) about là phù hợp nhất."
+            ],
+            "answerSelection": [
+                "(A) about: khoảng",
+                "(B) during: trong vòng (từ đầu đến cuối của một thời kỳ cụ thể nào đó)",
+                "(C) within: trong vòng (sự việc hoặc hành động đó phải được xảy ra hay thực hiện trước thời hạn cụ thể qua đi.)",
+                "(D) from: kể từ (mốc thời gian)"
+            ],
+            "vocabulary": [
+                "Electronics (n) cửa hàng điện tử",
+                "pick up (v) nhận, đón lấy"
+            ]
+        },
+        {
+            "question": "__________ who arrives at the company parking garage after 10:00 A.M. must contact security for an access code.",
+            "questionNumber": 123,
+            "answers": [
+                "(A) Each",
+                "(B) Those",
+                "(C) Everything",
+                "(D) Anyone"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền là đại từ, làm chủ ngữ cho động từ \"must contact\" và danh từ cho mệnh đề quan hệ \"who arrives at the company parking garage after 10:00 Α.Μ\""
+            ],
+            "answerSelection": [
+                "(A) Each: định lượng từ, đi kèm với danh từ số ít (mỗi)",
+                "(B) Those: đại từ số nhiều (những người/vật)",
+                "(C) Everything: đại từ chỉ sự vật, sự việc (mọi thứ)",
+                "(D) Anyone: đại từ bất định chỉ người, số ít (bất kì ai)"
+            ],
+            "vocabulary": [
+                "parking garage (np) bãi đậu xe",
+                "security (n) bộ phận bảo vệ"
+            ]
+        },
+        {
+            "question": "To get to the conference room, turn left __________ after passing the employee cafeteria.",
+            "questionNumber": 124,
+            "answers": [
+                "(A) immediately",
+                "(B) recently",
+                "(C) originally",
+                "(D) lately"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là trạng từ, bổ nghĩa cho động từ \"turn left\""
+            ],
+            "answerSelection": [
+                "(A) immediately: ngay lập tức",
+                "(B) recently: gần đây",
+                "(C) originally: ban đầu",
+                "(D) lately: gần đây"
+            ],
+            "vocabulary": [
+                "pass (v) đi qua"
+            ]
+        },
+        {
+            "question": "The wellness __________ at Trayer Media Group directly led to greater employee satisfaction with the company.",
+            "questionNumber": 125,
+            "answers": [
+                "(A) initiate",
+                "(B) initiator",
+                "(C) initiated",
+                "(D) initiative"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền đứng sau danh từ \"wellness\"",
+                "Nghĩa câu: Những thay đổi về sáng kiến chăm sóc sức khỏe tại Trayer Media Group đã trực tiếp khiến nhân viên hài lòng hơn với công ty.",
+                "Đáp án là danh từ, tạo thành danh từ ghép"
+            ],
+            "answerSelection": [
+                "(A) initiate: động từ nguyên mẫu (bắt đầu, khởi xưởng)",
+                "(B) initiator: danh từ (người bắt đầu, khởi xưởng)",
+                "(C) initiated: động từ chia quá khứ đơn (bắt đầu, khởi xưởng)",
+                "(D) initiative: danh từ (sáng kiến)"
+            ],
+            "vocabulary": [
+                "wellness (n) sức khỏe",
+                "lead to (v) dẫn đến",
+                "directly (adv) trực tiếp"
+            ]
+        },
+        {
+            "question": "We will keep producing our signature shoe designs __________ there is demand for them.",
+            "questionNumber": 126,
+            "answers": [
+                "(A) or else",
+                "(B) as long as",
+                "(C) as well as",
+                "(D) in between"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Phía sau chỗ trống là mệnh đề \"there is demand for them\", có tác dụng liên kết hai vế của câu",
+                "Nghĩa câu: Chúng tôi sẽ tiếp tục sản xuất các thiết kế giày đặc trưng của mình miễn là có nhu cầu về chúng.",
+                "Đáp án là liên từ mang nghĩa phù hợp với câu"
+            ],
+            "answerSelection": [
+                "(A) or else: liên từ, theo sau bởi mệnh đề (nếu không thì)",
+                "(B) as long as: liên từ, theo sau bởi mệnh đề (miễn là)",
+                "(C) as well as: liên từ, theo sau bởi mệnh đề/cụm từ (cũng như là)",
+                "(D) in between: giới từ, theo sau bởi cụm từ (ở giữa)"
+            ],
+            "vocabulary": [
+                "signature (a) đặc trưng",
+                "demand (n) nhu cầu"
+            ]
+        },
+        {
+            "question": "Regular applications of fertilizer improve seedling health and __________ enhance the growth of leafy vegetables.",
+            "questionNumber": 127,
+            "answers": [
+                "(A) drama",
+                "(B) dramatic",
+                "(C) dramatically",
+                "(D) dramatize"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng trước động từ \"enhance\"",
+                "Nghĩa câu: Việc sử dụng phân bón đều đặn cải thiện sức khỏe cây giống và tăng cường đáng kể sự phát triển của rau xanh.",
+                "Đáp án là trạng từ, bổ nghĩa cho động từ \"enhance\""
+            ],
+            "answerSelection": [
+                "(A) drama: danh từ (vở kịch, biến cố)",
+                "(B) dramatic: tính từ (gây ấn tượng)",
+                "(C) dramatically: trạng từ (một cách đáng kể)",
+                "(D) dramatize: động từ (kịch tính hóa)"
+            ],
+            "vocabulary": [
+                "applications (n) Việc sử dụng",
+                "fertilizer (n) phân bón",
+                "enhance (v) tăng cường",
+                "leafy vegetables (n) rau xanh"
+            ]
+        },
+        {
+            "question": "Wantner Manufacturing received this year's Top Employer Award in __________ of its people-centered workplace environment.",
+            "questionNumber": 128,
+            "answers": [
+                "(A) service",
+                "(B) accordance",
+                "(C) recognition",
+                "(D) dedication"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền là danh từ, kết hợp với hai giới từ “in” và “of”"
+            ],
+            "answerSelection": [
+                "(A) service: phục vụ (of/in service)",
+                "(B) accordance: theo như, tuân theo (in accordance with)",
+                "(C) recognition: ghi nhận, công nhận (in recognition of)",
+                "(D) dedication: cống hiến, tận tâm (dedication to)"
+            ],
+            "vocabulary": [
+                "people-centered (a) lấy con người làm trung tâm",
+                "manufacture (v) sản xuất"
+            ]
+        },
+        {
+            "question": "The editor noted some __________ marked the text to be deleted.",
+            "questionNumber": 129,
+            "answers": [
+                "(A) repetition",
+                "(B) repetitious",
+                "(C) repetitiously",
+                "(D) repetitiousness"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng sau định lượng từ \"some\", đứng trước danh từ \"content\"",
+                "Nghĩa câu: Người biên tập đã chú ý một số nội dung lặp lại và đánh dấu văn bản cần xóa.",
+                "Đáp án là tính từ, bổ nghĩa cho danh từ"
+            ],
+            "answerSelection": [
+                "(A) repetition: danh từ (sự nhắc lại, lặp lại)",
+                "(B) repetitious: tính từ (lặp đi lặp lại)",
+                "(C) repetitiously: trạng từ (một cách lặp đi lặp lại)",
+                "(D) repetitiousness: danh từ (tính chất lặp đi lặp lại)"
+            ],
+            "vocabulary": [
+                "editor (n) Người biên tập",
+                "content (n) nội dung",
+                "mark (n) đánh dấu"
+            ]
+        },
+        {
+            "question": "Bay City Zoo members get __________ access to content and members-only activities, such as after-hours guided tours.",
+            "questionNumber": 130,
+            "answers": [
+                "(A) exclusive",
+                "(B) unknown",
+                "(C) creative",
+                "(D) previous"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là tính từ, bổ nghĩa cho danh từ \"access\""
+            ],
+            "answerSelection": [
+                "(A) exclusive: độc quyền, dành riêng",
+                "(B) unknown: vô danh",
+                "(C) creative: sáng tạo",
+                "(D) previous: trước đó"
+            ],
+            "vocabulary": [
+                "get access to (vp) tiếp cận, truy cập",
+                "after-hours (a) sau giờ làm việc"
+            ]
+        }
+    ]
+}

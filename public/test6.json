@@ -1,0 +1,839 @@
+{
+    "category": "TEST 6",
+    "questions": [
+        {
+            "question": "The new policy allows employees to set __________ own working hours under certain conditions.",
+            "questionNumber": 101,
+            "answers": [
+                "(A) they",
+                "(B) their",
+                "(C) theirs",
+                "(D) themselves"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng trước cụm danh từ 'own working hours', đóng vai trò là tính từ bổ nghĩa cho cụm danh từ này.",
+                "Nghĩa câu: Chính sách mới cho phép nhân viên tự đặt giờ làm việc của họ theo những điều kiện nhất định",
+                "Đáp án là tính từ sở hữu."
+            ],
+            "answerSelection": [
+                "(A) they: đại từ chủ ngữ",
+                "(B) their: tính từ sở hữu",
+                "(C) theirs: đại từ sở hữu",
+                "(D) themselves: đại từ phản thân"
+            ],
+            "vocabulary": [
+                "policy (n): chính sách",
+                "allow (v): cho phép",
+                "working hour (n): giờ làm việc",
+                "condition (n): điều kiện"
+            ]
+        },
+        {
+            "question": "Based on last year's data, Paik Company increased its sales projections __________ the current year.",
+            "questionNumber": 102,
+            "answers": [
+                "(A) when",
+                "(B) for",
+                "(C) if",
+                "(D) or"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Phía sau chỗ trống là cụm danh từ chỉ thời gian 'the current year'.",
+                "Nghĩa câu: Dựa trên dữ liệu của năm ngoái, Công ty Paik đã tăng dự báo doanh số bán hàng cho năm hiện tại.",
+                "Đáp án là giới từ kết hợp với cụm danh từ tạo thành một cụm giới từ (cung cấp thông tin về thời điểm tăng dự báo doanh số bán hàng)."
+            ],
+            "answerSelection": [
+                "(A) when: liên từ phụ thuộc mang nghĩa 'khi'",
+                "(B) for: giới từ mang nghĩa 'cho'",
+                "(C) if: liên từ phụ thuộc mang nghĩa 'nếu'",
+                "(D) or: liên từ kết hợp mang nghĩa 'hoặc là'"
+            ],
+            "vocabulary": [
+                "data (n): dữ liệu",
+                "increase (v/n) tăng, sự tăng",
+                "sales projection (n): dự đoán doanh số bán hàng",
+                "current (adj): hiện tại"
+            ]
+        },
+        {
+            "question": "Harbison's Department Store interviews applicants __________ standard business hours.",
+            "questionNumber": 103,
+            "answers": [
+                "(A) among",
+                "(B) beside",
+                "(C) during",
+                "(D) onto"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền kết hợp với cụm danh từ đứng sau nó 'standard business hours' để tạo thành một cụm giới từ chỉ một khoảng thời gian nhất định.",
+                "Nghĩa câu: Cửa hàng bách hóa Harbison phỏng vấn các ứng viên trong suốt giờ làm việc tiêu chuẩn.",
+                "Phương án (C) during là phù hợp nhất."
+            ],
+            "answerSelection": [
+                "(A) among: giới từ (ở giữa, trong số)",
+                "(B) beside: giới từ (bên cạnh)",
+                "(C) during: giới từ (trong suốt, trong thời gian)",
+                "(D) onto: giới từ (về phía trên)"
+            ],
+            "vocabulary": [
+                "department store (n): cửa hàng bách hóa",
+                "interview (v): phỏng vấn",
+                "applicant (n): người ứng tuyển",
+                "standard (adj): tiêu chuẩn"
+            ]
+        },
+        {
+            "question": "Takealong Industries' commercial propane heaters deliver more warmth to __________ areas.",
+            "questionNumber": 104,
+            "answers": [
+                "(A) wideness",
+                "(B) widen",
+                "(C) wider",
+                "(D) widely"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng trước danh từ 'areas', đóng vai trò là tính từ bổ nghĩa cho danh từ này.",
+                "Nghĩa câu: Các máy sưởi bình phong dành cho thương mại của Takealong Industries cung cấp nhiều hơi ấm hơn cho diện tích rộng hơn.",
+                "Đáp án là tính từ ở dạng so sánh hơn (comparative form)"
+            ],
+            "answerSelection": [
+                "(A) wideness: danh từ (sự rộng rãi)",
+                "(B) widen: động từ (mở rộng)",
+                "(C) wider: tính từ ở dạng so sánh hơn (rộng hơn)",
+                "(D) widely: trạng từ (rộng khắp)"
+            ],
+            "vocabulary": [
+                "commercial (adj): thương mại",
+                "heater (n): máy sưởi",
+                "warmth (n): sự ấm áp",
+                "area (n): khu vực"
+            ]
+        },
+        {
+            "question": "By switching to new project-management software, the editorial team has __________ improved its publication processes.",
+            "questionNumber": 105,
+            "answers": [
+                "(A) great",
+                "(B) greatly",
+                "(C) greater",
+                "(D) greatest"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng giữa trợ động từ 'has' và động từ thường 'improved', đóng vai trò là một trạng từ bổ nghĩa cho động từ 'improved'.",
+                "Nghĩa câu: Bằng cách chuyển sang phần mềm quản lý dự án mới, nhóm biên tập đã cải thiện đáng kể quy trình xuất bản của mình.",
+                "Đáp án là trạng từ chỉ mức độ."
+            ],
+            "answerSelection": [
+                "(A) great: tính từ (lớn, tuyệt vời)",
+                "(B) greatly: trạng từ (đáng kể)",
+                "(C) greater: tính từ ở dạng so sánh hơn (lớn hơn)",
+                "(D) greatest: tính từ ở dạng so sánh nhất (lớn nhất)"
+            ],
+            "vocabulary": [
+                "switch (v): chuyển đổi",
+                "project-management software (n): phần mềm quản lý dự án",
+                "editorial team (n): nhóm biên tập",
+                "publication process (n): quy trình phát hành/sản xuất sách, bài báo"
+            ]
+        },
+        {
+            "question": "The search committee __________ three candidates for the chief executive position.",
+            "questionNumber": 106,
+            "answers": [
+                "(A) nominating",
+                "(B) nomination",
+                "(C) has nominated",
+                "(D) has been nominated"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền nằm sau chủ ngữ và trước tân ngữ. Câu đang thiếu một động từ chính, do đó từ cần điền đóng vai trò là một động từ chính trong câu.",
+                "Nghĩa câu: Ủy ban tuyển chọn đã đề cử ba ứng viên cho vị trí giám đốc điều hành.",
+                "Đáp án là động từ chia theo thì hiện tại hoàn thành ở thể chủ động."
+            ],
+            "answerSelection": [
+                "(A) nominating: danh động từ ở dạng động từ thêm -ing",
+                "(B) nomination: danh từ",
+                "(C) has nominated: động từ được chia theo thì hiện tại hoàn thành (thể chủ động)",
+                "(D) has been nominated: động từ được chia theo thì hiện tại hoàn thành (thể bị động)"
+            ],
+            "vocabulary": [
+                "search committee (n): ủy ban tuyển chọn",
+                "candidate (n): ứng viên",
+                "chief executive (n): giám đốc điều hành",
+                "position (n): vị trí"
+            ]
+        },
+        {
+            "question": "__________ a two-month delay, new carpeting was installed in the east conference room.",
+            "questionNumber": 107,
+            "answers": [
+                "(A) Additionally",
+                "(B) Although",
+                "(C) After",
+                "(D) Furthermore"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng ở đầu câu, kết hợp với cụm danh từ đứng phía sau để đóng vai trò làm trạng ngữ cho câu, cung cấp thông tin về mối quan hệ thời gian giữa các sự kiện trong câu.",
+                "Nghĩa câu: Sau hai tháng trì hoãn, tấm thảm mới đã được lắp đặt trong phòng họp phía đông.",
+                "Đáp án là liên từ phụ thuộc bổ sung ý nghĩa về thời gian."
+            ],
+            "answerSelection": [
+                "(A) Additionally: trạng từ liên kết mang nghĩa 'ngoài ra, hơn nữa'",
+                "(B) Although: liên từ phụ thuộc mang nghĩa 'mặc dù'",
+                "(C) After: giới từ mang nghĩa “sau”",
+                "(D) Furthermore: trạng từ liên kết mang nghĩa 'hơn nữa'"
+            ],
+            "vocabulary": [
+                "carpeting (n): thảm trải sàn",
+                "install (v): lắp đặt",
+                "east (n): phía Đông",
+                "conference room (n): phòng họp"
+            ]
+        },
+        {
+            "question": "To boost __________, the Makeup Artist Academy is offering a free starter kit to new students.",
+            "questionNumber": 108,
+            "answers": [
+                "(A) enroll",
+                "(B) enrolled",
+                "(C) enrolling",
+                "(D) enrollment"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền đóng vai trò là tân ngữ của động từ 'boost', kết hợp với 'to boost' để tạo thành một cụm trạng từ bổ nghĩa cho câu, cung cấp thông tin về mục đích của hành động trong mệnh đề chính.",
+                "Nghĩa câu: Để tăng cường số lượng học viên ghi danh, học viện Makeup Artist đang cung cấp bộ trang bị khởi đầu miễn phí cho học viên mới.",
+                "Đáp án là một danh từ."
+            ],
+            "answerSelection": [
+                "(A) enroll: động từ (kết nạp vào, ghi danh)",
+                "(B) enrolled: động từ ở dạng quá khứ phân từ",
+                "(C) enrolling: động từ ở dạng hiện tại phân từ",
+                "(D) enrollment: danh từ (sự kết nạp, số lượng người được tuyển)"
+            ],
+            "vocabulary": [
+                "boost (v): tăng cường, sự tăng cường",
+                "academy (n): học viện, trường học",
+                "offer (v): cung cấp, sự cung cấp",
+                "kit (n): bộ dụng cụ"
+            ]
+        },
+        {
+            "question": "Because Lectula Furniture Company __________ its delivery times, we were able to set a firm opening date for the new hotel.",
+            "questionNumber": 109,
+            "answers": [
+                "(A) guarantees",
+                "(B) advises",
+                "(C) requires",
+                "(D) delays"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền nằm sau chủ ngữ và trước tân ngữ, đóng vai trò là động từ chính trong mệnh đề phụ thuộc.",
+                "Nghĩa câu: Vì Công ty Nội thất Lectula đảm bảo về thời gian giao hàng nên chúng tôi có thể ấn định ngày khai trương chắc chắn cho khách sạn mới."
+            ],
+            "answerSelection": [
+                "(A) guarantees: động từ chia ở thì hiện tại đơn (đảm bảo)",
+                "(B) advises: động từ chia ở thì hiện tại đơn (khuyên bảo)",
+                "(C) requires: động từ chia ở thì hiện tại đơn (đòi hỏi, yêu cầu)",
+                "(D) delays: động từ chia ở thì hiện tại đơn (làm trì hoãn, chậm trễ)"
+            ],
+            "vocabulary": [
+                "furniture (n): nội thất",
+                "delivery time (n): thời gian giao hàng",
+                "firm (adj): chắc chắn, kiên định",
+                "opening date (n): ngày khai trương"
+            ]
+        },
+        {
+            "question": "The computer technician was very __________ but was not able to solve my problem.",
+            "questionNumber": 110,
+            "answers": [
+                "(A) friendly",
+                "(B) neutral",
+                "(C) possible",
+                "(D) frequent"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền nằm sau động từ tobe và trạng từ 'very', đóng vai trò là một tính từ bổ nghĩa cho chủ ngữ 'the computer technician'."
+            ],
+            "answerSelection": [
+                "(A) friendly: tính từ (thân thiện)",
+                "(B) neutral: tính từ (trung lập)",
+                "(C) possible: tính từ (có thể)",
+                "(D) frequent: tính từ (thường xuyên, hay xảy ra)"
+            ],
+            "vocabulary": [
+                "technician (n): kỹ thuật viên",
+                "solve (v): giải quyết",
+                "problem (n): vấn đề"
+            ]
+        },
+        {
+            "question": "To make room for conference attendees, __________ visitors to the office building should use the rear parking area tomorrow.",
+            "questionNumber": 111,
+            "answers": [
+                "(A) regular",
+                "(B) regularly",
+                "(C) regularize",
+                "(D) regularity"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng trước danh từ 'visitors”, đóng vai trò là một tính từ bổ nghĩa cho danh từ này.",
+                "Nghĩa câu: Để nhường chỗ cho người tham dự hội nghị, những vị khách thường xuyên đến tòa nhà văn phòng nên sử dụng bãi đậu xe phía sau vào ngày mai.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) regular: tính từ (thường xuyên)",
+                "(B) regularly: trạng từ (một cách đều dặn, thường xuyên)",
+                "(C) regularize: động từ (làm theo đúng quy tắc, làm theo đúng thể thức)",
+                "(D) regularity: danh từ (tính đều đặn, tính quy củ)"
+            ],
+            "vocabulary": [
+                "make room for (idiom): để chỗ cho, dành chỗ cho",
+                "conference (n): hội nghị",
+                "attendee (n): người tham dự",
+                "rear (adj): phía sau",
+                "parking area (n): khu vực đậu xe"
+            ]
+        },
+        {
+            "question": "Employees must wear their security badge in a way that is __________ visible when in the building.",
+            "questionNumber": 112,
+            "answers": [
+                "(A) clearly",
+                "(B) recently",
+                "(C) evenly",
+                "(D) secretly"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền nằm sau động từ tobe và trước tính từ 'visible', đóng vai trò là một trạng từ bổ nghĩa cho tính từ đứng sau nó.",
+                "Nghĩa câu: Nhân viên phải đeo thẻ an ninh sao cho có thể nhìn thấy một cách rõ ràng khi ở trong tòa nhà.",
+                "Đáp án là trạng từ mang nghĩa phù hợp với ngữ cảnh."
+            ],
+            "answerSelection": [
+                "(A) clearly: trạng từ (một cách rõ ràng)",
+                "(B) recently: trạng từ (gần đây, mới đây)",
+                "(C) evenly: trạng từ (ngang nhau, như nhau)",
+                "(D) secretly: trạng từ (một cách thầm kín, bí mật)"
+            ],
+            "vocabulary": [
+                "employee (n): nhân viên",
+                "security badge (n): thẻ an ninh",
+                "visible (adj): có thể nhìn thấy"
+            ]
+        },
+        {
+            "question": "Ms. Phon wanted to attend the gallery opening; __________, the inclement weather made that impossible.",
+            "questionNumber": 113,
+            "answers": [
+                "(A) therefore",
+                "(B) following",
+                "(C) however",
+                "(D) for example"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền nằm ở giữa câu (cụ thể đứng sau dấu chấm phẩy và đứng trước dấu phẩy), đóng vai trò là một trạng từ liên kết nối hai mệnh đề trong câu lại với nhau.",
+                "Vì hai mệnh đề trong câu mang tính đối lập nhau nên chỗ trống cần điền một trạng từ liên kết thể hiện được tính đối lập này.",
+                "Nghĩa câu: Cô Phon muốn tham dự buổi khai trương phòng trưng bày; tuy nhiên, thời tiết khắc nghiệt khiến điều đó không thể thực hiện được.",
+                "Đáp án là trạng từ liên kết thể hiện tính đối lập."
+            ],
+            "answerSelection": [
+                "(A) therefore: trạng từ liên kết (mặc dù)",
+                "(B) following: giới từ (tiếp theo, theo sau)",
+                "(C) however: trạng từ liên kết (tuy nhiên)",
+                "(D) for example: trạng từ liên kết (ví dụ)"
+            ],
+            "vocabulary": [
+                "attend (v): tham dự",
+                "gallery (n): phòng trưng bày",
+                "opening (n): sự khai trương",
+                "inclement (adj): khắc nghiệt, thời tiết khắc nghiệt",
+                "impossible (adj): không thể, không khả thi"
+            ]
+        },
+        {
+            "question": "Giving leadership tasks to warehouse package handlers often __________ them to work more productively.",
+            "questionNumber": 114,
+            "answers": [
+                "(A) adopts",
+                "(B) reinforces",
+                "(C) motivates",
+                "(D) attracts"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng sau chủ ngữ 'Giving leadership tasks to warehouse package handlers', đứng trước tân ngữ 'them'.",
+                "Như vậy, từ cần điền là động từ chính của câu.",
+                "Nghĩa câu: Giao nhiệm vụ lãnh đạo cho những người xử lý gói hàng trong kho thường thúc đẩy họ làm việc hiệu quả hơn.",
+                "Đáp án là động từ được chia ở thì hiện tại đơn, mang nghĩa phù hợp với ngữ cảnh của câu."
+            ],
+            "answerSelection": [
+                "(A) adopts: động từ chia ở thì hiện tại đơn (chấp nhận, làm theo)",
+                "(B) reinforces: động từ chia ở thì hiện tại đơn (tăng cường, củng cố)",
+                "(C) motivates: động từ chia ở thì hiện tại đơn (thúc đẩy, tạo động lực)",
+                "(D) attracts: động từ chia ở thì hiện tại đơn (thu hút, hấp dẫn)"
+            ],
+            "vocabulary": [
+                "leadership (n): lãnh đạo",
+                "warehouse (n): kho hàng",
+                "package (n): gói đồ, kiện hàng",
+                "productively (adv): một cách có hiệu quả, một cách năng xuất"
+            ]
+        },
+        {
+            "question": "Kaybing Construction works __________ on large commercial projects in the Newfoundland area.",
+            "questionNumber": 115,
+            "answers": [
+                "(A) exclusively",
+                "(B) exclusive",
+                "(C) exclusivity",
+                "(D) exclusives"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng sau động từ thường 'works', đóng vai trò bổ ngữ cho động từ này.",
+                "Đáp án là trạng từ."
+            ],
+            "answerSelection": [
+                "(A) exclusively: trạng từ (một cách độc quyền)",
+                "(B) exclusive: tính từ (độc quyền, dành riêng)",
+                "(C) exclusivity: danh từ (tính riêng biệt, tính độc quyền)",
+                "(D) exclusives: danh từ số nhiều (bài độc quyền)"
+            ],
+            "vocabulary": [
+                "construction (n): xây dựng",
+                "commercial (adj): thương mại",
+                "project (n): dự án"
+            ]
+        },
+        {
+            "question": "Carly Logan plans __________, so Alan Zill has volunteered to be the stamp club's next treasurer.",
+            "questionNumber": 116,
+            "answers": [
+                "(A) resigning",
+                "(B) to resign",
+                "(C) resigns",
+                "(D) to have resigned"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền nằm sau động từ 'plan' mà 'plan' thường kết hợp với 'to Vo' để tạo thành một cấu trúc thể hiện dự định làm việc gì đó.",
+                "Đáp án là động từ ở dạng 'to Vo'."
+            ],
+            "answerSelection": [
+                "(A) resigning: danh động từ ở dạng động từ thêm -ing",
+                "(B) to resign: động từ ở dạng 'to + động từ nguyên mẫu'",
+                "(C) resigns: động từ được chia ở thì hiện tại đơn",
+                "(D) to have resigned: động từ ở dạng 'to + have V3/ed'"
+            ],
+            "vocabulary": [
+                "volunteer (v): tình nguyện",
+                "stamp (n): tem, dấu",
+                "treasurer (n): thủ quỹ"
+            ]
+        },
+        {
+            "question": "Although the housing market slowed __________ the summer months, sales began to pick up again in the autumn.",
+            "questionNumber": 117,
+            "answers": [
+                "(A) apart",
+                "(B) even",
+                "(C) only",
+                "(D) over"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền nằm trước cụm từ 'the summer months', đóng vai trò là một giới từ kết hợp với cụm từ chỉ thời gian để tạo thành một cụm giới từ chỉ thời gian.",
+                "Nghĩa câu: Mặc dù thị trường nhà đất chậm lại trong suốt những tháng mùa hè nhưng doanh số bán hàng bắt đầu tăng trở lại vào mùa thu.",
+                "Đáp án là một giới từ."
+            ],
+            "answerSelection": [
+                "(A) apart: trạng từ (riêng ra, về một bên)",
+                "(B) even: trạng từ (thậm chí)",
+                "(C) only: trạng từ (chỉ, mới)",
+                "(D) over: giới từ (trong suốt, trong khi)"
+            ],
+            "vocabulary": [
+                "housing market (n): thị trường nhà ở",
+                "slow (v): chậm lại",
+                "sales (n): doanh số bán hàng",
+                "pick up (phrasal verb): tăng lên, cải thiện"
+            ]
+        },
+        {
+            "question": "To remain fully functional, the exercise machines need to be cleaned __________.",
+            "questionNumber": 118,
+            "answers": [
+                "(A) rather",
+                "(B) almost",
+                "(C) routinely",
+                "(D) openly"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền nằm sau động từ 'cleaned' ở dạng bị động, đóng vai trò là một trạng từ bổ nghĩa cho động từ đứng trước nó.",
+                "Nghĩa câu: Để duy trì hoạt động hiệu quả, các máy tập thể dục cần được vệ sinh định kỳ.",
+                "Đáp án là trạng từ."
+            ],
+            "answerSelection": [
+                "(A) rather: trạng từ (đúng hơn, hơn là)",
+                "(B) almost: trạng từ (hầu như)",
+                "(C) routinely: trạng từ (định kỳ, thường lệ)",
+                "(D) openly: trạng từ (công khai, thẳng thắn)"
+            ],
+            "vocabulary": [
+                "remain (v): duy trì, vẫn còn",
+                "fully functional (adv-adj): hoạt động hoàn toàn, đầy đủ chức năng",
+                "exercise machine (n): máy tập thể dục"
+            ]
+        },
+        {
+            "question": "The extended warranty is good for ten years or 100,000 miles, __________ comes first.",
+            "questionNumber": 119,
+            "answers": [
+                "(A) whoever",
+                "(B) either",
+                "(C) whichever",
+                "(D) another"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng trước động từ 'comes', đóng vai trò là chủ ngữ của mệnh đề thứ hai trong câu.",
+                "Từ cần điền ám chỉ bất kỳ điều kiện nào được nhắc đến trước đó.",
+                "Đáp án là đại từ chỉ vật."
+            ],
+            "answerSelection": [
+                "(A) whoever: đại từ chỉ người (bất cứ ai)",
+                "(B) either: đại từ (cả hai)",
+                "(C) whichever: đại từ chỉ vật (bất kỳ cái nào)",
+                "(D) another: đại từ (người khác, cái khác)"
+            ],
+            "vocabulary": [
+                "extended (adj): kéo dài, mở rộng",
+                "warranty (n): bảo hành",
+                "good (adj): tốt",
+                "mile (n): dặm"
+            ]
+        },
+        {
+            "question": "Atlantic Grocers must offer online shopping options or __________ losing customers to other supermarkets.",
+            "questionNumber": 120,
+            "answers": [
+                "(A) risk",
+                "(B) protect",
+                "(C) cancel",
+                "(D) hold"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền nằm sau liên từ kết hợp 'or'.",
+                "Vì liên từ “or” thường nối các mệnh đề, từ hoặc cụm từ có chức năng tương tự nhau, sau động từ khiếm khuyết 'must' là động từ nguyên mẫu 'offer' thì sau liên từ 'or' cũng phải là một động từ ở dạng nguyên mẫu.",
+                "Nghĩa câu: Atlantic Grocers phải cung cấp các lựa chọn mua sắm trực tuyến hoặc có nguy cơ mất khách hàng vào tay các siêu thị khác.",
+                "Đáp án là động từ ở dạng nguyên mẫu, có nghĩa phù hợp với ngữ cảnh của câu."
+            ],
+            "answerSelection": [
+                "(A) risk: động từ (có nguy cơ)",
+                "(B) protect: động từ (bảo vệ)",
+                "(C) cancel: động từ (hủy bỏ)",
+                "(D) hold: động từ (giữ, chứa)"
+            ],
+            "vocabulary": [
+                "offer (v): cung cấp",
+                "online shopping (n): mua sắm trực tuyến",
+                "option (n): lựa chọn",
+                "lose (v): mất",
+                "customer (n): khách hàng",
+                "supermarket (n): siêu thị"
+            ]
+        },
+        {
+            "question": "__________ client is assigned to a personal financial adviser to whom inquiries should be addressed.",
+            "questionNumber": 121,
+            "answers": [
+                "(A) Each",
+                "(B) All",
+                "(C) Some",
+                "(D) Most"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng trước danh từ 'client' và kết hợp với danh từ này để làm chủ ngữ của câu, động từ trong câu 'is assigned' được chia ở dạng số ít.",
+                "Đáp án là một lượng từ có thể kết hợp danh từ 'client' để tạo thành một chủ ngữ số ít."
+            ],
+            "answerSelection": [
+                "(A) Each: mỗi (kết hợp với danh từ số ít)",
+                "(B) All: tất cả (kết hợp với danh từ số nhiều)",
+                "(C) Some: một vài, một ít (kết hợp với danh từ không đếm được và danh từ đếm được ở dạng số nhiều)",
+                "(D) Most: hầu hết, phần lớn (kết hợp với danh từ số nhiều không xác định)"
+            ],
+            "vocabulary": [
+                "assign (v): giao, phân công",
+                "personal (adj): cá nhân",
+                "financial (adj): tài chính",
+                "adviser (n): người tư vấn",
+                "inquiries (n): các câu hỏi, thắc mắc",
+                "address (v): giải quyết"
+            ]
+        },
+        {
+            "question": "Mr. Singh wants to form a __________ to explore some employee reward programs.",
+            "questionNumber": 122,
+            "answers": [
+                "(A) supervisor",
+                "(B) suggestion",
+                "(C) notification",
+                "(D) committee"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Chỗ trống đứng ngay sau mạo từ 'a' nên vị trí này cần điền một danh từ.",
+                "Nghĩa câu: Ông Singh muốn thành lập một ủy ban để tìm hiểu một số chương trình khen thưởng cho nhân viên.",
+                "Đáp án là một danh từ phù hợp ngữ cảnh của câu."
+            ],
+            "answerSelection": [
+                "(A) supervisor: danh từ (người giám sát)",
+                "(B) suggestion: danh từ (sự gợi ý, sự đề xuất)",
+                "(C) notification: danh từ (sự thông báo)",
+                "(D) committee: danh từ (uỷ ban)"
+            ],
+            "vocabulary": [
+                "form (v): thành lập, tạo ra",
+                "explore (v): khám phá, nghiên cứu",
+                "reward program (n): chương trình thưởng"
+            ]
+        },
+        {
+            "question": "Please provide your phone number __________ the delivery driver needs to contact you.",
+            "questionNumber": 123,
+            "answers": [
+                "(A) whereas",
+                "(B) despite",
+                "(C) if not",
+                "(D) in case"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Phía trước chỗ trống là một câu đề nghị, sau chỗ trống là một mệnh đề với chủ ngữ là 'the delivery driver', động từ là 'needs'.",
+                "Nghĩa câu: Vui lòng cung cấp số điện thoại của bạn trong trường hợp tài xế giao hàng cần liên hệ với bạn.",
+                "Đáp án là liên từ phụ thuộc có chức năng mô tả giả định về điều có thể xảy ra trong tương lai."
+            ],
+            "answerSelection": [
+                "(A) whereas: liên từ phụ thuộc (nhưng trái lại, trong khi mà)",
+                "(B) despite: giới từ (dù, mặc dù, bất chấp)",
+                "(C) if not: cụm từ (nếu không)",
+                "(D) in case: liên từ phụ thuộc (phòng trường hợp)"
+            ],
+            "vocabulary": [
+                "provide (v): cung cấp",
+                "delivery driver (n): lái xe giao hàng",
+                "contact (v): liên lạc"
+            ]
+        },
+        {
+            "question": "__________ of Pondview Tower are required to make rent payments on or before the first day of every month.",
+            "questionNumber": 124,
+            "answers": [
+                "(A) Owners",
+                "(B) Buyers",
+                "(C) Tourists",
+                "(D) Tenants"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền đứng ở đầu câu, kết hợp cùng giới từ 'of' và danh từ 'Pondview Tower' để đóng vai trò làm chủ ngữ trong câu, động từ chính của câu được chia ở dạng số nhiều 'are required'.",
+                "Nghĩa câu: Khách thuê của Pondview Tower phải thanh toán tiền thuê nhà vào hoặc trước ngày đầu tiên hàng tháng.",
+                "Đáp án là một danh từ số nhiều, có nghĩa phù hợp ngữ cảnh của câu."
+            ],
+            "answerSelection": [
+                "(A) Owners: danh từ số nhiều (những người chủ)",
+                "(B) Buyers: danh từ số nhiều (những người mua)",
+                "(C) Tourists: danh từ số nhiều (những khách du lịch)",
+                "(D) Tenants: danh từ số nhiều (những khách thuê)"
+            ],
+            "vocabulary": [
+                "require (v): yêu cầu",
+                "rent payment (n): thanh toán tiền thuê"
+            ]
+        },
+        {
+            "question": "Likoni Hospitality Group, one of Mombasa's largest employers, has a __________ impact on the local economy.",
+            "questionNumber": 125,
+            "answers": [
+                "(A) considerably",
+                "(B) considerable",
+                "(C) considering",
+                "(D) consideration"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng sau mạo từ 'a' và đứng trước danh từ 'impact', đóng vai trò là tính từ bổ nghĩa cho danh từ này.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) considerably: trạng từ (một cách đáng kể)",
+                "(B) considerable: tính từ (đáng kể, to tát)",
+                "(C) considering: giới từ (thấy rằng, xét rằng)",
+                "(D) consideration: danh từ (sự cân nhắc, sự suy xét)"
+            ],
+            "vocabulary": [
+                "employer (n): nhà tuyển dụng",
+                "impact (n): sự ảnh hưởng",
+                "local economy (n): nền kinh tế địa phương"
+            ]
+        },
+        {
+            "question": "__________ best sellers, Booksters offers a wide selection of classics and biographies.",
+            "questionNumber": 126,
+            "answers": [
+                "(A) Besides",
+                "(B) Somewhat",
+                "(C) Whose",
+                "(D) Becoming"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng ở đầu câu, kết hợp với cụm danh từ 'best sellers' để diễn đạt sự bổ sung thêm một hay nhiều đối tượng khác vào sau những đối tượng đã hoặc sắp đề cập.",
+                "Nghĩa câu: Ngoài những cuốn sách bán chạy nhất, Booksters còn cung cấp nhiều lựa chọn về tiểu sử và kinh điển.",
+                "Đáp án là một giới từ."
+            ],
+            "answerSelection": [
+                "(A) Besides: giới từ (ngoài ra, thêm vào đó)",
+                "(B) Somewhat: trạng từ (hơi, một chút)",
+                "(C) Whose: đại từ sở hữu (của ai)",
+                "(D) Becoming: động từ ở dạng Ving"
+            ],
+            "vocabulary": [
+                "best sellers (n): sản phẩm bán chạy nhất",
+                "a wide selection of (phrase): một lựa chọn rộng lớn của",
+                "classics (n): các tác phẩm kinh điển",
+                "biographies (n): tiểu sử"
+            ]
+        },
+        {
+            "question": "New food regulations require all Dean's Burgers packaging to contain the __________ notice that undercooked meat can be harmful.",
+            "questionNumber": 127,
+            "answers": [
+                "(A) consumer",
+                "(B) consumption",
+                "(C) consumes",
+                "(D) consuming"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền kết hợp với cụm danh từ 'undercooked meat' đóng vai trò chủ ngữ cho mệnh đề phía sau 'that'.",
+                "Nghĩa câu: Các quy định mới về thực phẩm yêu cầu tất cả bao bì của Dean's Burgers phải có thông báo rằng việc tiêu thụ thịt chưa nấu chín có thể gây hại.",
+                "Đáp án là danh động từ ở dạng động từ thêm -ing."
+            ],
+            "answerSelection": [
+                "(A) consumer: danh từ (người tiêu dùng, người tiêu thụ)",
+                "(B) consumption: danh từ (sự tiêu thụ, sự tiêu dùng)",
+                "(C) consumes: động từ được chia ở thì hiện tại đơn (dùng, tiêu thụ)",
+                "(D) consuming: danh động từ (việc tiêu thụ)"
+            ],
+            "vocabulary": [
+                "regulation (n): quy định",
+                "packaging (n): bao bì",
+                "contain (v): chứa đựng",
+                "notice (n): thông báo",
+                "undercooked (adj): chưa chín",
+                "harmful (adj): có hại"
+            ]
+        },
+        {
+            "question": "Each Genutria snack bar contains as much protein as two eggs, with none __________ the fat and cholesterol.",
+            "questionNumber": 128,
+            "answers": [
+                "(A) of",
+                "(B) by",
+                "(C) out",
+                "(D) minus"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền theo sau đại từ 'none' và đứng trước mạo từ 'the'.",
+                "Như vậy, chỗ trống cần một giới từ luôn đi kèm với 'none' để tạo thành với “none” để tạo thành một cụm từ mang nghĩa phủ định, phù hợp với ngữ cảnh.",
+                "Phương án (A) of là phù hợp nhất."
+            ],
+            "answerSelection": [
+                "(A) of: giới từ (của), thường theo sau đại từ 'none'",
+                "(B) by: giới từ (bằng, bởi)",
+                "(C) out: giới từ (ngoài, ở ngoài)",
+                "(D) minus: giới từ (trừ ra)"
+            ],
+            "vocabulary": [
+                "snack bar (n): quầy bán đồ ăn nhẹ",
+                "contain (v): chứa",
+                "protein (n): chất đạm",
+                "cholesterol (n): chất béo xấu"
+            ]
+        },
+        {
+            "question": "Fisko eyeglass frames come in various __________, including round, square, and oval.",
+            "questionNumber": 129,
+            "answers": [
+                "(A) sights",
+                "(B) methods",
+                "(C) shapes",
+                "(D) materials"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng sau tính từ 'various', là danh từ được bổ nghĩa bởi tính từ này, kết hợp tạo thành một cụm danh từ.",
+                "Nghĩa câu: Gọng kính Fisko có nhiều hình dạng khác nhau, bao gồm hình tròn, hình vuông và hình bầu dục.",
+                "Đáp án là danh từ số nhiều có nghĩa phù hợp với ngữ cảnh của câu."
+            ],
+            "answerSelection": [
+                "(A) sights: danh từ số nhiều (cảnh đẹp, thằng cảnh)",
+                "(B) methods: danh từ số nhiều (phương pháp, cách thức)",
+                "(C) shapes: danh từ số nhiều (hình dạng)",
+                "(D) materials: danh từ số nhiều (nguyên liệu, tài liệu)"
+            ],
+            "vocabulary": [
+                "eyeglass (n): kính cận",
+                "frame (n): khung",
+                "various (adj): đa dạng",
+                "including (prep): bao gồm"
+            ]
+        },
+        {
+            "question": "The CEO wants a greater portion of next year's budget __________ to research and development.",
+            "questionNumber": 130,
+            "answers": [
+                "(A) allocated",
+                "(B) imprinted",
+                "(C) economized",
+                "(D) rationalized"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng sau cụm danh từ 'next year's budget' và đứng trước giới từ 'to', nằm trong một mệnh đề quan hệ mang nghĩa bị động đã được rút gọn.",
+                "Nghĩa câu: Giám đốc điều hành muốn một phần lớn hơn trong ngân sách năm tới được phân bổ cho nghiên cứu và phát triển.",
+                "Đáp án (A) có nghĩa phù hợp nhất."
+            ],
+            "answerSelection": [
+                "(A) allocated: động từ ở dạng quá khứ phân từ (được phân bổ)",
+                "(B) imprinted: động từ ở dạng quá khứ phân từ (được đóng dấu)",
+                "(C) economized: động từ ở dạng quá khứ phân từ (được tiết kiệm)",
+                "(D) rationalized: động từ ở dạng quá khứ phân từ (được hợp lý hóa)"
+            ],
+            "vocabulary": [
+                "portion (n): phần",
+                "budget (n): ngân sách",
+                "research (n): nghiên cứu",
+                "development (n): phát triển"
+            ]
+        }
+    ]
+}

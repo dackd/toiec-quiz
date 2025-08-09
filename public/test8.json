@@ -1,0 +1,798 @@
+{
+    "category": "TEST 8",
+    "questions": [
+        {
+            "question": "Ms. Choi's managerial experience makes her the ideal __________ for the job.",
+            "questionNumber": 101,
+            "answers": [
+                "(A) candidate",
+                "(B) candidacy",
+                "(C) candidates",
+                "(D) candidacies"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng sau mạo từ \"the\" và tính từ \"ideal\", đóng vai trò là một danh từ được bổ nghĩa bởi tính từ này.",
+                "Nghĩa câu: Kinh nghiệm quản lý của cô Choi khiến cô ấy trở thành ứng cử viên lý tưởng cho công việc này.",
+                "Đáp án là danh từ số ít, chỉ người."
+            ],
+            "answerSelection": [
+                "(A) candidate: danh từ (ứng cử viên)",
+                "(B) candidacy: danh từ (sự ứng cử)",
+                "(C) candidates: danh từ số nhiều (các ứng cử viên)",
+                "(D) candidacies: danh từ số nhiều (các sự ứng cử)"
+            ],
+            "vocabulary": [
+                "managerial (adj): thuộc về quản lý",
+                "experience (n): kinh nghiệm",
+                "ideal (adj): lý tưởng"
+            ]
+        },
+        {
+            "question": "The city council approved the bill __________ would allow for the construction of a new library.",
+            "questionNumber": 102,
+            "answers": [
+                "(A) that",
+                "(B) who",
+                "(C) what",
+                "(D) whose"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng sau danh từ \"the bill\", là một đại từ quan hệ.",
+                "Nghĩa câu: Hội đồng thành phố đã thông qua dự luật cho phép xây dựng một thư viện mới.",
+                "Đáp án là đại từ quan hệ thay thế cho danh từ chỉ vật."
+            ],
+            "answerSelection": [
+                "(A) that: đại từ quan hệ thay thế cho danh từ chỉ vật",
+                "(B) who: đại từ quan hệ thay thế cho danh từ chỉ người",
+                "(C) what: đại từ quan hệ, thường đứng đầu câu và đóng vai trò làm chủ ngữ hoặc tân ngữ",
+                "(D) whose: đại từ quan hệ, chỉ sự sở hữu"
+            ],
+            "vocabulary": [
+                "city council (n.phr): hội đồng thành phố",
+                "approve (v): thông qua",
+                "bill (n): dự luật",
+                "allow for (phr.v): cho phép",
+                "construction (n): sự xây dựng"
+            ]
+        },
+        {
+            "question": "The new software __________ it easier for the sales team to track their commissions.",
+            "questionNumber": 103,
+            "answers": [
+                "(A) making",
+                "(B) makes",
+                "(C) to make",
+                "(D) made"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền là động từ chính trong câu, theo sau chủ ngữ \"The new software\".",
+                "Nghĩa câu: Phần mềm mới giúp đội ngũ bán hàng theo dõi hoa hồng của họ dễ dàng hơn.",
+                "Đáp án là động từ chia ở thì hiện tại đơn, ở dạng số ít."
+            ],
+            "answerSelection": [
+                "(A) making: động từ ở dạng V-ing",
+                "(B) makes: động từ chia ở thì hiện tại đơn, ở dạng số ít",
+                "(C) to make: động từ nguyên mẫu có 'to'",
+                "(D) made: động từ chia ở thì quá khứ đơn"
+            ],
+            "vocabulary": [
+                "software (n): phần mềm",
+                "track (v): theo dõi",
+                "commission (n): hoa hồng"
+            ]
+        },
+        {
+            "question": "LXT Corporation's latest smartphone model has received __________ reviews from technology experts.",
+            "questionNumber": 104,
+            "answers": [
+                "(A) favor",
+                "(B) favorable",
+                "(C) favorably",
+                "(D) favored"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng trước danh từ \"reviews\", đóng vai trò là một tính từ bổ nghĩa cho danh từ này.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) favor: danh từ (sự ưu ái, sự ủng hộ)",
+                "(B) favorable: tính từ (thuận lợi, có thiện chí)",
+                "(C) favorably: trạng từ (một cách thuận lợi)",
+                "(D) favored: động từ chia ở thì quá khứ đơn (ưa thích, ủng hộ)"
+            ],
+            "vocabulary": [
+                "latest (adj): mới nhất",
+                "smartphone (n): điện thoại thông minh",
+                "receive (v): nhận",
+                "technology (n): công nghệ",
+                "expert (n): chuyên gia"
+            ]
+        },
+        {
+            "question": "The keynote speaker at the conference presented some __________ ideas for new marketing strategies.",
+            "questionNumber": 105,
+            "answers": [
+                "(A) interest",
+                "(B) interests",
+                "(C) interested",
+                "(D) interesting"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền đứng trước danh từ \"ideas\", đóng vai trò là một tính từ bổ nghĩa cho danh từ này.",
+                "Nghĩa câu: Diễn giả chính tại hội nghị đã trình bày một số ý tưởng thú vị cho các chiến lược tiếp thị mới.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) interest: danh từ (sự quan tâm)",
+                "(B) interests: danh từ số nhiều (sự quan tâm)",
+                "(C) interested: tính từ (quan tâm)",
+                "(D) interesting: tính từ (thú vị)"
+            ],
+            "vocabulary": [
+                "keynote speaker (n.phr): diễn giả chính",
+                "conference (n): hội nghị",
+                "present (v): trình bày",
+                "marketing (n): tiếp thị",
+                "strategy (n): chiến lược"
+            ]
+        },
+        {
+            "question": "Ms. Corliss is in charge of __________ all of the company's social media accounts.",
+            "questionNumber": 106,
+            "answers": [
+                "(A) managing",
+                "(B) manage",
+                "(C) managed",
+                "(D) management"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng sau giới từ \"of\", đóng vai trò là một danh động từ.",
+                "Nghĩa câu: Cô Corliss chịu trách nhiệm quản lý tất cả các tài khoản mạng xã hội của công ty.",
+                "Đáp án là danh động từ."
+            ],
+            "answerSelection": [
+                "(A) managing: danh động từ (quản lý)",
+                "(B) manage: động từ nguyên mẫu (quản lý)",
+                "(C) managed: động từ chia ở thì quá khứ đơn (quản lý)",
+                "(D) management: danh từ (sự quản lý)"
+            ],
+            "vocabulary": [
+                "in charge of (phrase): chịu trách nhiệm",
+                "social media (n.phr): mạng xã hội",
+                "account (n): tài khoản"
+            ]
+        },
+        {
+            "question": "The __________ of the new community center will be celebrated with a ribbon-cutting ceremony.",
+            "questionNumber": 107,
+            "answers": [
+                "(A) opened",
+                "(B) open",
+                "(C) openly",
+                "(D) opening"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền đứng sau mạo từ \"the\", đóng vai trò là một danh từ.",
+                "Nghĩa câu: Việc khai trương trung tâm cộng đồng mới sẽ được tổ chức bằng một buổi lễ cắt băng khánh thành.",
+                "Đáp án là danh từ."
+            ],
+            "answerSelection": [
+                "(A) opened: động từ chia ở thì quá khứ đơn (mở)",
+                "(B) open: động từ nguyên mẫu/tính từ (mở, cởi mở)",
+                "(C) openly: trạng từ (một cách công khai)",
+                "(D) opening: danh từ (sự khai trương)"
+            ],
+            "vocabulary": [
+                "community center (n.phr): trung tâm cộng đồng",
+                "celebrate (v): tổ chức, ăn mừng",
+                "ribbon-cutting ceremony (n.phr): lễ cắt băng khánh thành"
+            ]
+        },
+        {
+            "question": "Customers who purchase a major appliance from us can have it delivered and __________ for a small fee.",
+            "questionNumber": 108,
+            "answers": [
+                "(A) installing",
+                "(B) installs",
+                "(C) installation",
+                "(D) installed"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền theo sau liên từ \"and\" và động từ \"delivered\", là một động từ ở dạng quá khứ phân từ.",
+                "Nghĩa câu: Khách hàng mua một thiết bị gia dụng lớn từ chúng tôi có thể được giao hàng và lắp đặt với một khoản phí nhỏ.",
+                "Đáp án là động từ ở dạng quá khứ phân từ."
+            ],
+            "answerSelection": [
+                "(A) installing: động từ ở dạng V-ing (lắp đặt)",
+                "(B) installs: động từ chia ở thì hiện tại đơn, ở dạng số ít (lắp đặt)",
+                "(C) installation: danh từ (sự lắp đặt)",
+                "(D) installed: động từ ở dạng quá khứ phân từ (lắp đặt)"
+            ],
+            "vocabulary": [
+                "purchase (v): mua",
+                "appliance (n): thiết bị",
+                "deliver (v): giao hàng"
+            ]
+        },
+        {
+            "question": "The results of the employee satisfaction survey will be kept __________.",
+            "questionNumber": 109,
+            "answers": [
+                "(A) confidentially",
+                "(B) confidentiality",
+                "(C) confide",
+                "(D) confidential"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền đứng sau động từ \"kept\", đóng vai trò là một tính từ bổ ngữ.",
+                "Nghĩa câu: Kết quả khảo sát sự hài lòng của nhân viên sẽ được giữ bí mật.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) confidentially: trạng từ (một cách bí mật)",
+                "(B) confidentiality: danh từ (tính bảo mật)",
+                "(C) confide: động từ (tâm sự, thổ lộ)",
+                "(D) confidential: tính từ (bí mật, bảo mật)"
+            ],
+            "vocabulary": [
+                "employee (n): nhân viên",
+                "satisfaction (n): sự hài lòng",
+                "survey (n): khảo sát"
+            ]
+        },
+        {
+            "question": "Please submit your expense reports by the end of the day __________ that you can be reimbursed promptly.",
+            "questionNumber": 110,
+            "answers": [
+                "(A) so",
+                "(B) as",
+                "(C) yet",
+                "(D) but"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là một liên từ kết hợp, nối hai mệnh đề.",
+                "Nghĩa câu: Vui lòng nộp báo cáo chi phí của bạn vào cuối ngày để bạn có thể được hoàn trả kịp thời.",
+                "Đáp án là liên từ kết hợp chỉ mục đích."
+            ],
+            "answerSelection": [
+                "(A) so: liên từ kết hợp, chỉ mục đích (để)",
+                "(B) as: liên từ phụ thuộc, chỉ nguyên nhân (vì)",
+                "(C) yet: liên từ kết hợp, chỉ sự tương phản (tuy nhiên)",
+                "(D) but: liên từ kết hợp, chỉ sự tương phản (nhưng)"
+            ],
+            "vocabulary": [
+                "submit (v): nộp",
+                "expense report (n.phr): báo cáo chi phí",
+                "reimburse (v): hoàn trả",
+                "promptly (adv): kịp thời"
+            ]
+        },
+        {
+            "question": "The new interns have already shown __________ potential to become valuable employees.",
+            "questionNumber": 111,
+            "answers": [
+                "(A) they",
+                "(B) their",
+                "(C) them",
+                "(D) themselves"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng trước danh từ 'potential', đóng vai trò là một tính từ sở hữu bổ nghĩa cho danh từ này.",
+                "Đáp án là tính từ sở hữu."
+            ],
+            "answerSelection": [
+                "(A) they: đại từ chủ ngữ",
+                "(B) their: tính từ sở hữu",
+                "(C) them: đại từ tân ngữ",
+                "(D) themselves: đại từ phản thân"
+            ],
+            "vocabulary": [
+                "intern (n): thực tập sinh",
+                "potential (n): tiềm năng",
+                "valuable (adj): có giá trị",
+                "employee (n): nhân viên"
+            ]
+        },
+        {
+            "question": "We are seeking a new administrative assistant who is organized, detail-oriented, and __________.",
+            "questionNumber": 112,
+            "answers": [
+                "(A) rely",
+                "(B) reliable",
+                "(C) reliably",
+                "(D) reliability"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền là một tính từ, được nối với hai tính từ khác bởi liên từ 'and'.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) rely: động từ (tin cậy)",
+                "(B) reliable: tính từ (đáng tin cậy)",
+                "(C) reliably: trạng từ (một cách đáng tin cậy)",
+                "(D) reliability: danh từ (sự đáng tin cậy)"
+            ],
+            "vocabulary": [
+                "administrative assistant (n.phr): trợ lý hành chính",
+                "organized (adj): có tổ chức",
+                "detail-oriented (adj): chú ý đến chi tiết"
+            ]
+        },
+        {
+            "question": "Ms. Al-Sayed will receive an award for her outstanding __________ to the field of journalism.",
+            "questionNumber": 113,
+            "answers": [
+                "(A) contributed",
+                "(B) contribute",
+                "(C) contributing",
+                "(D) contributions"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền là một danh từ, đóng vai trò là tân ngữ của động từ 'receive'.",
+                "Nghĩa câu: Cô Al-Sayed sẽ nhận được một giải thưởng cho những đóng góp xuất sắc của cô cho lĩnh vực báo chí.",
+                "Đáp án là danh từ số nhiều."
+            ],
+            "answerSelection": [
+                "(A) contributed: động từ chia ở thì quá khứ đơn (đóng góp)",
+                "(B) contribute: động từ nguyên mẫu (đóng góp)",
+                "(C) contributing: động từ ở dạng V-ing (đóng góp)",
+                "(D) contributions: danh từ số nhiều (sự đóng góp)"
+            ],
+            "vocabulary": [
+                "award (n): giải thưởng",
+                "outstanding (adj): xuất sắc",
+                "journalism (n): báo chí"
+            ]
+        },
+        {
+            "question": "__________ he has been with the company for only six months, Mr. Chen has already made a significant impact.",
+            "questionNumber": 114,
+            "answers": [
+                "(A) Now that",
+                "(B) Although",
+                "(C) So that",
+                "(D) In order that"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền là một liên từ phụ thuộc, nối hai mệnh đề có ý nghĩa tương phản.",
+                "Nghĩa câu: Mặc dù anh ấy mới làm việc tại công ty được sáu tháng, ông Chen đã tạo ra một tác động đáng kể.",
+                "Đáp án là liên từ phụ thuộc chỉ sự tương phản."
+            ],
+            "answerSelection": [
+                "(A) Now that: liên từ phụ thuộc, chỉ nguyên nhân (bây giờ thì)",
+                "(B) Although: liên từ phụ thuộc, chỉ sự tương phản (mặc dù)",
+                "(C) So that: liên từ phụ thuộc, chỉ mục đích (để)",
+                "(D) In order that: liên từ phụ thuộc, chỉ mục đích (để)"
+            ],
+            "vocabulary": [
+                "significant (adj): đáng kể",
+                "impact (n): tác động"
+            ]
+        },
+        {
+            "question": "__________ at the annual company picnic include a barbecue lunch and a variety of outdoor games.",
+            "questionNumber": 115,
+            "answers": [
+                "(A) To be featured",
+                "(B) Featuring",
+                "(C) Featured",
+                "(D) Features"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền là một động từ ở dạng quá khứ phân từ, đóng vai trò là một tính từ bổ nghĩa cho chủ ngữ.",
+                "Nghĩa câu: Các hoạt động được giới thiệu tại buổi dã ngoại hàng năm của công ty bao gồm bữa trưa BBQ và nhiều trò chơi ngoài trời.",
+                "Đáp án là động từ ở dạng quá khứ phân từ."
+            ],
+            "answerSelection": [
+                "(A) To be featured: động từ nguyên mẫu có 'to' ở thể bị động",
+                "(B) Featuring: động từ ở dạng V-ing",
+                "(C) Featured: động từ ở dạng quá khứ phân từ",
+                "(D) Features: danh từ số nhiều/động từ chia ở thì hiện tại đơn"
+            ],
+            "vocabulary": [
+                "picnic (n): buổi dã ngoại",
+                "barbecue (n): tiệc nướng BBQ",
+                "variety (n): sự đa dạng",
+                "outdoor (adj): ngoài trời"
+            ]
+        },
+        {
+            "question": "The new marketing campaign was __________ successful in increasing brand awareness.",
+            "questionNumber": 116,
+            "answers": [
+                "(A) highly",
+                "(B) high",
+                "(C) higher",
+                "(D) highest"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng trước tính từ 'successful', đóng vai trò là một trạng từ bổ nghĩa cho tính từ này.",
+                "Đáp án là trạng từ."
+            ],
+            "answerSelection": [
+                "(A) highly: trạng từ (rất, hết sức)",
+                "(B) high: tính từ (cao)",
+                "(C) higher: tính từ so sánh hơn (cao hơn)",
+                "(D) highest: tính từ so sánh nhất (cao nhất)"
+            ],
+            "vocabulary": [
+                "marketing campaign (n.phr): chiến dịch tiếp thị",
+                "brand awareness (n.phr): nhận thức về thương hiệu"
+            ]
+        },
+        {
+            "question": "__________ the conference, attendees will have the opportunity to network with industry professionals.",
+            "questionNumber": 117,
+            "answers": [
+                "(A) So that",
+                "(B) While",
+                "(C) During",
+                "(D) Whereas"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền là một giới từ, đứng trước danh từ 'the conference'.",
+                "Nghĩa câu: Trong suốt hội nghị, những người tham dự sẽ có cơ hội kết nối với các chuyên gia trong ngành.",
+                "Đáp án là giới từ."
+            ],
+            "answerSelection": [
+                "(A) So that: liên từ phụ thuộc, chỉ mục đích (để)",
+                "(B) While: liên từ phụ thuộc, chỉ thời gian (trong khi)",
+                "(C) During: giới từ (trong suốt)",
+                "(D) Whereas: liên từ phụ thuộc, chỉ sự tương phản (trong khi)"
+            ],
+            "vocabulary": [
+                "attendee (n): người tham dự",
+                "opportunity (n): cơ hội",
+                "network (v): kết nối",
+                "industry professional (n.phr): chuyên gia trong ngành"
+            ]
+        },
+        {
+            "question": "The research and development team is working __________ to create innovative new products.",
+            "questionNumber": 118,
+            "answers": [
+                "(A) diligently",
+                "(B) diligent",
+                "(C) diligence",
+                "(D) more diligent"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là một trạng từ, bổ nghĩa cho động từ 'working'.",
+                "Nghĩa câu: Đội ngũ nghiên cứu và phát triển đang làm việc chăm chỉ để tạo ra các sản phẩm mới sáng tạo.",
+                "Đáp án là trạng từ."
+            ],
+            "answerSelection": [
+                "(A) diligently: trạng từ (một cách chăm chỉ)",
+                "(B) diligent: tính từ (chăm chỉ)",
+                "(C) diligence: danh từ (sự chăm chỉ)",
+                "(D) more diligent: tính từ so sánh hơn (chăm chỉ hơn)"
+            ],
+            "vocabulary": [
+                "research and development (n.phr): nghiên cứu và phát triển",
+                "innovative (adj): sáng tạo"
+            ]
+        },
+        {
+            "question": "The company's profits have increased __________ since the new marketing strategy was implemented.",
+            "questionNumber": 119,
+            "answers": [
+                "(A) significance",
+                "(B) significant",
+                "(C) signify",
+                "(D) significantly"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền là một trạng từ, bổ nghĩa cho động từ 'increased'.",
+                "Đáp án là trạng từ."
+            ],
+            "answerSelection": [
+                "(A) significance: danh từ (tầm quan trọng)",
+                "(B) significant: tính từ (đáng kể)",
+                "(C) signify: động từ (biểu thị)",
+                "(D) significantly: trạng từ (một cách đáng kể)"
+            ],
+            "vocabulary": [
+                "profit (n): lợi nhuận",
+                "implement (v): thực hiện"
+            ]
+        },
+        {
+            "question": "__________ the project was challenging, the team was able to complete it on time and within budget.",
+            "questionNumber": 120,
+            "answers": [
+                "(A) Despite",
+                "(B) In spite of",
+                "(C) Even",
+                "(D) Although"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền là một liên từ phụ thuộc, nối hai mệnh đề có ý nghĩa tương phản.",
+                "Đáp án là liên từ phụ thuộc."
+            ],
+            "answerSelection": [
+                "(A) Despite: giới từ (mặc dù)",
+                "(B) In spite of: cụm giới từ (mặc dù)",
+                "(C) Even: trạng từ (thậm chí)",
+                "(D) Although: liên từ phụ thuộc (mặc dù)"
+            ],
+            "vocabulary": [
+                "challenging (adj): đầy thử thách",
+                "on time (phrase): đúng giờ",
+                "within budget (phrase): trong ngân sách"
+            ]
+        },
+        {
+            "question": "The Human Resources department is __________ for onboarding new employees.",
+            "questionNumber": 121,
+            "answers": [
+                "(A) responsibly",
+                "(B) responsibility",
+                "(C) responsibilities",
+                "(D) responsible"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền là một tính từ, đứng sau động từ 'is'.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) responsibly: trạng từ (một cách có trách nhiệm)",
+                "(B) responsibility: danh từ (trách nhiệm)",
+                "(C) responsibilities: danh từ số nhiều (trách nhiệm)",
+                "(D) responsible: tính từ (có trách nhiệm)"
+            ],
+            "vocabulary": [
+                "Human Resources (n.phr): Nhân sự",
+                "onboarding (n): quá trình giới thiệu nhân viên mới"
+            ]
+        },
+        {
+            "question": "The new CEO's leadership has had a __________ impact on the company's culture.",
+            "questionNumber": 122,
+            "answers": [
+                "(A) positive",
+                "(B) positively",
+                "(C) positiveness",
+                "(D) positivity"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là một tính từ, bổ nghĩa cho danh từ 'impact'.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) positive: tính từ (tích cực)",
+                "(B) positively: trạng từ (một cách tích cực)",
+                "(C) positiveness: danh từ (tính tích cực)",
+                "(D) positivity: danh từ (sự tích cực)"
+            ],
+            "vocabulary": [
+                "CEO (n): Giám đốc điều hành",
+                "leadership (n): sự lãnh đạo",
+                "culture (n): văn hóa"
+            ]
+        },
+        {
+            "question": "We apologize for the __________ and appreciate your patience.",
+            "questionNumber": 123,
+            "answers": [
+                "(A) inconvenience",
+                "(B) inconvenient",
+                "(C) inconveniently",
+                "(D) convene"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là một danh từ, đóng vai trò là tân ngữ của giới từ 'for'.",
+                "Đáp án là danh từ."
+            ],
+            "answerSelection": [
+                "(A) inconvenience: danh từ (sự bất tiện)",
+                "(B) inconvenient: tính từ (bất tiện)",
+                "(C) inconveniently: trạng từ (một cách bất tiện)",
+                "(D) convene: động từ (triệu tập)"
+            ],
+            "vocabulary": [
+                "apologize (v): xin lỗi",
+                "appreciate (v): đánh giá cao",
+                "patience (n): sự kiên nhẫn"
+            ]
+        },
+        {
+            "question": "All employees must complete the mandatory safety training __________ the end of the month.",
+            "questionNumber": 124,
+            "answers": [
+                "(A) at",
+                "(B) on",
+                "(C) in",
+                "(D) by"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền là một giới từ, chỉ thời hạn cuối cùng.",
+                "Đáp án là giới từ."
+            ],
+            "answerSelection": [
+                "(A) at: giới từ, chỉ một thời điểm cụ thể",
+                "(B) on: giới từ, chỉ một ngày cụ thể",
+                "(C) in: giới từ, chỉ một khoảng thời gian",
+                "(D) by: giới từ, chỉ thời hạn cuối cùng"
+            ],
+            "vocabulary": [
+                "mandatory (adj): bắt buộc",
+                "safety training (n.phr): đào tạo an toàn"
+            ]
+        },
+        {
+            "question": "The company offers a __________ benefits package, including health insurance and a retirement plan.",
+            "questionNumber": 125,
+            "answers": [
+                "(A) comprehend",
+                "(B) comprehensive",
+                "(C) comprehension",
+                "(D) comprehensively"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền là một tính từ, bổ nghĩa cho danh từ 'benefits package'.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) comprehend: động từ (hiểu)",
+                "(B) comprehensive: tính từ (toàn diện)",
+                "(C) comprehension: danh từ (sự hiểu)",
+                "(D) comprehensively: trạng từ (một cách toàn diện)"
+            ],
+            "vocabulary": [
+                "benefits package (n.phr): gói phúc lợi",
+                "health insurance (n.phr): bảo hiểm y tế",
+                "retirement plan (n.phr): kế hoạch hưu trí"
+            ]
+        },
+        {
+            "question": "Ms. Garcia is an __________ member of our team, and we are grateful for her contributions.",
+            "questionNumber": 126,
+            "answers": [
+                "(A) value",
+                "(B) valuable",
+                "(C) valueless",
+                "(D) valuer"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền là một tính từ, bổ nghĩa cho danh từ 'member'.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) value: danh từ/động từ (giá trị, định giá)",
+                "(B) valuable: tính từ (có giá trị)",
+                "(C) valueless: tính từ (vô giá trị)",
+                "(D) valuer: danh từ (người định giá)"
+            ],
+            "vocabulary": [
+                "grateful (adj): biết ơn",
+                "contribution (n): sự đóng góp"
+            ]
+        },
+        {
+            "question": "The marketing department is responsible for creating __________ content for our social media channels.",
+            "questionNumber": 127,
+            "answers": [
+                "(A) engage",
+                "(B) engaging",
+                "(C) engaged",
+                "(D) engagement"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền là một tính từ, bổ nghĩa cho danh từ 'content'.",
+                "Đáp án là tính từ."
+            ],
+            "answerSelection": [
+                "(A) engage: động từ (thu hút)",
+                "(B) engaging: tính từ (hấp dẫn)",
+                "(C) engaged: tính từ (đã đính hôn, đang bận)",
+                "(D) engagement: danh từ (sự tham gia)"
+            ],
+            "vocabulary": [
+                "social media channels (n.phr): các kênh truyền thông xã hội"
+            ]
+        },
+        {
+            "question": "Please review the attached document and provide your __________ by Friday.",
+            "questionNumber": 128,
+            "answers": [
+                "(A) feedback",
+                "(B) feed",
+                "(C) feeding",
+                "(D) fed"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là một danh từ, đóng vai trò là tân ngữ của động từ 'provide'.",
+                "Đáp án là danh từ."
+            ],
+            "answerSelection": [
+                "(A) feedback: danh từ (phản hồi)",
+                "(B) feed: động từ (cho ăn)",
+                "(C) feeding: động từ ở dạng V-ing (cho ăn)",
+                "(D) fed: động từ chia ở thì quá khứ đơn (cho ăn)"
+            ],
+            "vocabulary": [
+                "attached (adj): đính kèm",
+                "document (n): tài liệu"
+            ]
+        },
+        {
+            "question": "The company is committed to __________ a safe and healthy work environment for all employees.",
+            "questionNumber": 129,
+            "answers": [
+                "(A) provide",
+                "(B) providing",
+                "(C) provided",
+                "(D) provision"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền là một danh động từ, theo sau giới từ 'to'.",
+                "Đáp án là danh động từ."
+            ],
+            "answerSelection": [
+                "(A) provide: động từ nguyên mẫu (cung cấp)",
+                "(B) providing: danh động từ (cung cấp)",
+                "(C) provided: động từ chia ở thì quá khứ đơn (cung cấp)",
+                "(D) provision: danh từ (sự cung cấp)"
+            ],
+            "vocabulary": [
+                "committed to (adj): cam kết",
+                "work environment (n.phr): môi trường làm việc"
+            ]
+        },
+        {
+            "question": "The new __________ will streamline our workflow and improve efficiency.",
+            "questionNumber": 130,
+            "answers": [
+                "(A) proceed",
+                "(B) procedure",
+                "(C) proceeding",
+                "(D) procedural"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền là một danh từ, đóng vai trò là chủ ngữ của câu.",
+                "Đáp án là danh từ."
+            ],
+            "answerSelection": [
+                "(A) proceed: động từ (tiến hành)",
+                "(B) procedure: danh từ (quy trình)",
+                "(C) proceeding: danh động từ (tiến hành)",
+                "(D) procedural: tính từ (thuộc về quy trình)"
+            ],
+            "vocabulary": [
+                "streamline (v): hợp lý hóa",
+                "workflow (n): quy trình làm việc",
+                "efficiency (n): hiệu quả"
+            ]
+        }
+    ]
+}

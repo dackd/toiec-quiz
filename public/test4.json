@@ -1,0 +1,824 @@
+{
+    "category": "TEST 4",
+    "questions": [
+        {
+            "question": "Mr. Barrientos has worked at the company __________ six years.",
+            "questionNumber": 101,
+            "answers": [
+                "(A) for",
+                "(B) since",
+                "(C) with",
+                "(D) lately"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền trước một khoảng thời gian trong câu sử dụng thì Hiện tại hoàn thành là một giới từ, để tạo thành trạng từ chỉ thời gian trong câu diễn tả một hành động đã kéo dài suốt khoảng thời gian đó.",
+                "Nghĩa câu: Ông Barrientos đã làm việc tại công ty được sáu năm.",
+                "Phương án (A) for là phù hợp nhất."
+            ],
+            "answerSelection": [
+                "(A) for: được, trong vòng,",
+                "(B) since: không đứng trước một khoảng thời gian",
+                "(C) with: không đứng trước một khoảng thời gian",
+                "(D) lately: không phải giới từ"
+            ],
+            "vocabulary": []
+        },
+        {
+            "question": "The staff cafeteria stops __________ lunch at 2:00 P.M.",
+            "questionNumber": 102,
+            "answers": [
+                "(A) taking",
+                "(B) buying",
+                "(C) serving",
+                "(D) working"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền là động từ đứng sau động từ “stop”, tác động lên tân ngữ là “lunch” ở sau.",
+                "Động từ này cần thường được sử dụng với “lunch”."
+            ],
+            "answerSelection": [
+                "(A) taking: lấy",
+                "(B) buying: mua",
+                "(C) serving: phục vụ",
+                "(D) working: làm việc"
+            ],
+            "vocabulary": [
+                "serve (v) phục vụ",
+                "staff cafeteria (n. phr.) nhà ăn dành cho nhân viên"
+            ]
+        },
+        {
+            "question": "The annual report will be ready after __________ make the necessary revisions.",
+            "questionNumber": 103,
+            "answers": [
+                "(A) I",
+                "(B) me",
+                "(C) myself",
+                "(D) my"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng trước động từ “make”, đóng vai trò là chủ ngữ của mệnh đề phụ trong câu.",
+                "Nghĩa câu: Báo cáo thường niên sẽ được hoàn thành sau khi tôi thực hiện những sửa đổi cần thiết.",
+                "Đáp án là đại từ chủ ngữ."
+            ],
+            "answerSelection": [
+                "(A) I: đại từ chủ ngữ",
+                "(B) me: đại từ tân ngữ",
+                "(C) myself: đại từ phản thân",
+                "(D) my: tính từ sở hữu"
+            ],
+            "vocabulary": [
+                "annual (adj) hàng năm",
+                "report (n) bản báo cáo",
+                "necessary (adj) cần thiết",
+                "revision (n) sửa đổi"
+            ]
+        },
+        {
+            "question": "Mr. Louden was offered a full-time position at Fortelio Corporation __________ a division manager.",
+            "questionNumber": 104,
+            "answers": [
+                "(A) about",
+                "(B) as",
+                "(C) after",
+                "(D) around"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng trước cụm danh từ “a division manager”, là giới từ được sử dụng để nói về vai trò hay mục đích của chủ ngữ, ở đây là “Mr. Louden”.",
+                "Nghĩa câu: Ông Louden được mời làm việc toàn thời gian tại Tập đoàn Fortelio với vai trò là quản lý phòng ban.",
+                "Phương án (B) as là phù hợp nhất."
+            ],
+            "answerSelection": [
+                "(A) about: không được sử dụng để nói về vai trò",
+                "(B) as: với vai trò là, ...",
+                "(C) after: không được sử dụng để nói về vai trò",
+                "(D) around: không được sử dụng để nói về vai trò"
+            ],
+            "vocabulary": [
+                "offer (v) đề nghị, mời",
+                "full-time (adj) toàn thời gian",
+                "position (n) vị trí, chức vụ",
+                "division manager (n. phr.): quản lý phòng ban/bộ phận"
+            ]
+        },
+        {
+            "question": "Kennedy Sports will __________ its end-of-season sale through the month of January.",
+            "questionNumber": 105,
+            "answers": [
+                "(A) continuing",
+                "(B) continued",
+                "(C) continues",
+                "(D) continue"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Trạng ngữ chỉ thời gian “through the month of January” miêu tả sự việc sẽ diễn ra trong tương lai.",
+                "Từ cần điền đóng vai trò là động từ chính trong câu, đứng sau “will”.",
+                "Nghĩa câu: Kennedy Sports sẽ tiếp tục chương trình giảm giá cuối mùa của nó đến hết tháng Một.",
+                "Câu miêu tả sự việc sẽ xảy ra trong tương lai, đã có “will” sẵn.",
+                "Đáp án là động từ nguyên mẫu."
+            ],
+            "answerSelection": [
+                "(A) continuing: hiện tại phân từ",
+                "(B) continued: động từ chia theo thì quá khứ đơn",
+                "(C) continues: động từ chia theo thì hiện tại đơn",
+                "(D) continue: động từ nguyên mẫu"
+            ],
+            "vocabulary": [
+                "end-of-season (adj) cuối mùa",
+                "sale (n) chương trình giảm giá"
+            ]
+        },
+        {
+            "question": "Ms. Najjar is going to give a presentation __________ workplace regulations at noon.",
+            "questionNumber": 106,
+            "answers": [
+                "(A) near",
+                "(B) to",
+                "(C) past",
+                "(D) on"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền đứng sau cụm “give a presentation” và trước “workplace regulations”, là giới từ của “presentation”, mang nghĩa “bài thuyết trình về...”.",
+                "Nghĩa câu: Cô Najjar sắp thuyết trình về quy định nơi làm việc vào buổi trưa.",
+                "Phương án (D) on là phù hợp nhất."
+            ],
+            "answerSelection": [
+                "(A) near: mang nghĩa “gần”, đứng (cụm) danh từ chỉ nơi chốn",
+                "(B) to: mang nghĩa “đến”, đứng (cụm) danh từ chỉ nơi chốn",
+                "(C) past: mang nghĩa “qua”, “vượt qua”",
+                "(D) on: mang nghĩa “về chủ đề...” khi theo sau danh từ chỉ lớp học, bài thuyết trình, bài diễn thuyết"
+            ],
+            "vocabulary": [
+                "presentation (n) bài thuyết trình",
+                "regulation (n) quy định",
+                "noon (n) buổi trưa"
+            ]
+        },
+        {
+            "question": "Mr. Telguld submitted the __________ surveys before the monthly board meeting.",
+            "questionNumber": 107,
+            "answers": [
+                "(A) completely",
+                "(B) completed",
+                "(C) completing",
+                "(D) completes"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng trước tân ngữ “surveys”, đóng vai trò bổ nghĩa cho của danh từ đó.",
+                "Trong câu, từ này được sử dụng để diễn tả sự hoàn thành của tân ngữ “surveys”.",
+                "Đáp án là tính từ quá khứ phân từ."
+            ],
+            "answerSelection": [
+                "(A) completely: trạng từ (một cách hoàn toàn)",
+                "(B) completed: tính từ quá khứ phân từ (đã hoàn thành)",
+                "(C) completing: tính từ hiện tại phân từ (đang hoàn thành)",
+                "(D) completes: động từ chia theo thì hiện tại đơn"
+            ],
+            "vocabulary": [
+                "submit (v) nộp",
+                "survey (n) bản khảo sát",
+                "board meeting (n) cuộc họp hội đồng quản trị"
+            ]
+        },
+        {
+            "question": "Travel funds are available to student presenters coming to the conference from a significant __________.",
+            "questionNumber": 108,
+            "answers": [
+                "(A) location",
+                "(B) amount",
+                "(C) reason",
+                "(D) distance"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền là danh từ đứng sau tính từ “significant” có nghĩa là “lớn, đáng chú ý”."
+            ],
+            "answerSelection": [
+                "(A) location: địa điểm",
+                "(B) amount: số lượng",
+                "(C) reason: lý do",
+                "(D) distance: khoảng cách"
+            ],
+            "vocabulary": [
+                "location (n) địa điểm",
+                "reason (n) lý do",
+                "travel fund (n) quỹ đi lại",
+                "presenter (n) diễn giả",
+                "conference (n) hội nghị",
+                "significant (adj) lớn, quan trọng, đáng chú ý"
+            ]
+        },
+        {
+            "question": "Ms. Okada is __________ a new social media campaign at the request of our office manager.",
+            "questionNumber": 109,
+            "answers": [
+                "(A) organize",
+                "(B) organized",
+                "(C) organizing",
+                "(D) organization"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đóng vai trò là động từ chính trong câu, đứng sau to be “is”, kết hợp với “is” để tạo thành động từ chia theo thì hiện tại tiếp diễn ở thể chủ động.",
+                "Nghĩa câu: Cô Okada đang tổ chức một chiến dịch truyền thông trên mạng xã hội mới theo yêu cầu của người quản lý văn phòng của chúng tôi.",
+                "Câu miêu tả hành động được chính chủ ngữ thực hiện.",
+                "Đáp án là hiện tại phân từ."
+            ],
+            "answerSelection": [
+                "(A) organize: động từ nguyên mẫu",
+                "(B) organized: quá khứ phân từ",
+                "(C) organizing: hiện tại phân từ",
+                "(D) organization: danh từ"
+            ],
+            "vocabulary": [
+                "organize (v) tổ chức",
+                "organization (n) tổ chức",
+                "social media (n. phr.) mạng xã hội",
+                "campaign (n) chiến dịch",
+                "request (n) yêu cầu",
+                "office manager (n. phr.) người quản lý văn phòng"
+            ]
+        },
+        {
+            "question": "The speaker will offer five tips for making wise purchasing __________.",
+            "questionNumber": 110,
+            "answers": [
+                "(A) items",
+                "(B) decisions",
+                "(C) values",
+                "(D) remedies"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền là danh từ đứng sau tính từ “wise” và kết hợp với tính từ hiện tại phân từ “purchasing” đóng vai trò là tân ngữ của động từ “making”."
+            ],
+            "answerSelection": [
+                "(A) items: vật phẩm",
+                "(B) decisions: quyết định",
+                "(C) values: giá trị",
+                "(D) remedies: phương thuốc, cách điều trị"
+            ],
+            "vocabulary": [
+                "item (n) vật phẩm",
+                "value (n) giá trị",
+                "decision (n) quyết định",
+                "remedy (n) phương thuốc, cách điều trị",
+                "wise (adj) khôn ngoan"
+            ]
+        },
+        {
+            "question": "Please log on to your online checking account __________ the next 30 days in order to keep it active.",
+            "questionNumber": 111,
+            "answers": [
+                "(A) within",
+                "(B) how",
+                "(C) whether",
+                "(D) and"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng trước cụm danh từ “the next 30 days”, cùng cụm danh từ đó mang nghĩa “trong vòng 30 ngày tới”.",
+                "Đáp án là giới từ."
+            ],
+            "answerSelection": [
+                "(A) within: trong vòng, ở trong",
+                "(B) how: trạng từ liên kết mang nghĩa “thế nào”",
+                "(C) whether: liên từ mang nghĩa “nếu, hoặc không”",
+                "(D) and: liên từ mang nghĩa “và”"
+            ],
+            "vocabulary": [
+                "within (preposition) trong vòng, ở trong",
+                "log on to (phrasal verb) đăng nhập",
+                "checking account (n. phr.) tài khoản ngân hàng, tài khoản séc",
+                "active (adj) chủ động, có hoạt động"
+            ]
+        },
+        {
+            "question": "The Bradyville Inn __________ live jazz music in the dining area on Friday evenings.",
+            "questionNumber": 112,
+            "answers": [
+                "(A) features",
+                "(B) marks",
+                "(C) sounds",
+                "(D) collects"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là động từ đứng sau danh từ chủ ngữ “The Bradyville Inn” và đứng trước danh từ “live jazz music”, đóng vai trò là động từ chính của câu và tác động lên danh từ theo sau nó."
+            ],
+            "answerSelection": [
+                "(A) features: tổ chức, phát, chiếu (phim, nhạc, ...)",
+                "(B) marks: đánh dấu",
+                "(C) sounds: âm thanh",
+                "(D) collects: thu thập"
+            ],
+            "vocabulary": [
+                "feature (v) tổ chức, phát, chiếu (phim, nhạc, ...)",
+                "inn (n) quán trọ, khách sạn nhỏ",
+                "live (adj) trực tiếp",
+                "dining area (n. phr.) khu vực ăn uống"
+            ]
+        },
+        {
+            "question": "Leeann's Organic Fruit Spreads can be purchased __________ from the company's Web site.",
+            "questionNumber": 113,
+            "answers": [
+                "(A) direction",
+                "(B) directly",
+                "(C) directness",
+                "(D) directed"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng sau động từ “purchased”, đóng vai trò là bổ ngữ của động từ đó.",
+                "Đáp án là trạng từ."
+            ],
+            "answerSelection": [
+                "(A) direction: danh từ (phương hướng)",
+                "(B) directly: trạng từ (một cách trực tiếp)",
+                "(C) directness: danh từ (sự trực tiếp)",
+                "(D) directed: quá khứ phân từ (được định hướng)"
+            ],
+            "vocabulary": [
+                "organic (adj) hữu cơ",
+                "purchase (v) mua",
+                "directly (adv) một cách trực tiếp"
+            ]
+        },
+        {
+            "question": "__________ the event organizers' best efforts, they have been unable to attract enough volunteers this spring.",
+            "questionNumber": 114,
+            "answers": [
+                "(A) Behind",
+                "(B) Versus",
+                "(C) Among",
+                "(D) Despite"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Phía sau chỗ trống là cụm danh từ “the event organizers' best efforts”, và hai mệnh đề trong câu có sự tương phản.",
+                "Nghĩa câu: Mặc dù ban tổ chức sự kiện đã cố gắng hết sức nhưng họ vẫn không thể thu hút đủ tình nguyện viên vào mùa xuân này.",
+                "Phương án (D) Despite là phù hợp nhất."
+            ],
+            "answerSelection": [
+                "(A) Behind: giới từ mang nghĩa “phía sau”",
+                "(B) Versus: giới từ mang nghĩa “chống lại, đấu với”",
+                "(C) Among: giới từ mang nghĩa “giữa, trong số”",
+                "(D) Despite: giới từ mang nghĩa “mặc dù”"
+            ],
+            "vocabulary": [
+                "event (n) sự kiện",
+                "organizer (n) người tổ chức",
+                "effort (n) công sức, sự nỗ lực",
+                "attract (v) thu hút",
+                "volunteer (n) tình nguyện viên"
+            ]
+        },
+        {
+            "question": "Mr. Perez __________ as an industrial engineer at Gaberly Logistics for almost twenty years.",
+            "questionNumber": 115,
+            "answers": [
+                "(A) employs",
+                "(B) to be employed",
+                "(C) is employing",
+                "(D) has been employed"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Trạng ngữ chỉ thời gian “for almost twenty years” miêu tả sự việc đã diễn ra trong quá khứ và kéo dài trong một khoảng thời gian.",
+                "Từ cần điền đóng vai trò là động từ chính trong câu.",
+                "Nghĩa câu: Ông Perez đã được tuyển dụng với chức vụ là kỹ sư công nghiệp tại Gaberly Logistics được gần 20 năm.",
+                "Chủ ngữ trong câu bị tác động bởi hành động.",
+                "Đáp án là động từ chia theo thì hiện tại hoàn thành ở thể bị động."
+            ],
+            "answerSelection": [
+                "(A) employs: động từ chia theo thì hiện tại đơn",
+                "(B) to be employed: động từ ở thể bị động có “to”",
+                "(C) is employing: động từ chia theo thì hiện tại tiếp diễn",
+                "(D) has been employed: động từ chia theo thì hiện tại hoàn thành ở thể bị động"
+            ],
+            "vocabulary": []
+        },
+        {
+            "question": "Soon after Ms. Manilla was hired, the sales department's productivity began to increase __________.",
+            "questionNumber": 116,
+            "answers": [
+                "(A) mainly",
+                "(B) respectively",
+                "(C) noticeably",
+                "(D) closely"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền là trạng từ đứng sau động từ “increase”, bổ nghĩa cho động từ đó."
+            ],
+            "answerSelection": [
+                "(A) mainly: chính, chủ yếu",
+                "(B) respectively: tương ứng",
+                "(C) noticeably: một cách đáng chú ý",
+                "(D) closely: một cách chặt chẽ"
+            ],
+            "vocabulary": [
+                "mainly (adv) chính, chủ yếu",
+                "respectively (adv) tương ứng",
+                "noticeably (adv) một cách đáng chú ý",
+                "closely (adv) một cách chặt chẽ",
+                "hire (v) thuê, tuyển dụng",
+                "sales department (n. phr.) bộ phận bán hàng",
+                "productivity (n) năng suất",
+                "increase (v) tăng"
+            ]
+        },
+        {
+            "question": "Small businesses __________ participate in the Get Ahead program will receive marketing tools to help them attract customers.",
+            "questionNumber": 117,
+            "answers": [
+                "(A) that",
+                "(B) they",
+                "(C) what",
+                "(D) whoever"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng trước động từ “participate”. Từ cần điền kết hợp với cụm “participate in the Get Ahead program” tạo thành mệnh đề quan hệ, mệnh đề này đóng vai trò bổ nghĩa cho danh từ chủ ngữ “Small businesses”.",
+                "Đáp án là đại từ quan hệ làm chủ ngữ."
+            ],
+            "answerSelection": [
+                "(A) that: đại từ quan hệ làm chủ ngữ",
+                "(B) they: đại từ chủ ngữ",
+                "(C) what: đại từ",
+                "(D) whoever: đại từ"
+            ],
+            "vocabulary": [
+                "Business (n) doanh nghiệp",
+                "program (n) chương trình",
+                "participate (v) tham gia",
+                "marketing (n) tiếp thị"
+            ]
+        },
+        {
+            "question": "Our copy editors will review the manuscript __________ will not return it until the end of next week.",
+            "questionNumber": 118,
+            "answers": [
+                "(A) or",
+                "(B) once",
+                "(C) either",
+                "(D) but"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Phía sau chỗ trống là “will not return” tương phản với phía trước là “will review the manuscript”.",
+                "Nghĩa câu: Những người biên tập bản sao của chúng tôi sẽ xem xét bản thảo nhưng sẽ không trả lại nó cho đến cuối tuần sau.",
+                "Đáp án là liên từ chỉ sự tương phản."
+            ],
+            "answerSelection": [
+                "(A) or: liên từ mang nghĩa “hoặc”",
+                "(B) once: trạng từ mang nghĩa “một lần”",
+                "(C) either: trạng từ liên kết mang nghĩa “một trong hai”",
+                "(D) but: liên từ chỉ sự tương phản, mang nghĩa “nhưng”"
+            ],
+            "vocabulary": [
+                "editor (n) biên tập viên",
+                "review (v) xem xét",
+                "manuscript (n) bản thảo"
+            ]
+        },
+        {
+            "question": "Mira Kumar was probably the __________ of all the interns at Kolbry Media last summer.",
+            "questionNumber": 119,
+            "answers": [
+                "(A) ambitious",
+                "(B) most ambitious",
+                "(C) ambitiously",
+                "(D) more ambitiously"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng sau “was”, mạo từ “the” và đứng trước giới từ “of”. Đây là dấu hiệu của cấu trúc so sánh nhất của tính từ.",
+                "Nghĩa câu: Mira Kumar có lẽ là người tham vọng nhất trong số các thực tập sinh tại Kolby Media vào mùa hè năm ngoái.",
+                "Đáp án là dạng so sánh nhất của tính từ."
+            ],
+            "answerSelection": [
+                "(A) ambitious: tính từ",
+                "(B) most ambitious: dạng so sánh nhất của tính từ",
+                "(C) ambitiously: trạng từ",
+                "(D) more ambitiously: dạng so sánh hơn của trạng từ"
+            ],
+            "vocabulary": [
+                "ambitious (adj) tham vọng",
+                "intern (n) thực tập sinh"
+            ]
+        },
+        {
+            "question": "Orbin's Fish Company expanded to a total of 26 stores __________ its takeover of a rival chain.",
+            "questionNumber": 120,
+            "answers": [
+                "(A) whenever",
+                "(B) toward",
+                "(C) following",
+                "(D) usually"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng trước cụm danh từ “its takeover of a rival chain”.",
+                "Nghĩa câu: Orbin's Fish Company đã mở rộng lên tổng số 26 cửa hàng sau khi tiếp quản chuỗi đối thủ.",
+                "Đáp án là giới từ mang nghĩa “sau khi”."
+            ],
+            "answerSelection": [
+                "(A) whenever: liên từ mang nghĩa “bất cứ lúc nào”",
+                "(B) toward: giới từ mang nghĩa “về phía”",
+                "(C) following: giới từ mang nghĩa “sau khi”",
+                "(D) usually: trạng từ mang nghĩa “thường xuyên”"
+            ],
+            "vocabulary": [
+                "expand (v) mở rộng",
+                "takeover (n) tiếp quản",
+                "rival (n) đối thủ",
+                "chain (n) chuỗi"
+            ]
+        },
+        {
+            "question": "Ms. Cartwright told her team members that __________ wanted to streamline the company's assembly process.",
+            "questionNumber": 121,
+            "answers": [
+                "(A) theirs",
+                "(B) they",
+                "(C) them",
+                "(D) themselves"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền đứng sau động từ “wanted”, đóng vai trò là tân ngữ của động từ đó.",
+                "Nghĩa câu: Bà Cartwright nói với các thành viên trong nhóm của mình rằng bà muốn họ tối ưu hóa quy trình lắp ráp của công ty.",
+                "Đáp án là đại từ tân ngữ."
+            ],
+            "answerSelection": [
+                "(A) theirs: đại từ sở hữu",
+                "(B) they: đại từ chủ ngữ",
+                "(C) them: đại từ tân ngữ",
+                "(D) themselves: đại từ phản thân"
+            ],
+            "vocabulary": [
+                "member (n) thành viên",
+                "streamline (v) tối ưu hóa",
+                "assembly (n) lắp rắp",
+                "process (n) quá trình"
+            ]
+        },
+        {
+            "question": "Rupert's Food Service uses __________ technology to track all of its shipments.",
+            "questionNumber": 122,
+            "answers": [
+                "(A) strict",
+                "(B) numerous",
+                "(C) advanced",
+                "(D) crowded"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền là tính từ đứng trước danh từ tân ngữ “technology”, đóng vai trò bổ nghĩa cho danh từ đó."
+            ],
+            "answerSelection": [
+                "(A) strict: nghiêm ngặt",
+                "(B) numerous: nhiều",
+                "(C) advanced: tiên tiến",
+                "(D) crowded: đông đúc"
+            ],
+            "vocabulary": [
+                "service (n) dịch vụ",
+                "numerous (adj) nhiều",
+                "advanced (adj) tiên tiến",
+                "technology (n) công nghệ",
+                "track (v) theo dõi",
+                "shipment (n) lô hàng"
+            ]
+        },
+        {
+            "question": "Our app includes a __________ so that users can determine whether they are within their budget goals.",
+            "questionNumber": 123,
+            "answers": [
+                "(A) calculator",
+                "(B) calculated",
+                "(C) calculating",
+                "(D) calculations"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng sau mạo từ “a”, đóng vai trò tân ngữ trong mệnh đề đầu tiên của câu.",
+                "Đáp án là danh từ số ít."
+            ],
+            "answerSelection": [
+                "(A) calculator: danh từ số ít (máy tính cầm tay)",
+                "(B) calculated: quá khứ phân từ (đã tính toán)",
+                "(C) calculating: hiện tại phân từ (đang tính toán)",
+                "(D) calculations: danh từ số nhiều (các phép tính)"
+            ],
+            "vocabulary": [
+                "app (n) phần mềm",
+                "user (n) người dùng",
+                "determine (v) xác định",
+                "budget (n) ngân sách"
+            ]
+        },
+        {
+            "question": "To __________ that its facilities are cleaned every day, the Selboa Company has hired more janitors.",
+            "questionNumber": 124,
+            "answers": [
+                "(A) ensure",
+                "(B) affect",
+                "(C) provide",
+                "(D) secure"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là động từ đứng sau “to” và đứng trước mệnh đề “that its facilities are cleaned every day”."
+            ],
+            "answerSelection": [
+                "(A) ensure: đảm bảo",
+                "(B) affect: tác động",
+                "(C) provide: cung cấp",
+                "(D) secure: củng cố, làm kiên cố"
+            ],
+            "vocabulary": [
+                "ensure (v) đảm bảo",
+                "affect (v) tác động",
+                "provide (v) cung cấp",
+                "secure (v) củng cố, làm kiên cố",
+                "facility (n) cơ sở vật chất",
+                "janitor (n) người lao công"
+            ]
+        },
+        {
+            "question": "During his term as a legislator, Jeremy Moran __________ promoted public awareness of the need for infrastructure improvements.",
+            "questionNumber": 125,
+            "answers": [
+                "(A) act",
+                "(B) action",
+                "(C) acts",
+                "(D) actively"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền đứng trước động từ “promoted”, đóng vai trò bổ nghĩa cho động từ đó.",
+                "Đáp án là trạng từ."
+            ],
+            "answerSelection": [
+                "(A) act: danh từ/động từ (hành động)",
+                "(B) action: danh từ (hành động)",
+                "(C) active: tính từ (tích cực)",
+                "(D) actively: trạng từ (một cách tích cực)"
+            ],
+            "vocabulary": [
+                "active (adj) tích cực",
+                "legislator (n) nhà lập pháp",
+                "promote (v) đẩy mạnh, khuyến khích",
+                "public awareness (n. phr.) nhận thức của công chúng",
+                "infrastructure (n) cơ sở hạ tầng",
+                "improvement (n) sự cải thiện"
+            ]
+        },
+        {
+            "question": "Pyxie Print's business is so new that we need to explain the full range of our services to __________ clients.",
+            "questionNumber": 126,
+            "answers": [
+                "(A) trained",
+                "(B) potential",
+                "(C) elected",
+                "(D) paid"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Từ cần điền là tính từ đứng trước danh từ tân ngữ “clients”, đóng vai trò bổ nghĩa cho danh từ đó."
+            ],
+            "answerSelection": [
+                "(A) trained: được đào tạo",
+                "(B) potential: tiềm năng",
+                "(C) elected: được bầu cử",
+                "(D) paid: đã trả tiền"
+            ],
+            "vocabulary": [
+                "potential (adj) tiềm năng",
+                "elected (adj) được bầu cử",
+                "explain (v) giải thích",
+                "range (n) bộ, dãy, hàng, phạm vi",
+                "client (n) khách hàng"
+            ]
+        },
+        {
+            "question": "Phone orders that are __________ to local stores by 11:00 A.M. are eligible for same-day pickup.",
+            "questionNumber": 127,
+            "answers": [
+                "(A) submitted",
+                "(B) submission",
+                "(C) submitting",
+                "(D) submits"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền đứng sau to be “are”, là động từ chính trong câu bị động, diễn tả hành động tác động lên chủ ngữ.",
+                "Đáp án là quá khứ phân từ"
+            ],
+            "answerSelection": [
+                "(A) submitted: quá khứ phân từ (được gửi)",
+                "(B) submission: danh từ (sự đệ trình)",
+                "(C) submitting: hiện tại phân từ (đang gửi)",
+                "(D) submits: động từ chia theo thì hiện tại đơn (gửi)"
+            ],
+            "vocabulary": [
+                "order (n) đơn đặt hàng",
+                "submit (v) gửi, nộp",
+                "eligible (adj) đủ điều kiện",
+                "same-day (adj) trong ngày",
+                "pickup (n) nhận hàng"
+            ]
+        },
+        {
+            "question": "An Oswald Hardware associate will __________ place an order for customers who need larger quantities than what is in stock.",
+            "questionNumber": 128,
+            "answers": [
+                "(A) slightly",
+                "(B) wholly",
+                "(C) busily",
+                "(D) gladly"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Từ cần điền là trạng từ đứng trước động từ “place”, đóng vai trò bổ nghĩa cho động từ đó."
+            ],
+            "answerSelection": [
+                "(A) slightly: hơi, một chút",
+                "(B) wholly: toàn bộ",
+                "(C) busily: bận rộn",
+                "(D) gladly: vui lòng"
+            ],
+            "vocabulary": [
+                "associate (n) công tác viên",
+                "customer (n) khách hàng",
+                "quantity (n) số lượng",
+                "in stock (adj) có sẵn, có trong kho"
+            ]
+        },
+        {
+            "question": "Mia Daushvili performed with the Bayhead Orchestra on Monday evening, __________ her virtuosic skills on the piccolo.",
+            "questionNumber": 129,
+            "answers": [
+                "(A) displays",
+                "(B) had displayed",
+                "(C) displaying",
+                "(D) was displayed"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Từ cần điền đứng đầu mệnh đề thứ hai sau dấu phẩy, đứng trước cụm danh từ “her virtuosic skills” nên từ này là động từ và mệnh đề này đang ở dạng chủ động. Đây là cấu trúc rút gọn của mệnh đề quan hệ ở dạng chủ động.",
+                "Nghĩa câu: Mia Daushvili đã biểu diễn cùng Dàn nhạc Bayhead vào tối thứ Hai, thể hiện kỹ năng điêu luyện của mình với chiếc sáo piccolo.",
+                "Đáp án là động từ ở dạng động từ thêm -ing."
+            ],
+            "answerSelection": [
+                "(A) displays: động từ chia theo thì hiện tại đơn",
+                "(B) had displayed: động từ chia theo thì quá khứ hoàn thành",
+                "(C) displaying: động từ ở dạng động từ thêm -ing.",
+                "(D) was displayed: động từ chia theo thì quá khứ đơn ở thể bị động"
+            ],
+            "vocabulary": [
+                "perform (v) biểu diễn",
+                "orchestra (n) dàn nhạc",
+                "vistuosic (adj) điêu luyện",
+                "display (v) thể hiện",
+                "piccolo (n) sáo piccolo"
+            ]
+        },
+        {
+            "question": "When reviewing applicants for the clerk position, Ms. Ng will consider both education and __________ experience.",
+            "questionNumber": 130,
+            "answers": [
+                "(A) prior",
+                "(B) quick",
+                "(C) lean",
+                "(D) calm"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Từ cần điền là tính từ đứng trước danh từ “experience”, đóng vai trò bổ nghĩa cho danh từ đó."
+            ],
+            "answerSelection": [
+                "(A) prior: trước đó",
+                "(B) quick: nhanh",
+                "(C) lean: nghiêng",
+                "(D) calm: bình tĩnh"
+            ],
+            "vocabulary": [
+                "prior (adj) trước đó, trước đây",
+                "applicant (n) ứng viên",
+                "clerk (n) thư ký, nhân viên bán hàng",
+                "consider (v) cân nhắc"
+            ]
+        }
+    ]
+}

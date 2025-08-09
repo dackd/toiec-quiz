@@ -1,0 +1,799 @@
+{
+  "category": "TEST 1",
+  "questions": [
+    {
+      "question": "Former Sendai Company CEO Ken Nakata spoke about __________ career experiences.",
+      "questionNumber": 101,
+      "answers": ["(A) he", "(B) his", "(C) him", "(D) himself"],
+      "correctAnswer": "(B)",
+      "answerInfo": [
+        "Từ cần điền đứng trước cụm danh từ “career experiences”, đóng vai trò là tính từ bổ nghĩa cho cụm danh từ này.",
+        "Nghĩa câu: Cựu giám đốc điều hành công ty Sendai Ken Nakata đã nói về những kinh nghiệm nghề nghiệp của mình.",
+        "→ Đáp án là tính từ sở hữu"
+      ],
+      "answerSelection": [
+        "(A) he: đại từ chủ ngữ",
+        "(B) his: tính từ sở hữu",
+        "(C) him: đại từ tân ngữ",
+        "(D) himself: đại từ phản thân"
+      ],
+      "vocabulary": [
+        "former (adj) cựu, trước đây",
+        "CEO (n) giám đốc điều hành",
+        "company (n) công ty",
+        "speak (v) nói",
+        "career (n) nghề nghiệp",
+        "experience (n) kinh nghiệm",
+        "possessive (n) sở hữu"
+      ]
+    },
+    {
+      "question": "Passengers who will be taking a __________ domestic flight should go to Terminal A.",
+      "questionNumber": 102,
+      "answers": [
+        "(A) connectivity",
+        "(B) connects",
+        "(C) connect",
+        "(D) connecting"
+      ],
+      "correctAnswer": "(D)",
+      "answerInfo": [
+        "Từ cần điền đứng trước danh từ “flight”, đóng vai trò là tính từ bổ nghĩa cho danh từ này",
+        "→ Đáp án là tính từ."
+      ],
+      "answerSelection": [
+        "(A) connectivity: danh từ (sự kết nối)",
+        "(B) connects: động từ (kết nối)",
+        "(C) connect: động từ (kết nối)",
+        "(D) connecting: tính từ (kết nối, nối tiếp)"
+      ],
+      "vocabulary": [
+        "passenger (n) hành khách",
+        "domestic (adj) nội địa",
+        "flight (n) chuyến bay",
+        "terminal (n) cửa, nhà ga",
+        "connect (v) nối, kết nối"
+      ]
+    },
+    {
+      "question": "Fresh and __________ apple-cider donuts are available at Oakcrest Orchard's retail shop for £6 per dozen.",
+      "questionNumber": 103,
+      "answers": ["(A) eaten", "(B) open", "(C) tasty", "(D) free"],
+      "correctAnswer": "(C)",
+      "answerInfo": [
+        "Từ cần điền là tính từ, đóng vai trò bổ nghĩa cho cụm danh từ “apple-cider donuts”."
+      ],
+      "answerSelection": [
+        "(A) eaten: tính từ (có thể ăn được)",
+        "(B) open: tính từ (mở, không bị đóng)",
+        "(C) tasty: tính từ (ngon, hấp dẫn)",
+        "(D) free: tính từ (miễn phí, tự do)"
+      ],
+      "vocabulary": [
+        "fresh (adj) tươi",
+        "apple-cider (n-n) nước ép táo",
+        "donut (n) bánh rán",
+        "available (adj) có sẵn, có bán",
+        "orchard (n) vườn cây ăn quả",
+        "retail (n) bán lẻ",
+        "shop (n) cửa hàng",
+        "dozen (n) tá (12 cái)"
+      ]
+    },
+    {
+      "question": "Zahn Flooring has the widest selection of __________ in the United Kingdom.",
+      "questionNumber": 104,
+      "answers": ["(A) paints", "(B) tiles", "(C) furniture", "(D) curtains"],
+      "correctAnswer": "(B)",
+      "answerInfo": [
+        "Trước chỗ trống là động từ “has” → Từ cần điền vào chỗ trống là danh từ kết hợp với “the widest selection of” tạo thành một cụm danh từ hoàn chỉnh, đóng vai trò tân ngữ của động từ “has”. Từ này phải phù hợp với ngữ cảnh của câu, cụ thể là phải liên quan đến “Zahn Flooring” - một công ty chuyên về sàn nhà."
+      ],
+      "answerSelection": [
+        "(A) paints: danh từ (sơn, màu sắc)",
+        "(B) tiles: danh từ (gạch, ngói)",
+        "(C) furniture: danh từ (đồ nội thất)",
+        "(D) curtains: danh từ (rèm cửa, màn)"
+      ],
+      "vocabulary": [
+        "flooring (n) sàn nhà, sàn gỗ",
+        "selection (n) sự lựa chọn"
+      ]
+    },
+    {
+      "question": "One responsibility of the IT department is to ensure that the company is using __________ software.",
+      "questionNumber": 105,
+      "answers": ["(A) update", "(B) updating", "(C) updates", "(D) updated"],
+      "correctAnswer": "(D)",
+      "answerInfo": [
+        "Từ cần điền đứng sau tân ngữ “the company”, đóng vai trò là bổ nghĩa cho danh từ “software”.",
+        "→ Đáp án là tính từ."
+      ],
+      "answerSelection": [
+        "(A) update: động từ (cập nhật)",
+        "(B) updating: động từ tiếp diễn (đang cập nhật)",
+        "(C) updates: danh từ (bản cập nhật)",
+        "(D) updated: tính từ (đã được cập nhật)"
+      ],
+      "vocabulary": [
+        "responsibility (n) trách nhiệm",
+        "department (n) bộ phận, phòng ban",
+        "ensure (v) đảm bảo",
+        "company (n) công ty",
+        "software (n) phần mềm",
+        "update (v) cập nhật"
+      ]
+    },
+    {
+      "question": "It is wise to check a company's dress code __________ visiting its head office.",
+      "questionNumber": 106,
+      "answers": ["(A) so", "(B) how", "(C) like", "(D) before"],
+      "correctAnswer": "(D)",
+      "answerInfo": [
+        "Từ cần điền vào chỗ trống đứng trước “visiting its head office”, đóng vai trò là giới từ trong câu giúp chỉ ra mối quan hệ giữa hai hành động trong câu: “check a company's dress code” và “visiting its head office”.",
+        "→ Đáp án là giới từ chỉ thời gian."
+      ],
+      "answerSelection": [
+        "(A) so: vì thế, cho nên",
+        "(B) how: như thế nào, bằng cách nào",
+        "(C) like: giống như",
+        "(D) before: trước khi"
+      ],
+      "vocabulary": [
+        "wise (adj) thông minh, khôn ngoan",
+        "check (v) kiểm tra",
+        "dress code (n-n) quy định về trang phục",
+        "visit (v) đến thăm, ghé thăm",
+        "head office (n-n) trụ sở chính"
+      ]
+    },
+    {
+      "question": "Wexler Store's management team expects that employees will __________ support any new hires.",
+      "questionNumber": 107,
+      "answers": [
+        "(A) enthusiastically",
+        "(B) enthusiasm",
+        "(C) enthusiastic",
+        "(D) enthused"
+      ],
+      "correctAnswer": "(A)",
+      "answerInfo": [
+        "Từ cần điền vào chỗ trống nằm trong mệnh đề danh từ “that employees will support any new hires”, mệnh đề danh từ này đóng vai trò là tân ngữ cho động từ “expects”.",
+        "Trong trường hợp này, “employees” là chủ ngữ của mệnh đề danh từ, không phải là tân ngữ. → Đáp án cần là một trạng từ để bổ nghĩa cho động từ “support”."
+      ],
+      "answerSelection": [
+        "(A) enthusiastically: trạng từ (một cách nhiệt tình)",
+        "(B) enthusiasm: danh từ (sự nhiệt tình, hăng hái)",
+        "(C) enthusiastic: tính từ (nhiệt tình, hăng hái)",
+        "(D) enthused: động từ quá khứ (làm cho nhiệt tình, hăng hái)"
+      ],
+      "vocabulary": [
+        "management (n) quản lý",
+        "team (n) đội, nhóm",
+        "expect (v) mong đợi",
+        "employee (n) nhân viên",
+        "support (v) hỗ trợ"
+      ]
+    },
+    {
+      "question": "Wheel alignments and brake system __________ are part of our vehicle service plan.",
+      "questionNumber": 108,
+      "answers": [
+        "(A) inspects",
+        "(B) inspector",
+        "(C) inspected",
+        "(D) inspections"
+      ],
+      "correctAnswer": "(D)",
+      "answerInfo": [
+        "Từ cần điền vào chỗ trống là danh từ kết hợp với “Wheel alignments and brake system” tạo thành một cụm danh từ hoàn chỉnh, đóng vai trò chủ ngữ của câu.",
+        "→ Đáp án là danh từ số nhiều."
+      ],
+      "answerSelection": [
+        "(A) inspects: động từ chia theo thì hiện tại đơn (kiểm tra)",
+        "(B) inspector: danh từ (người kiểm tra, thanh tra viên)",
+        "(C) inspected: động từ quá khứ hoặc phân từ quá khứ (đã kiểm tra, được kiểm tra)",
+        "(D) inspections: danh từ số nhiều (việc kiểm tra, sự thanh tra)"
+      ],
+      "vocabulary": [
+        "wheel (n) bánh xe",
+        "alignment (n) sự căn chỉnh",
+        "brake (n) phanh",
+        "system (n) hệ thống",
+        "inspect (v) kiểm tra",
+        "vehicle (n) phương tiện giao thông",
+        "service (n) dịch vụ",
+        "plan (n) kế hoạch"
+      ]
+    },
+    {
+      "question": "Registration for the Marketing Coalition Conference is now open __________ September 30.",
+      "questionNumber": 109,
+      "answers": ["(A) until", "(B) into", "(C) yet", "(D) while"],
+      "correctAnswer": "(A)",
+      "answerInfo": [
+        "Từ cần điền vào chỗ trống nằm trước cụm danh từ “September 30”.",
+        "Trong trường hợp này, “September 30” là thời điểm kết thúc cho thời gian mà đăng ký cho Hội nghị Liên minh Tiếp thị → Đáp án cần là một giới từ chỉ thời hạn.",
+        "Nghĩa câu: Thời gian đăng ký cho Hội nghị Liên minh Tiếp thị hiện đang mở đến ngày 30 tháng 9."
+      ],
+      "answerSelection": [
+        "(A) until: giới từ mang nghĩa “đến khi”",
+        "(B) into: giới từ mang nghĩa “vào trong”",
+        "(C) yet: trạng từ mang nghĩa “chưa”",
+        "(D) while: liên từ mang nghĩa “trong khi”"
+      ],
+      "vocabulary": [
+        "registration (n) sự đăng ký",
+        "marketing (n) tiếp thị",
+        "coalition (n) liên minh",
+        "conference (n) hội nghị"
+      ]
+    },
+    {
+      "question": "Growth in the home entertainment industry has been __________ this quarter.",
+      "questionNumber": 110,
+      "answers": ["(A) separate", "(B) limited", "(C) willing", "(D) assorted"],
+      "correctAnswer": "(B)",
+      "answerInfo": [
+        "Từ cần điền vào chỗ trống nằm sau cụm từ “has been” → Từ cần điền phải là một động từ quá khứ phân từ (past participle) để hoàn thành câu bị động.",
+        "→ Đáp án là một động từ quá khứ phân từ."
+      ],
+      "answerSelection": [
+        "(A) separate: tính từ (riêng biệt, tách rời)",
+        "(B) limited: động từ ở thể quá khứ phân từ. (hạn chế, có giới hạn)",
+        "(C) willing: tính từ (sẵn sàng, tự nguyện)",
+        "(D) assorted: tính từ (đa dạng, phong phú)"
+      ],
+      "vocabulary": [
+        "growth (n) sự tăng trưởng",
+        "home (n) nhà",
+        "entertainment (n) giải trí",
+        "industry (n) ngành công nghiệp",
+        "quarter (n) quý"
+      ]
+    },
+    {
+      "question": "Hawson Furniture will be making __________ on the east side of town on Thursday.",
+      "questionNumber": 111,
+      "answers": [
+        "(A) deliveries",
+        "(B) delivered",
+        "(C) deliver",
+        "(D) deliverable"
+      ],
+      "correctAnswer": "(A)",
+      "answerInfo": [
+        "Từ cần điền đứng sau cụm động từ “will be making”, đóng vai trò là tân ngữ bổ ngữ cho cụm động từ này.",
+        "→ Đáp án là danh từ."
+      ],
+      "answerSelection": [
+        "(A) deliveries: danh từ số nhiều (việc giao hàng, sự phân phát)",
+        "(B) delivered: động từ quá khứ hoặc phân từ quá khứ (đã giao hàng, được giao hàng)",
+        "(C) deliver: động từ (giao hàng, phân phát)",
+        "(D) deliverable: tính từ (có thể giao hàng, có thể phân phát)"
+      ],
+      "vocabulary": [
+        "furniture (n) đồ nội thất",
+        "delivery (n) sự giao hàng",
+        "deliver (v) giao hàng"
+      ]
+    },
+    {
+      "question": "The Marlton City Council does not have the authority to __________ parking on city streets.",
+      "questionNumber": 112,
+      "answers": ["(A) drive", "(B) prohibit", "(C) bother", "(D) travel"],
+      "correctAnswer": "(B)",
+      "answerInfo": [
+        "Từ cần điền đứng sau “to”, đóng vai trò là động từ nguyên mẫu trong câu."
+      ],
+      "answerSelection": [
+        "(A) drive: lái xe",
+        "(B) prohibit: cấm",
+        "(C) bother: làm phiền",
+        "(D) travel: du lịch"
+      ],
+      "vocabulary": [
+        "city council (n-n) hội đồng thành phố",
+        "authority (n) quyền hạn, thẩm quyền",
+        "parking (n) sự đỗ xe"
+      ]
+    },
+    {
+      "question": "Project Earth Group is __________ for ways to reduce transport-related greenhouse gas emissions.",
+      "questionNumber": 113,
+      "answers": ["(A) looking", "(B) seeing", "(C) driving", "(D) watching"],
+      "correctAnswer": "(A)",
+      "answerInfo": [
+        "Từ cần điền vào chỗ trống phải là một động từ nguyên thể có “-ing” đứng sau “is” và phải kết hợp được với giới từ “for” để tạo thành một cụm từ với nghĩa là “tìm kiếm”, cụm từ này sẽ đóng vai trò động từ chính trong câu."
+      ],
+      "answerSelection": [
+        "(A) looking: tìm kiếm",
+        "(B) seeing: nhìn thấy",
+        "(C) driving: lái xe",
+        "(D) leaning: nghiêng"
+      ],
+      "vocabulary": [
+        "project (n) dự án",
+        "earth (n) trái đất",
+        "group (n) nhóm",
+        "reduce (v) giảm thiểu",
+        "transport-related (adj) liên quan đến giao thông",
+        "greenhouse gas (n-n) khí thải nhà kính"
+      ]
+    },
+    {
+      "question": "Our skilled tailors are happy to design a custom-made suit that fits your style and budget __________.",
+      "questionNumber": 114,
+      "answers": [
+        "(A) perfect",
+        "(B) perfects",
+        "(C) perfectly",
+        "(D) perfection"
+      ],
+      "correctAnswer": "(C)",
+      "answerInfo": [
+        "Từ cần điền đứng sau tân ngữ “your style and budget”, đóng vai trò là bổ ngữ của động từ “fits”.",
+        "→ Đáp án là trạng từ."
+      ],
+      "answerSelection": [
+        "(A) perfect: tính từ (hoàn hảo, tuyệt vời)",
+        "(B) perfects: động từ chia theo thì hiện tại đơn (hoàn thiện, làm cho hoàn hảo)",
+        "(C) perfectly: trạng từ (một cách hoàn hảo, tuyệt vời)",
+        "(D) perfection: danh từ (sự hoàn hảo)"
+      ],
+      "vocabulary": [
+        "skilled (adj) có kỹ năng, tài ba",
+        "tailor (n) thợ may",
+        "design (v) thiết kế",
+        "custom-made (adj) may đo, theo yêu cầu",
+        "suit (n) bộ đồ, bộ com lê",
+        "fit (v) vừa, phù hợp",
+        "style (n) phong cách",
+        "budget (n) ngân sách"
+      ]
+    },
+    {
+      "question": "Project manager Hannah Chung has proved to be very __________ with completing company projects.",
+      "questionNumber": 115,
+      "answers": [
+        "(A) helpfulness",
+        "(B) help",
+        "(C) helpfully",
+        "(D) helpful"
+      ],
+      "correctAnswer": "(D)",
+      "answerInfo": [
+        "Từ cần điền đứng sau trợ động từ “be”, đóng vai trò là bổ ngữ của động từ “proved”.",
+        "→ Đáp án là tính từ."
+      ],
+      "answerSelection": [
+        "(A) helpfulness: danh từ (sự hữu ích, sự giúp đỡ)",
+        "(B) help: danh từ hoặc động từ (sự giúp đỡ, giúp đỡ)",
+        "(C) helpfully: trạng từ (một cách hữu ích, giúp đỡ)",
+        "(D) helpful: tính từ (hữu ích, giúp đỡ)"
+      ],
+      "vocabulary": [
+        "project manager (n-n) quản lý dự án",
+        "prove (v) chứng minh",
+        "complete (v) hoàn thành",
+        "company (n) công ty",
+        "project (n) dự án"
+      ]
+    },
+    {
+      "question": "Lehua Vacation Club members will receive double points __________ the month of August at participating hotels.",
+      "questionNumber": 116,
+      "answers": ["(A) onto", "(B) above", "(C) during", "(D) between"],
+      "correctAnswer": "(C)",
+      "answerInfo": [
+        "Phía sau chỗ trống là thông tin chỉ thời gian “the month of August”, chỗ trống kết hợp với cụm này để tạo thành cụm trạng ngữ chỉ thời gian.",
+        "Nghĩa câu: Thành viên của Lehua Vacation Club sẽ nhận được điểm gấp đôi trong tháng Tám tại các khách sạn tham gia.",
+        "→ Đáp án là giới từ chỉ thời gian."
+      ],
+      "answerSelection": [
+        "(A) onto: giới từ mang nghĩa “lên trên”",
+        "(B) above: giới từ mang nghĩa “ở trên”",
+        "(C) during: giới từ mang nghĩa “trong suốt”",
+        "(D) between: giới từ mang nghĩa “giữa”"
+      ],
+      "vocabulary": [
+        "vacation club (n-n) câu lạc bộ nghỉ dưỡng",
+        "member (n) thành viên",
+        "receive (v) nhận",
+        "double (adj) gấp đôi",
+        "point (n) điểm",
+        "participate (v) tham gia",
+        "hotel (n) khách sạn"
+      ]
+    },
+    {
+      "question": "The costumes were not received __________ enough to be used in the first dress rehearsal.",
+      "questionNumber": 117,
+      "answers": ["(A) far", "(B) very", "(C) almost", "(D) soon"],
+      "correctAnswer": "(D)",
+      "answerInfo": [
+        "Từ cần điền đứng trước tính từ “enough”, đóng vai trò là bổ nghĩa cho tính từ đó.",
+        "→ Đáp án là trạng từ."
+      ],
+      "answerSelection": [
+        "(A) far: trạng từ (xa, rất)",
+        "(B) very: trạng từ (rất, lắm)",
+        "(C) almost: trạng từ (gần như, suýt)",
+        "(D) soon: trạng từ (sớm, chẳng bao lâu)"
+      ],
+      "vocabulary": [
+        "costume (n) trang phục",
+        "receive (v) nhận",
+        "enough (adv) đủ",
+        "use (v) sử dụng",
+        "dress rehearsal (n-n) buổi thử trang phục"
+      ]
+    },
+    {
+      "question": "As a former publicist for several renowned orchestras, Mr. Wu would excel in the role of event __________.",
+      "questionNumber": 118,
+      "answers": [
+        "(A) organized",
+        "(B) organizer",
+        "(C) organizes",
+        "(D) organizational"
+      ],
+      "correctAnswer": "(B)",
+      "answerInfo": [
+        "Từ cần điền đứng sau tân ngữ “the role of event”, đóng vai trò là bổ ngữ của danh từ “role”.",
+        "→ Đáp án là danh từ."
+      ],
+      "answerSelection": [
+        "(A) organized: động từ quá khứ hoặc phân từ quá khứ (đã tổ chức, được tổ chức)",
+        "(B) organizer: danh từ (người tổ chức, nhà tổ chức)",
+        "(C) organizes: động từ chia theo thì hiện tại đơn (tổ chức)",
+        "(D) organizational: tính từ (thuộc về tổ chức)"
+      ],
+      "vocabulary": [
+        "former (adj) trước đây, cũ",
+        "publicist (n) người quảng bá",
+        "renowned (adj) nổi tiếng",
+        "orchestra (n) dàn nhạc",
+        "excel (v) xuất sắc",
+        "role (n) vai trò",
+        "event (n) sự kiện"
+      ]
+    },
+    {
+      "question": "The northbound lane on Davis Street will be __________ closed because of the city's bridge reinforcement project.",
+      "questionNumber": 119,
+      "answers": [
+        "(A) temporarily",
+        "(B) competitively",
+        "(C) recently",
+        "(D) collectively"
+      ],
+      "correctAnswer": "(A)",
+      "answerInfo": [
+        "Từ cần điền đứng sau trợ động từ “be”, đóng vai trò là bổ ngữ của động từ “closed”."
+      ],
+      "answerSelection": [
+        "(A) temporarily: tạm thời, nhất thời",
+        "(B) competitively: cạnh tranh, đua tranh",
+        "(C) recently: gần đây, mới đây",
+        "(D) collectively: tập thể, chung"
+      ],
+      "vocabulary": [
+        "northbound (adj) hướng bắc",
+        "lane (n) làn đường",
+        "close (v) đóng cửa",
+        "bridge (n) cầu",
+        "reinforcement (n) sự củng cố",
+        "project (n) dự án"
+      ]
+    },
+    {
+      "question": "Airline representatives must handle a wide range of passenger issues, __________ missed connections to lost luggage.",
+      "questionNumber": 120,
+      "answers": ["(A) from", "(B) under", "(C) on", "(D) against"],
+      "correctAnswer": "(A)",
+      "answerInfo": [
+        "Phía sau chỗ trống là hai cụm danh từ “missed connections” và “lost luggage”, kết hợp với nhau bởi “to”.",
+        "Nghĩa câu: Đại diện của hãng hàng không phải xử lý một loạt các vấn đề của hành khách, từ chuyến bay bị lỡ đến hành lý bị mất.",
+        "→ Đáp án là giới từ chỉ phạm vi."
+      ],
+      "answerSelection": [
+        "(A) from: giới từ mang nghĩa “từ” (đi kèm (cụm) danh từ)",
+        "(B) under: giới từ mang nghĩa “dưới” (đi kèm (cụm) danh từ)",
+        "(C) on: giới từ mang nghĩa “trên” (đi kèm (cụm) danh từ)",
+        "(D) against: giới từ mang nghĩa “chống lại” (đi kèm (cụm) danh từ)"
+      ],
+      "vocabulary": [
+        "airline (n) hãng hàng không",
+        "representative (n) đại diện",
+        "handle (v) xử lý",
+        "wide (adj) rộng",
+        "range (n) loạt, phạm vi",
+        "passenger (n) hành khách",
+        "issue (n) vấn đề",
+        "miss (v) lỡ",
+        "connection (n) chuyến bay nối",
+        "lose (v) mất",
+        "luggage (n) hành lý"
+      ]
+    },
+    {
+      "question": "The meeting notes were __________ deleted, but Mr. Hahm was able to recreate them from memory.",
+      "questionNumber": 121,
+      "answers": [
+        "(A) accident",
+        "(B) accidental",
+        "(C) accidents",
+        "(D) accidentally"
+      ],
+      "correctAnswer": "(D)",
+      "answerInfo": [
+        "Từ cần điền đứng trước động từ “deleted”, đóng vai trò là bổ nghĩa cho động từ đó.",
+        "→ Đáp án là trạng từ."
+      ],
+      "answerSelection": [
+        "(A) accident: danh từ (tai nạn, sự cố)",
+        "(B) accidental: tính từ (tình cờ, vô ý)",
+        "(C) accidents: danh từ số nhiều (tai nạn, sự cố)",
+        "(D) accidentally: trạng từ (tình cờ, vô ý)"
+      ],
+      "vocabulary": [
+        "meeting notes (n-n) ghi chú cuộc họp",
+        "delete (v) xóa",
+        "recreate (v) khôi phục, tạo lại",
+        "memory (n) ký ức"
+      ]
+    },
+    {
+      "question": "The current issue of Farming Scene magazine predicts that the price of corn will rise 5 percent over the __________ year.",
+      "questionNumber": 122,
+      "answers": ["(A) next", "(B) with", "(C) which", "(D) now"],
+      "correctAnswer": "(A)",
+      "answerInfo": [
+        "Từ cần điền vào chỗ trống nằm trong cụm trạng ngữ chỉ thời gian “over the ___ year.”",
+        "→ Đáp án cần là một tính từ để bổ nghĩa cho danh từ “year” và từ này phải chỉ một khoảng thời gian trong tương lai so với thời điểm hiện tại",
+        "→ Đáp án là tính từ chỉ thời gian."
+      ],
+      "answerSelection": [
+        "(A) next: tính từ (tiếp theo, kế tiếp)",
+        "(B) with: giới từ (với, cùng)",
+        "(C) which: đại từ quan hệ (mà, cái mà)",
+        "(D) now: trạng từ (bây giờ, hiện tại)"
+      ],
+      "vocabulary": [
+        "current (adj) hiện tại, đương thời",
+        "issue (n) số báo, kỳ phát hành",
+        "farming (n) nông nghiệp",
+        "scene (n) cảnh, phong cảnh",
+        "magazine (n) tạp chí",
+        "predict (v) dự đoán",
+        "price (n) giá",
+        "corn (n) ngô",
+        "rise (v) tăng",
+        "percent (n) phần trăm"
+      ]
+    },
+    {
+      "question": "Anyone who still __________ to take the fire safety training should do so before the end of the month.",
+      "questionNumber": 123,
+      "answers": [
+        "(A) needing",
+        "(B) needs",
+        "(C) has needed",
+        "(D) were needing"
+      ],
+      "correctAnswer": "(B)",
+      "answerInfo": [
+        "Từ cần điền đóng vai trò là động từ chính trong mệnh đề quan hệ “who still ___ to take the fire safety training”.",
+        "Từ này phải đi chung với đại từ quan hệ “who” và động từ “to take”.",
+        "Nghĩa câu: Bất kỳ ai vẫn cần phải tham gia khóa đào tạo an toàn cháy nổ thì nên hoàn thành trước khi kết thúc tháng này.",
+        "→ Câu miêu tả một yêu cầu hay lời khuyên trong hiện tại.",
+        "→ Đáp án là động từ chia theo thì hiện tại đơn chỉ nhu cầu hay yêu cầu."
+      ],
+      "answerSelection": [
+        "(A) needing: động từ nguyên thể thêm “-ing”",
+        "(B) needs: động từ chia theo thì hiện tại đơn",
+        "(C) has needed: động từ chia theo thì hiện tại hoàn thành",
+        "(D) were needing: động từ chia theo thì quá khứ tiếp diễn"
+      ],
+      "vocabulary": [
+        "anyone (pron) bất kỳ ai",
+        "still (adv) vẫn",
+        "need (v) cần",
+        "take (v) tham gia, thực hiện",
+        "fire safety (n-n) an toàn cháy nổ",
+        "training (n) đào tạo"
+      ]
+    },
+    {
+      "question": "Emerging technologies have __________ begun to transform the shipping industry in ways that were once unimaginable.",
+      "questionNumber": 124,
+      "answers": ["(A) already", "(B) exactly", "(C) hardly", "(D) closely"],
+      "correctAnswer": "(A)",
+      "answerInfo": [
+        "Từ cần điền đứng trước động từ “begun”, đóng vai trò là bổ nghĩa cho động từ đó."
+      ],
+      "answerSelection": [
+        "(A) already: trạng từ (đã, rồi)",
+        "(B) exactly: trạng từ (chính xác, đúng)",
+        "(C) hardly: trạng từ (hầu như không, khó khăn)",
+        "(D) closely: trạng từ (gần, chặt chẽ)"
+      ],
+      "vocabulary": [
+        "emerging (adj) mới nổi, nổi lên",
+        "technology (n) công nghệ",
+        "begin (v) bắt đầu",
+        "transform (v) biến đổi",
+        "shipping (n) vận tải",
+        "industry (n) ngành công nghiệp",
+        "way (n) cách",
+        "once (adv) một lần, trước đây",
+        "unimaginable (adj) không thể tưởng tượng được"
+      ]
+    },
+    {
+      "question": "The company handbook outlines the high __________ that employees are expected to meet every day.",
+      "questionNumber": 125,
+      "answers": [
+        "(A) experts",
+        "(B) accounts",
+        "(C) recommendations",
+        "(D) standards"
+      ],
+      "correctAnswer": "(D)",
+      "answerInfo": [
+        "Từ cần điền đứng sau tính từ “high”, đóng vai trò là tân ngữ của động từ “outlines”."
+      ],
+      "answerSelection": [
+        "(A) experts: chuyên gia",
+        "(B) accounts: tài khoản",
+        "(C) recommendations: khuyến nghị",
+        "(D) standards: tiêu chuẩn"
+      ],
+      "vocabulary": [
+        "company (n) công ty",
+        "handbook (n) sổ tay",
+        "outline (v) nêu rõ, phác thảo",
+        "high (adj) cao",
+        "employee (n) nhân viên",
+        "expect (v) mong đợi"
+      ]
+    },
+    {
+      "question": "Because __________ of the board members have scheduling conflicts, the board meeting will be moved to a date when all can attend.",
+      "questionNumber": 126,
+      "answers": ["(A) any", "(B) everybody", "(C) those", "(D) some"],
+      "correctAnswer": "(D)",
+      "answerInfo": [
+        "Từ cần điền đứng trước giới từ “of”, đóng vai trò là chủ ngữ của mệnh đề “___ of the board members have scheduling conflicts”.",
+        "Nghĩa câu: Bởi vì một số thành viên hội đồng quản trị có xung đột lịch trình, cuộc họp hội đồng sẽ được chuyển sang một ngày mà tất cả có thể tham dự.",
+        "→ Đáp án là đại từ chỉ số lượng."
+      ],
+      "answerSelection": [
+        "(A) any: đại từ chỉ bất kỳ",
+        "(B) everybody: đại từ chỉ mọi người",
+        "(C) those: đại từ chỉ những người đang đứng ở phía xa",
+        "(D) some: đại từ chỉ một số"
+      ],
+      "vocabulary": [
+        "board member (n-n) thành viên ban giám đốc",
+        "scheduling conflict (n-n) xung đột lịch trình",
+        "move (v) dời, chuyển",
+        "attend (v) tham dự"
+      ]
+    },
+    {
+      "question": "The project __________ the collaboration of several teams across the company.",
+      "questionNumber": 127,
+      "answers": ["(A) passed", "(B) decided", "(C) required", "(D) performed"],
+      "correctAnswer": "(C)",
+      "answerInfo": [
+        "Từ cần điền vào chỗ trống trong câu này là một động từ, đứng sau chủ ngữ “The project” và trước tân ngữ “the collaboration of several teams across the company”.",
+        "Nghĩa câu: Dự án yêu cầu sự hợp tác của nhiều nhóm trong công ty.",
+        "→ Đáp án là động từ chỉ sự yêu cầu hoặc cần thiết."
+      ],
+      "answerSelection": [
+        "(A) passed: vượt qua",
+        "(B) decided: quyết định",
+        "(C) required: yêu cầu",
+        "(D) performed: thực hiện"
+      ],
+      "vocabulary": [
+        "project (n) dự án",
+        "collaboration (n) sự hợp tác",
+        "team (n) nhóm",
+        "company (n) công ty"
+      ]
+    },
+    {
+      "question": "We cannot send the store's coupon booklet to the printers until it __________ by Ms. Jeon.",
+      "questionNumber": 128,
+      "answers": [
+        "(A) is approving",
+        "(B) approves",
+        "(C) has been approved",
+        "(D) will be approved"
+      ],
+      "correctAnswer": "(C)",
+      "answerInfo": [
+        "Câu miêu tả một sự việc ở hiện tại. Từ cần điền đóng vai trò là động từ chính trong mệnh đề phụ “until it ...”.",
+        "Nghĩa câu: Chúng tôi không thể gửi tập phiếu giảm giá của cửa hàng đến nhà in cho đến khi chúng được bà Jeon phê duyệt.",
+        "→ Câu miêu tả một sự việc ở hiện tại.",
+        "→ Đáp án là động từ chia theo thì hiện tại hoàn thành ở thể bị động."
+      ],
+      "answerSelection": [
+        "(A) is approving: động từ chia theo thì hiện tại tiếp diễn ở thể chủ động",
+        "(B) approves: động từ chia theo thì hiện tại đơn ở thể chủ động",
+        "(C) has been approved: động từ chia theo thì hiện tại hoàn thành ở thể bị động",
+        "(D) will be approved: động từ chia theo thì tương lai đơn ở thể bị động"
+      ],
+      "vocabulary": [
+        "send (v) gửi",
+        "store (n) cửa hàng",
+        "coupon (n) phiếu giảm giá",
+        "booklet (n) cuốn sách nhỏ",
+        "printer (n) nhà in",
+        "approve (v) phê duyệt"
+      ]
+    },
+    {
+      "question": "__________ the closure of Verdigold Transport Services, we are looking for a new shipping company.",
+      "questionNumber": 129,
+      "answers": [
+        "(A) In spite of",
+        "(B) Just as",
+        "(C) In light of",
+        "(D) According to"
+      ],
+      "correctAnswer": "(C)",
+      "answerInfo": [
+        "Phía sau chỗ trống là cụm danh từ “the closure of Verdigold Transport Services”.",
+        "Nghĩa câu: Vì sự đóng cửa của Verdigold Transport Services, chúng tôi đang tìm kiếm một công ty vận chuyển mới.",
+        "→ Đáp án là liên từ/giới từ mang nghĩa nguyên nhân hoặc lý do."
+      ],
+      "answerSelection": [
+        "(A) In spite of: cụm giới từ (mặc dù)",
+        "(B) Just as: cụm liên từ (ngay khi)",
+        "(C) In light of: cụm giới từ (vì, xét theo)",
+        "(D) According to: cụm giới từ (theo"
+      ],
+      "vocabulary": [
+        "closure (n) sự đóng cửa",
+        "transport (n) vận chuyển",
+        "service (n) dịch vụ",
+        "shipping (n) vận chuyển",
+        "company (n) công ty"
+      ]
+    },
+    {
+      "question": "The __________ information provided by Uniss Bank's brochure helps applicants understand the terms of their loans.",
+      "questionNumber": 130,
+      "answers": [
+        "(A) arbitrary",
+        "(B) supplemental",
+        "(C) superfluous",
+        "(D) potential"
+      ],
+      "correctAnswer": "(B)",
+      "answerInfo": [
+        "Từ cần điền đứng trước danh từ “information”, đóng vai trò là tính từ bổ nghĩa cho danh từ này.",
+        "Nghĩa câu: Thông tin bổ sung được cung cấp bởi tài liệu của Uniss Bank giúp người nộp đơn hiểu các điều khoản cho các khoản vay của họ.",
+        "→ Đáp án là tính từ chỉ sự bổ sung hoặc thêm vào."
+      ],
+      "answerSelection": [
+        "(A) arbitrary: tính từ (tùy ý, tùy tiện)",
+        "(B) supplemental: tính từ (bổ sung, thêm vào)",
+        "(C) superfluous: tính từ (dư thừa, thừa thãi)",
+        "(D) potential: tính từ (tiềm năng, có khả năng)"
+      ],
+      "vocabulary": [
+        "information (n) thông tin",
+        "provide (v) cung cấp",
+        "brochure (n) tờ rơi",
+        "applicant (n) người nộp đơn",
+        "understand (v) hiểu",
+        "term (n) điều khoản",
+        "loan (n) khoản vay"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+    "category": "TEST 5",
+    "questions": [
+        {
+            "question": "After upgrading to Pro Data Whiz, our clients began __________ problems with spreadsheets.",
+            "questionNumber": 101,
+            "answers": [
+                "(A) has",
+                "(B) had",
+                "(C) have",
+                "(D) having"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Requests for additional days off are __________ by Ms. Chung in Human Resources.",
+            "questionNumber": 102,
+            "answers": [
+                "(A) approved",
+                "(B) dropped",
+                "(C) reached",
+                "(D) reminded"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "The programmers have a list of changes __________ the next software update.",
+            "questionNumber": 103,
+            "answers": [
+                "(A) between",
+                "(B) of",
+                "(C) for",
+                "(D) above"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "Let Farida Banquet Service __________ professional catering for your important corporate events.",
+            "questionNumber": 104,
+            "answers": [
+                "(A) providing",
+                "(B) provide",
+                "(C) provides",
+                "(D) to provide"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "Using various innovative techniques, Boyd Industries has improved the __________ of its tiles.",
+            "questionNumber": 105,
+            "answers": [
+                "(A) closure",
+                "(B) product",
+                "(C) quality",
+                "(D) method"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "__________ of all cosmetics are final, and refunds will not be given under any circumstances.",
+            "questionNumber": 106,
+            "answers": [
+                "(A) Sale",
+                "(B) Sales",
+                "(C) Sells",
+                "(D) Selling"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "If you have already submitted your response, no __________ action is required.",
+            "questionNumber": 107,
+            "answers": [
+                "(A) bright",
+                "(B) further",
+                "(C) previous",
+                "(D) average"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "Ms. Sieglak stated that the app design was based on __________ own research.",
+            "questionNumber": 108,
+            "answers": [
+                "(A) she",
+                "(B) hers",
+                "(C) her",
+                "(D) herself"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "__________ the organization has doubled its outreach efforts, it has yet to see an increase in new clients.",
+            "questionNumber": 109,
+            "answers": [
+                "(A) Until",
+                "(B) Because",
+                "(C) Although",
+                "(D) Therefore"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "Starting on October 8, __________ board of education meetings will be streamed live on the school district's Web site.",
+            "questionNumber": 110,
+            "answers": [
+                "(A) all",
+                "(B) so",
+                "(C) that",
+                "(D) to"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "The hairstylists at Urbanite Salon have __________ experience working with a variety of hair products.",
+            "questionNumber": 111,
+            "answers": [
+                "(A) considers",
+                "(B) considerable",
+                "(C) considerate",
+                "(D) considering"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "Both candidates are __________ suitable for the assistant manager position.",
+            "questionNumber": 112,
+            "answers": [
+                "(A) permanently",
+                "(B) promptly",
+                "(C) equally",
+                "(D) gradually"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "With the acquisition of Bloom Circuit, Wellstrom Hardware has __________ expanded its offerings and services.",
+            "questionNumber": 113,
+            "answers": [
+                "(A) greater",
+                "(B) greatness",
+                "(C) great",
+                "(D) greatly"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Please note that file names should not __________ capital letters or spaces.",
+            "questionNumber": 114,
+            "answers": [
+                "(A) differ",
+                "(B) contain",
+                "(C) match",
+                "(D) pick"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "The Sun-Tech ceiling fan has received more than 15,000 five-star reviews from __________ customers.",
+            "questionNumber": 115,
+            "answers": [
+                "(A) satisfied",
+                "(B) checked",
+                "(C) adjusted",
+                "(D) allowed"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "Please __________ the Returns section of our Web site if you are unhappy with any part of your order.",
+            "questionNumber": 116,
+            "answers": [
+                "(A) visit",
+                "(B) visits",
+                "(C) visited",
+                "(D) visiting"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "Ito Auto Group is offering excellent __________ on pre-owned vehicles this month.",
+            "questionNumber": 117,
+            "answers": [
+                "(A) trips",
+                "(B) reasons",
+                "(C) customs",
+                "(D) deals"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Product prices are influenced __________ such factors as consumer demand and retail competition.",
+            "questionNumber": 118,
+            "answers": [
+                "(A) by",
+                "(B) under",
+                "(C) those",
+                "(D) nearly"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "Monmouth Enterprises will be __________ prefabricated houses online starting on April 1.",
+            "questionNumber": 119,
+            "answers": [
+                "(A) predicting",
+                "(B) passing",
+                "(C) retaining",
+                "(D) marketing"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "All employees should familiarize __________ with the company's policies and procedures.",
+            "questionNumber": 120,
+            "answers": [
+                "(A) their",
+                "(B) them",
+                "(C) theirs",
+                "(D) themselves"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "Custom furniture orders require a 50 percent deposit __________ the time of the order.",
+            "questionNumber": 121,
+            "answers": [
+                "(A) as",
+                "(B) off",
+                "(C) into",
+                "(D) at"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "We are planning a __________ for the Klemner Corporation's twentieth anniversary.",
+            "questionNumber": 122,
+            "answers": [
+                "(A) celebration",
+                "(B) celebrated",
+                "(C) celebrity",
+                "(D) celebrate"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "Though she lacks political experience, Ms. Diaz has been __________ impressive in her first term as mayor.",
+            "questionNumber": 123,
+            "answers": [
+                "(A) quite",
+                "(B) soon",
+                "(C) ever",
+                "(D) next"
+            ],
+            "correctAnswer": "(A)"
+        },
+        {
+            "question": "The university library usually acquires __________ copies of best-selling books to meet students' demand.",
+            "questionNumber": 124,
+            "answers": [
+                "(A) multiply",
+                "(B) multiple",
+                "(C) multiples",
+                "(D) multiplicity"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "This year's conference tote bags were __________ donated by Etani Designs.",
+            "questionNumber": 125,
+            "answers": [
+                "(A) generous",
+                "(B) generosity",
+                "(C) generously",
+                "(D) generosities"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "We will be holding a __________ on Friday to honor the 30-year engineering career of Mr. Kuan.",
+            "questionNumber": 126,
+            "answers": [
+                "(A) record",
+                "(B) share",
+                "(C) reception",
+                "(D) place"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "Groove Background creates soothing playlists of instrumental music, __________ classical and jazz.",
+            "questionNumber": 127,
+            "answers": [
+                "(A) instead",
+                "(B) including",
+                "(C) in addition",
+                "(D) indeed"
+            ],
+            "correctAnswer": "(B)"
+        },
+        {
+            "question": "Members of the finance department __________ to Mr. Chua's lecture on risk avoidance.",
+            "questionNumber": 128,
+            "answers": [
+                "(A) to be invited",
+                "(B) inviting",
+                "(C) invite",
+                "(D) are invited"
+            ],
+            "correctAnswer": "(D)"
+        },
+        {
+            "question": "The board of trustees debated for hours __________ the revised hiring policies.",
+            "questionNumber": 129,
+            "answers": [
+                "(A) during",
+                "(B) above",
+                "(C) over",
+                "(D) across"
+            ],
+            "correctAnswer": "(C)"
+        },
+        {
+            "question": "The participants closely __________ the fitness instructor's movements tend to learn the proper technique more quickly.",
+            "questionNumber": 130,
+            "answers": [
+                "(A) imitate",
+                "(B) imitations",
+                "(C) imitative",
+                "(D) imitating"
+            ],
+            "correctAnswer": "(D)"
+        }
+    ]
+}

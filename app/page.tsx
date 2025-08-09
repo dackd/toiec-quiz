@@ -1,103 +1,229 @@
-import Image from "next/image";
+"use client";
+
+import { useState, useEffect } from "react";
+import Link from "next/link";
+
+interface TestCategory {
+  id: number;
+  name: string;
+  questionCount: number;
+  icon: string;
+  color: string;
+}
 
 export default function Home() {
-  return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+  const [testCategories, setTestCategories] = useState<TestCategory[]>([]);
+  const [user] = useState({ name: "Rumi Aktar", id: "1809", points: 160 });
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+  useEffect(() => {
+    // Create test categories for tests 1-9
+    const categories: TestCategory[] = [
+      {
+        id: 1,
+        name: "Test 1",
+        questionCount: 30,
+        icon: "📄",
+        color: "bg-orange-500",
+      },
+      {
+        id: 2,
+        name: "Test 2",
+        questionCount: 30,
+        icon: "📜",
+        color: "bg-yellow-500",
+      },
+      {
+        id: 3,
+        name: "Test 3",
+        questionCount: 30,
+        icon: "⚛️",
+        color: "bg-blue-400",
+      },
+      {
+        id: 4,
+        name: "Test 4",
+        questionCount: 30,
+        icon: "⚙️",
+        color: "bg-purple-500",
+      },
+      {
+        id: 5,
+        name: "Test 5",
+        questionCount: 30,
+        icon: "🐍",
+        color: "bg-green-500",
+      },
+      {
+        id: 6,
+        name: "Test 6",
+        questionCount: 30,
+        icon: "📚",
+        color: "bg-indigo-500",
+      },
+      {
+        id: 7,
+        name: "Test 7",
+        questionCount: 30,
+        icon: "📚",
+        color: "bg-pink-500",
+      },
+      {
+        id: 8,
+        name: "Test 8",
+        questionCount: 30,
+        icon: "📚",
+        color: "bg-red-500",
+      },
+      {
+        id: 9,
+        name: "Test 9",
+        questionCount: 30,
+        icon: "📚",
+        color: "bg-teal-500",
+      },
+    ];
+    setTestCategories(categories);
+  }, []);
+
+  return (
+    <div className="min-h-screen bg-gray-50">
+      {/* Header */}
+      <div className="bg-white shadow-sm">
+        <div className="flex items-center justify-between px-6 py-4 max-w-md mx-auto">
+          <div className="flex items-center space-x-3">
+            <div className="w-10 h-10 bg-blue-500 rounded-full flex items-center justify-center">
+              <span className="text-white font-semibold text-sm">RA</span>
+            </div>
+            <div>
+              <h2 className="font-semibold text-gray-900">{user.name}</h2>
+              <p className="text-sm text-gray-500">ID: {user.id}</p>
+            </div>
+          </div>
+          <div className="flex items-center space-x-2">
+            <div className="flex items-center space-x-1 bg-blue-100 px-3 py-1 rounded-full">
+              <span className="text-blue-600 font-medium">🏆</span>
+              <span className="text-blue-600 font-medium">{user.points}</span>
+            </div>
+          </div>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
+      </div>
+
+      {/* Hero Section */}
+      <div
+        className="mx-6 my-6 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl px-6 py-8 text-white relative overflow-hidden"
+        style={{
+          background: "linear-gradient(135deg, #0F469A 0%, #407DD8 100%)",
+        }}
+      >
+        <div className="relative z-10">
+          <h1 className="text-xl font-bold mb-2">Test Your Knowledge with</h1>
+          <h1 className="text-xl font-bold mb-4">Quizzes</h1>
+          <p className="text-blue-100 mb-6">
+            We're ready to help you learn and
+            <br />
+            practice new concepts
+          </p>
+          <button className="bg-white text-blue-600 px-6 py-2 rounded-lg font-medium">
+            Play Now
+          </button>
+        </div>
+        <div className="absolute right-4 top-4 opacity-20">
+          <div className="w-24 h-24 bg-white rounded-full"></div>
+          <div className="w-16 h-16 bg-white rounded-full mt-2"></div>
+        </div>
+      </div>
+
+      {/* Search Bar */}
+      <div className="px-6 mb-6">
+        <div className="relative">
+          <input
+            type="text"
+            placeholder="Search"
+            className="w-full bg-white border border-gray-200 rounded-lg px-4 py-3 pr-10 focus:outline-none focus:ring-2 focus:ring-blue-500"
           />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+          <button className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400">
+            🔍
+          </button>
+        </div>
+      </div>
+
+      {/* Categories */}
+      <div className="px-6 mb-6">
+        <h3 className="text-lg font-semibold text-gray-900 mb-4">Categories</h3>
+        <div className="grid grid-cols-4 gap-4 mb-6">
+          {testCategories.slice(0, 4).map((category) => (
+            <Link key={category.id} href={`/quiz/${category.id}`}>
+              <div className="flex flex-col items-center space-y-2 cursor-pointer">
+                <div
+                  className={`w-12 h-12 ${category.color} rounded-xl flex items-center justify-center text-white text-lg`}
+                >
+                  {category.icon}
+                </div>
+                <span className="text-xs text-gray-600 text-center">
+                  {category.name}
+                </span>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </div>
+
+      {/* Recent Activity */}
+      <div className="px-6">
+        <h3 className="text-lg font-semibold text-gray-900 mb-4">
+          Recent Activity
+        </h3>
+        <div className="space-y-3">
+          {testCategories.map((category) => (
+            <Link key={category.id} href={`/quiz/${category.id}`}>
+              <div className="bg-white rounded-xl p-4 flex items-center justify-between shadow-sm border border-gray-100 cursor-pointer hover:shadow-md transition-shadow">
+                <div className="flex items-center space-x-3">
+                  <div
+                    className={`w-10 h-10 ${category.color} rounded-lg flex items-center justify-center text-white`}
+                  >
+                    {category.icon}
+                  </div>
+                  <div>
+                    <h4 className="font-medium text-gray-900">
+                      {category.name}
+                    </h4>
+                    <p className="text-sm text-gray-500">
+                      {category.questionCount} Question
+                    </p>
+                  </div>
+                </div>
+                <div className="text-right">
+                  <div className="text-sm font-medium text-gray-900">
+                    {Math.floor(Math.random() * 10) + 20}/30
+                  </div>
+                  <div className="text-xs text-gray-500">Score</div>
+                </div>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </div>
+
+      {/* Bottom Navigation */}
+      <div className="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200">
+        <div className="flex justify-around py-3 max-w-md mx-auto">
+          <button className="flex flex-col items-center space-y-1">
+            <div className="w-6 h-6 text-blue-600">🏠</div>
+          </button>
+          <button className="flex flex-col items-center space-y-1">
+            <div className="w-6 h-6 text-gray-400">📊</div>
+          </button>
+          <button className="flex flex-col items-center space-y-1">
+            <div className="w-6 h-6 text-gray-400">❤️</div>
+          </button>
+          <button className="flex flex-col items-center space-y-1">
+            <div className="w-6 h-6 text-gray-400">👤</div>
+          </button>
+        </div>
+      </div>
+
+      {/* Add padding to prevent content from being hidden behind fixed navigation */}
+      <div className="h-20"></div>
     </div>
   );
 }

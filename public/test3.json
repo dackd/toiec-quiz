@@ -1,0 +1,793 @@
+{
+    "category": "TEST 3",
+    "questions": [
+        {
+            "question": "__________ your order is being processed, please call customer service with any questions.",
+            "questionNumber": 101,
+            "answers": [
+                "(A) Still",
+                "(B) Either",
+                "(C) While",
+                "(D) Also"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "“While” được sử dụng để chỉ thời gian, đồng nghĩa với “during the time that” hoặc “at the same time as”.",
+                "Trong câu, “While your order is being processed” có nghĩa là “Trong khi đơn hàng của bạn đang được xử lý”.",
+                "Mệnh đề tiếp theo yêu cầu khách hàng liên hệ dịch vụ khách hàng với bất kỳ câu hỏi nào, điều này cũng có thể xảy ra trong quá trình xử lý đơn hàng.",
+                "Phương án (C) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) Still: Vẫn còn",
+                "(B) Either: Cũng vậy",
+                "(C) While: Trong khi",
+                "(D) Also: Cũng"
+            ],
+            "vocabulary": [
+                "order (n): đơn đặt hàng",
+                "process (v): trong quá trình, xử lý",
+                "customer service (n.phr): dịch vụ khách hàng"
+            ]
+        },
+        {
+            "question": "ABC Truck Supplies has the __________ selection of mufflers in the state.",
+            "questionNumber": 102,
+            "answers": [
+                "(A) natural",
+                "(B) widest",
+                "(C) overall",
+                "(D) positive"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Trong câu, chỗ trống đứng trước “of” yêu cầu một tính chất hoặc đặc điểm của một nhóm sản phẩm hoặc loại sản phẩm.",
+                "“Widest” (rộng nhất) phù hợp với ngữ cảnh về một danh sách sản phẩm, trong đó một trong số chúng có một đặc điểm rộng lớn nhất.",
+                "“Widest” cũng phù hợp với ngữ cảnh về kích thước của một phạm vi (danh sách, lựa chọn, vv.) và có nghĩa là “having the largest extent from side to side”.",
+                "Phương án (B) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) natural: tự nhiên",
+                "(B) widest: nhiều/rộng nhất",
+                "(C) overall: tổng thể",
+                "(D) positive: tích cực"
+            ],
+            "vocabulary": [
+                "supply (n): cung cấp",
+                "muffler (n): bộ giảm thanh"
+            ]
+        },
+        {
+            "question": "Sharswood Landscaping has received dozens of five-star __________ for its work.",
+            "questionNumber": 103,
+            "answers": [
+                "(A) reviews",
+                "(B) reviewer",
+                "(C) reviewed",
+                "(D) reviewing"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Trong câu, chỗ trống yêu cầu một danh từ để chỉ các đánh giá (reviews) mà Sharswood Landscaping đã nhận được cho công việc của họ.",
+                "“Reviews” là danh từ số nhiều của “review” và phù hợp với ngữ cảnh.",
+                "Phương án (A) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) reviews: danh từ số nhiều của “review” (đánh giá).",
+                "(B) reviewer: danh từ chỉ người đánh giá.",
+                "(C) reviewed: đây là dạng rút gọn mệnh đề quan hệ bị động của “review”.",
+                "(D) reviewing: đây là dạng rút gọn mệnh đề quan hệ của “review”."
+            ],
+            "vocabulary": [
+                "review (v): đánh giá, xem xét",
+                "dozens (n): hàng tá"
+            ]
+        },
+        {
+            "question": "Dr. Cho will visit the Teledarr Lab during the annual open house, since __________ may not have another chance to see it.",
+            "questionNumber": 104,
+            "answers": [
+                "(A) hers",
+                "(B) she",
+                "(C) her",
+                "(D) herself"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Trong câu, cần một đại từ nhân xưng để chỉ người nói (“Dr. Cho”) trong tình huống cụ thể.",
+                "“She” là dạng đại từ nhân xưng (subject pronoun) và phù hợp với ngữ cảnh, đồng thời đóng vai trò làm chủ ngữ trong câu.",
+                "Phương án (B) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) hers: của cô ấy (dạng đại từ sở hữu )",
+                "(B) she: cô ấy (dạng đại từ nhân xưng)",
+                "(C) her: của cô ấy (dạng đại từ sở hữu cách)",
+                "(D) herself: chính cô ấy (dạng đại từ đối xứng)"
+            ],
+            "vocabulary": [
+                "annual (adj): hàng năm",
+                "chance (n): cơ hội"
+            ]
+        },
+        {
+            "question": "Dorn Department Store decided to __________ its already large selection of housewares.",
+            "questionNumber": 105,
+            "answers": [
+                "(A) create",
+                "(B) enforce",
+                "(C) apply",
+                "(D) expand"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Trong câu, cần một động từ để chỉ hành động của Dorn Department Store liên quan đến việc tăng kích thước hoặc phạm vi của lựa chọn sản phẩm.",
+                "“Expand” có nghĩa là mở rộng, tăng cường, và phù hợp với ngữ cảnh.",
+                "Phương án (B) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) create: tạo ra",
+                "(B) enforce: áp dụng, thi hành",
+                "(C) apply: áp dụng",
+                "(D) expand: mở rộng, tăng cường"
+            ],
+            "vocabulary": [
+                "decide (v): quyết định",
+                "large (adj): lớn",
+                "selection (n): sự lựa chọn"
+            ]
+        },
+        {
+            "question": "We __________ that you bring a portfolio of work samples to the interview.",
+            "questionNumber": 106,
+            "answers": [
+                "(A) was asking",
+                "(B) having asked",
+                "(C) ask",
+                "(D) asks"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Trong câu, cần một động từ ở dạng nguyên thể (infinitive) để diễn đạt hành động mà “we” đề xuất hoặc khuyến khích.",
+                "“Ask” ở dạng nguyên thể và phù hợp với ngữ cảnh.",
+                "Phương án (C) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) was asking: đang hỏi (dạng quá khứ của “be asking”)",
+                "(B) having asked: đã hỏi (dạng quá khứ phân từ của “have asked”)",
+                "(C) ask: hỏi, đề xuất (dạng nguyên thể)",
+                "(D) asks: hỏi, đề xuất (dạng hiện tại đơn)"
+            ],
+            "vocabulary": [
+                "portfolio (n): danh mục đầu tư",
+                "work sample (n.phr): Mẫu làm việc"
+            ]
+        },
+        {
+            "question": "Members of the Bold Stone Farm Store receive __________ discounts on all purchases.",
+            "questionNumber": 107,
+            "answers": [
+                "(A) depth",
+                "(B) deepen",
+                "(C) deep",
+                "(D) deeply"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Trong câu, cần một tính từ để mô tả loại giảm giá mà các thành viên của cửa hàng nhận được.",
+                "“Deep” là một tính từ được sử dụng để mô tả mức độ của giảm giá.",
+                "Phương án (C) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) depth: danh từ chỉ sự sâu",
+                "(B) deepen: động từ chỉ làm sâu thêm.",
+                "(C) deep: tính từ chỉ sự sâu",
+                "(D) deeply: trạng từ chỉ cách thức, dùng để mô tả việc nhận được sự giảm giá “sâu sắc”."
+            ],
+            "vocabulary": [
+                "discount (n): giảm giá",
+                "purchases (n): mua hàng"
+            ]
+        },
+        {
+            "question": "If your plans change, please contact us at least 24 hours before the time of your __________.",
+            "questionNumber": 108,
+            "answers": [
+                "(A) reserved",
+                "(B) reservation",
+                "(C) reservable",
+                "(D) reserve"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Trong câu, cần một từ để chỉ hành động của việc đặt chỗ trước.",
+                "“Reservation” là danh từ được sử dụng để chỉ hành động đặt chỗ trước.",
+                "Phương án (B) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) reserved: đã đặt trước (tính từ)",
+                "(B) reservation: sự đặt chỗ trước, cuộc hẹn",
+                "(C) reservable: có thể đặt trước được (tính từ)",
+                "(D) reserve: đặt trước (động từ)"
+            ],
+            "vocabulary": [
+                "plans (n): kế hoạch",
+                "change (v): thay đổi",
+                "contact (v): liên hệ"
+            ]
+        },
+        {
+            "question": "Hold the tomato seedling gently by the stem in order to avoid harming __________ roots.",
+            "questionNumber": 109,
+            "answers": [
+                "(A) its",
+                "(B) at",
+                "(C) that",
+                "(D) in"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Trong câu, cần một từ để chỉ đối tượng của hành động giữa cây giống cà chua.",
+                "“Its” là một từ hạn định được sử dụng để chỉ sở hữu, thuộc về hoặc kết nối với một vật nào đó",
+                "Ở đây đang mang ý nghĩa “rễ của cây cà chua”. “The tomato seedling” là một vật, nên sử dụng “its”.",
+                "Phương án (A) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) its: của nó (từ hạn định mang ý nghĩa sở hữu)",
+                "(B) at: ở, tại",
+                "(C) that: đó",
+                "(D) in: trong, ở bên trong"
+            ],
+            "vocabulary": [
+                "seedling (n): cây giống",
+                "stem (n): thân cây",
+                "roots (n): rễ"
+            ]
+        },
+        {
+            "question": "At the registration table, be sure to collect your name tag __________ entering the conference.",
+            "questionNumber": 110,
+            "answers": [
+                "(A) very",
+                "(B) often",
+                "(C) always",
+                "(D) before"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Trong câu, cần một trạng từ để chỉ thời gian hoặc thứ tự của hành động.",
+                "“Before” là một trạng từ chỉ thời gian được sử dụng để biểu thị hành động xảy ra trước một sự kiện khác.",
+                "Phương án (D) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) very: rất",
+                "(B) often: thường xuyên",
+                "(C) always: luôn luôn",
+                "(D) before: trước"
+            ],
+            "vocabulary": [
+                "registration table (n.phr): bàn đăng ký",
+                "collect (v): thu thập",
+                "name tag (n.phr): thẻ tên"
+            ]
+        },
+        {
+            "question": "Maihama vehicles include an extended __________ to cover engine repairs.",
+            "questionNumber": 111,
+            "answers": [
+                "(A) record",
+                "(B) operation",
+                "(C) budget",
+                "(D) warranty"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Trong câu, cần một danh từ để chỉ loại hợp đồng mà các phương tiện Maihama bao gồm.",
+                "“Warranty” là một danh từ được sử dụng để chỉ cam kết của nhà sản xuất hoặc nhà cung cấp đảm bảo chất lượng hoặc hiệu suất của một sản phẩm hoặc dịch vụ trong một khoảng thời gian nhất định.",
+                "Phương án (D) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) record: hồ sơ, kỷ lục",
+                "(B) operation: hoạt động",
+                "(C) budget: ngân sách",
+                "(D) warranty: cam kết bảo hành"
+            ],
+            "vocabulary": [
+                "extended (adj): mở rộng, kéo dài",
+                "engine repairs (n.phr): sửa chữa động cơ"
+            ]
+        },
+        {
+            "question": "The hotel's new Web site features an __________ collection of high-quality images.",
+            "questionNumber": 112,
+            "answers": [
+                "(A) absolute",
+                "(B) efficient",
+                "(C) impressive",
+                "(D) undefeated"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Trong câu, cần một tính từ để mô tả sự đặc biệt của bộ sưu tập hình ảnh trên trang web mới của khách sạn.",
+                "“Impressive” là một tính từ mô tả sự gây ấn tượng hoặc ấn tượng.",
+                "Phương án (C) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) absolute: tuyệt đối",
+                "(B) efficient: hiệu quả",
+                "(C) impressive: ấn tượng",
+                "(D) undefeated: chưa bị đánh bại"
+            ],
+            "vocabulary": [
+                "collection (n): bộ sưu tập",
+                "high-quality (adj): chất lượng cao"
+            ]
+        },
+        {
+            "question": "On behalf of everyone at Uniontown Bank, we __________ thank you for your continued patronage.",
+            "questionNumber": 113,
+            "answers": [
+                "(A) deservedly",
+                "(B) commonly",
+                "(C) sincerely",
+                "(D) perfectly"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Trong câu, cần một trạng từ để chỉ cách thức hoặc tâm trạng khi thể hiện sự biết ơn.",
+                "“Sincerely” là một trạng từ thường được sử dụng để diễn đạt lòng thành thực, chân thành khi nói hoặc viết lời cảm ơn.",
+                "Phương án (C) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) deservedly: xứng đáng",
+                "(B) commonly: thông thường",
+                "(C) sincerely: chân thành",
+                "(D) perfectly: hoàn hảo"
+            ],
+            "vocabulary": [
+                "patronage (n): sự ủng hộ, sự bảo trợ"
+            ]
+        },
+        {
+            "question": "Fragile equipment must be stored in a secure location so that nothing is __________ damaged.",
+            "questionNumber": 114,
+            "answers": [
+                "(A) accident",
+                "(B) accidents",
+                "(C) accidental",
+                "(D) accidentally"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Vị trí trống đứng trước động từ 'damaged”, đóng vai trò bổ nghĩa cho động từ này - Từ cần điền là một trạng ngữ.",
+                "Phương án (D) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) accident: danh từ chỉ sự tai nạn.",
+                "(B) accidents: danh từ số nhiều của “accident”.",
+                "(C) accidental: tính từ chỉ tình cờ.",
+                "(D) accidentally: trạng từ chỉ cách thức, dùng để mô tả việc không gây ra thiệt hại “tình cờ”."
+            ],
+            "vocabulary": [
+                "fragile (adj): dễ vỡ, mong manh",
+                "secure (adj): an toàn"
+            ]
+        },
+        {
+            "question": "Ms. Sampson will not arrive at the convention __________ after our team's presentation.",
+            "questionNumber": 115,
+            "answers": [
+                "(A) until",
+                "(B) lately",
+                "(C) from",
+                "(D) when"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Trong câu, cần một liên từ để chỉ mối quan hệ thời gian hoặc điều kiện giữa việc Ms. Sampson đến hội nghị và thời điểm trình bày của đội của chúng ta.",
+                "“Until” là một liên từ được sử dụng để chỉ thời gian cho đến khi một điều kiện xác định được đạt đến.",
+                "Phương án (A) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) until: cho đến khi",
+                "(B) lately: gần đây",
+                "(C) from: từ",
+                "(D) when: khi"
+            ],
+            "vocabulary": [
+                "arrive (v): đến",
+                "convention (n): hội nghị"
+            ]
+        },
+        {
+            "question": "The community picnic will be held __________ the park behind the Seltzer Public Library.",
+            "questionNumber": 116,
+            "answers": [
+                "(A) in",
+                "(B) all",
+                "(C) for",
+                "(D) here"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Trong câu, cần một giới từ để chỉ địa điểm của sự kiện diễn ra.",
+                "“In” là giới từ thường được sử dụng để chỉ nơi chứa đựng một sự kiện hoặc hoạt động.",
+                "Phương án (A) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) in: trong",
+                "(B) all: tất cả",
+                "(C) for: cho",
+                "(D) here: ở đây"
+            ],
+            "vocabulary": [
+                "community picnic (n): chuyến dã ngoại cộng đồng",
+                "behind (prep): phía sau"
+            ]
+        },
+        {
+            "question": "The new hires __________ for an orientation on May 10 at 9:00 A.M.",
+            "questionNumber": 117,
+            "answers": [
+                "(A) to be gathering",
+                "(B) will gather",
+                "(C) gathering",
+                "(D) to gather"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Trong câu, cần động từ để chỉ hành động diễn ra trong tương lai “May 10 at 9:00 A.M”.",
+                "“Will gather” là cấu trúc của thì tương lai đơn “Will + V”.",
+                "Phương án (B) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) to be gathering: để tụ họp (động từ dạng to-infinitive có kết hợp tiếp diễn)",
+                "(B) will gather: sẽ tụ họp (động từ nguyên mẫu được kết hợp với động từ khuyết thiếu “will” chỉ về tương lai)",
+                "(C) gathering: sự tụ họp (động từ dạng gerund - V-ing)",
+                "(D) to gather: để tụ họp (động từ dạng to-infinitive)"
+            ],
+            "vocabulary": [
+                "new hires (n.phr): những người mới được thuê",
+                "orientation (n): sự hướng dẫn, sự làm quen, buổi định hướng"
+            ]
+        },
+        {
+            "question": "When Mr. Young approached the desk, the receptionist __________ offered him a seat in the waiting room.",
+            "questionNumber": 118,
+            "answers": [
+                "(A) politely",
+                "(B) polite",
+                "(C) politeness",
+                "(D) politest"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Trong câu, cần một trạng từ để chỉ cách thức hoặc tâm trạng khi thể hiện hành động nào đó.",
+                "“Politely” là một trạng từ mô tả việc thực hiện hành động một cách lịch sự, chu đáo.",
+                "Phương án (A) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) politely: một cách lịch sự (trạng từ)",
+                "(B) polite: lịch sự (tính từ)",
+                "(C) politeness: sự lịch sự (danh từ)",
+                "(D) politest: lịch sự nhất (tính từ ở dạng so sánh nhất)"
+            ],
+            "vocabulary": [
+                "approach (v): tiếp cận",
+                "receptionist (n): lễ tân"
+            ]
+        },
+        {
+            "question": "Members of the Marvale marketing team claimed that __________ was the best design for the new corporate logo.",
+            "questionNumber": 119,
+            "answers": [
+                "(A) they",
+                "(B) them",
+                "(C) theirs",
+                "(D) their"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Trong câu, cần một từ có vai trò chủ ngữ và là một vật (thing) thể hiện ý nghĩa “the best design for the new corporate logo”",
+                "“Theirs” là đại từ mang ý nghĩa sở hữu của “they” phù hợp với ngữ cảnh của câu.",
+                "Từ “theirs” có thể thay thế cho cụm từ “their logo”.",
+                "Phương án (C) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "A) they: đại từ đóng vai trò chủ ngữ, thường được sử dụng để đề cập đến một nhóm người hoặc vật.",
+                "(B) them: đại từ đóng vai trò tân ngữ, thường được sử dụng khi đại từ đó đứng sau một động từ hoặc giới từ.",
+                "(C) theirs: đại từ chỉ sự sở hữu của “they”, thường được sử dụng khi muốn nhấn mạnh sự sở hữu của một người hoặc nhóm người.",
+                "(D) their: “their” là tính từ sở hữu, thường được sử dụng khi liên kết với một danh từ để chỉ sự sở hữu của một nhóm người hoặc vật."
+            ],
+            "vocabulary": [
+                "claim (v): tuyên bố",
+                "corporate logo (n.phr): logo doanh nghiệp"
+            ]
+        },
+        {
+            "question": "The new Kitsuna video camera is currently on sale for $375, not __________ tax.",
+            "questionNumber": 120,
+            "answers": [
+                "(A) excepting",
+                "(B) alongside",
+                "(C) within",
+                "(D) including"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Trong câu, cần một giới từ hoặc từ liên hợp để chỉ điều kiện không bao gồm cái gì đó.",
+                "“Including” là một giới từ chỉ sự bao gồm, phù hợp trong ngữ cảnh của câu khi trước nó có từ “not” nghĩa là không tính.",
+                "Phương án (D) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) excepting: trừ ra",
+                "(B) alongside: cùng với",
+                "(C) within: trong vòng",
+                "(D) including: bao gồm"
+            ],
+            "vocabulary": [
+                "on sale (v): đang giảm giá",
+                "tax (n): thuế"
+            ]
+        },
+        {
+            "question": "All associates are __________ to follow the standard operating procedures outlined in the handbook.",
+            "questionNumber": 121,
+            "answers": [
+                "(A) concerned",
+                "(B) tended",
+                "(C) maintained",
+                "(D) expected"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Trong câu, cần một từ để chỉ mong đợi hoặc yêu cầu một hành động.",
+                "“Expected” là một tính từ chỉ điều mà mọi người nghĩ rằng sẽ xảy ra hoặc mà ai đó muốn xảy ra.",
+                "Phương án (D) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) concerned: quan tâm",
+                "(B) tended: chăm sóc",
+                "(C) maintained: duy trì",
+                "(D) expected: dự kiến"
+            ],
+            "vocabulary": [
+                "standard operating procedures (n.phr): các quy trình hoạt động tiêu chuẩn",
+                "handbook (n): cẩm nang"
+            ]
+        },
+        {
+            "question": "This month Framley Publishing House is embarking on its __________ expansion so far.",
+            "questionNumber": 122,
+            "answers": [
+                "(A) ambitiously",
+                "(B) most ambitiously",
+                "(C) ambition",
+                "(D) most ambitious"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Cần một trạng từ để mô tả cách thức hoặc mức độ của hành động.",
+                "“Most ambitious” là một cụm từ trạng từ, phù hợp để mô tả mức độ cao nhất của sự mở rộng.",
+                "Phương án (D) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) ambitiously: một cách tham vọng (trạng từ)",
+                "(B) most ambitiously: một cách tham vọng nhất (trạng từ ở dạng so sánh nhất)",
+                "(C) ambition: sự tham vọng (danh từ)",
+                "(D) most ambitious: mở rộng nhiều nhất (tính từ ở dạng so sánh nhất)"
+            ],
+            "vocabulary": [
+                "embark on (v): bắt đầu, khởi đầu",
+                "expansion (n): sự mở rộng, phát triển"
+            ]
+        },
+        {
+            "question": "After months of collaboration, Matricks Technology's software developers __________ released a top-quality product.",
+            "questionNumber": 123,
+            "answers": [
+                "(A) profoundly",
+                "(B) overly",
+                "(C) finally",
+                "(D) intensely"
+            ],
+            "correctAnswer": "(C)",
+            "answerInfo": [
+                "Cần một trạng từ để chỉ thời gian, cách thức hoặc mức độ của hành động.",
+                "“Finally” là một trạng từ chỉ thời gian, phù hợp với ngữ cảnh của câu.",
+                "Phương án (C) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) profoundly: sâu sắc",
+                "(B) overly: quá mức",
+                "(C) finally: cuối cùng",
+                "(D) intensely: một cách mãnh liệt"
+            ],
+            "vocabulary": [
+                "collaboration (n): sự hợp tác",
+                "top-quality (adj): chất lượng cao nhất"
+            ]
+        },
+        {
+            "question": "Tickets are valid for one-time access and do not allow for __________ into the venue.",
+            "questionNumber": 124,
+            "answers": [
+                "(A) duplication",
+                "(B) reentry",
+                "(C) permission",
+                "(D) turnover"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Trong câu, sau giới từ “for” cần một danh từ hoặc động từ thêm “-ing”.",
+                "Danh từ này phải kết hợp với giới từ “into” ở sau.",
+                "“Re-entry” đi cùng với giới từ “into” + something chỉ hành động quay trở lại một địa điểm hoặc một lĩnh vực hoạt động mà mình đã từng tham gia.",
+                "Phương án (B) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) duplication: sự sao chép, sao lại",
+                "(B) reentry: sự tái nhập, tham gia lại",
+                "(C) permission: sự cho phép",
+                "(D) turnover: doanh số"
+            ],
+            "vocabulary": [
+                "valid (adj): hợp lệ, có giá trị",
+                "one-time (adj): một lần duy nhất"
+            ]
+        },
+        {
+            "question": "We hired Okafor Construction to do the renovation __________ it was not the lowest bidder on the project.",
+            "questionNumber": 125,
+            "answers": [
+                "(A) if only",
+                "(B) alternatively",
+                "(C) whereas",
+                "(D) even though"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Câu yêu cầu một liên từ hoặc cụm từ liên từ để kết nối hai ý trái ngược nhau.",
+                "“Even though” là một cụm từ liên từ dùng để chỉ sự ngược lại giữa hai sự vật hoặc tình huống.",
+                "Phương án (D) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) if only: được sử dụng khi muốn diễn đạt một mong muốn mạnh mẽ hoặc một điều kiện mà hiện tại không thể đạt được.",
+                "(B) alternatively: được sử dụng để đề xuất một lựa chọn khác, hoặc một phương pháp hoặc ý kiến tương phản với cái trước đó.",
+                "(C) whereas: được sử dụng để so sánh hai phần, chỉ ra sự tương phản hoặc sự khác biệt giữa chúng.",
+                "(D) even though: được sử dụng để biểu thị một mâu thuẫn hoặc một điều không ngờ đến, thường đi kèm với một mệnh đề phản đối."
+            ],
+            "vocabulary": [
+                "renovation (n): sự cải tạo",
+                "bidder (n): người thầu"
+            ]
+        },
+        {
+            "question": "The first __________ of the training will introduce staff to certain workplace responsibilities.",
+            "questionNumber": 126,
+            "answers": [
+                "(A) part",
+                "(B) parted",
+                "(C) parting",
+                "(D) partial"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Câu yêu cầu một danh từ hoặc cụm danh từ để chỉ một phần cụ thể của khóa đào tạo.",
+                "“Part” là một danh từ chỉ một phần của một cái gì đó.",
+                "Phương án (A) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) part: từ này là danh từ chỉ một phần của một tổ chức hoặc một toàn thể.",
+                "(B) parted: là động từ quá khứ của “part” có nghĩa là “chia tay” hoặc “rời bỏ”.",
+                "(C) parting: là danh từ chỉ sự chia tay hoặc sự chia rẽ.",
+                "(D) partial: là tính từ có nghĩa là “một phần”, “không hoàn chỉnh”."
+            ],
+            "vocabulary": [
+                "introduce (v): giới thiệu",
+                "responsibilities (n): trách nhiệm"
+            ]
+        },
+        {
+            "question": "According to industry __________, Ghira Company plans to relocate its headquarters to Australia.",
+            "questionNumber": 127,
+            "answers": [
+                "(A) reported",
+                "(B) reportedly",
+                "(C) reporter",
+                "(D) reports"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Câu yêu cầu một danh từ hoặc cụm danh từ để chỉ nguồn thông tin hoặc nguồn gốc của thông tin.",
+                "“Reports” là một danh từ chỉ rằng thông tin được đưa ra là dựa trên những gì được cho là đúng.",
+                "Phương án (D) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) reported: là động từ quá khứ của “report”, có nghĩa là “được báo cáo”.",
+                "(B) reportedly: là một trạng từ được sử dụng để chỉ một sự kiện được cho là đã xảy ra, thường dựa trên thông tin không chắc chắn hoặc không chính xác.",
+                "(C) reporter: là danh từ chỉ một người làm nghề phóng viên, người phỏng vấn.",
+                "(D) reports: là danh từ ở dạng số nhiều, có nghĩa là “các báo cáo”."
+            ],
+            "vocabulary": [
+                "industry (n): ngành công nghiệp",
+                "relocate (v): di dời, dời đi"
+            ]
+        },
+        {
+            "question": "Next month, the Kneath House will host an exhibition of __________ furniture and clothing from the eighteenth century.",
+            "questionNumber": 128,
+            "answers": [
+                "(A) authentic",
+                "(B) authentically",
+                "(C) authenticate",
+                "(D) authenticity"
+            ],
+            "correctAnswer": "(A)",
+            "answerInfo": [
+                "Câu yêu cầu một tính từ để mô tả các sản phẩm trong cuộc triển lãm.",
+                "“Authentic” là một tính từ mô tả cái gì đó là thật, chính xác, không giả mạo.",
+                "Phương án (A) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) authentic: là tính từ có nghĩa là “thật, đích thực”.",
+                "(B) authentically: là trạng từ của “authentic”, có nghĩa là “một cách thật, một cách đích thực”.",
+                "(C) authenticate: là động từ có nghĩa là “xác thực, chứng thực”.",
+                "(D) authenticity: là danh từ chỉ tính chân thật, tính đích thực."
+            ],
+            "vocabulary": [
+                "exhibition (n): cuộc triển lãm",
+                "eighteenth century (n.phr): thế kỷ XVIII"
+            ]
+        },
+        {
+            "question": "PKTM's regional managers serve __________ the direction of the vice president.",
+            "questionNumber": 129,
+            "answers": [
+                "(A) among",
+                "(B) under",
+                "(C) behind",
+                "(D) opposite"
+            ],
+            "correctAnswer": "(B)",
+            "answerInfo": [
+                "Câu yêu cầu một liên từ hoặc cụm từ liên từ để chỉ mối quan hệ giữa hai thực thể.",
+                "“Under” là một liên từ thể hiện mối quan hệ giữa nhân viên và cấp quản lý, người thực hiện hướng dẫn và kiểm soát công việc.",
+                "Phương án (B) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) among: trong số, giữa",
+                "(B) under: dưới, dưới sự kiểm soát hoặc hướng dẫn của ai đó",
+                "(C) behind: sau, đằng sau",
+                "(D) opposite: đối diện"
+            ],
+            "vocabulary": [
+                "serve under: phục vụ dưới sự hướng dẫn của ai đó",
+                "direction (n): sự hướng dẫn"
+            ]
+        },
+        {
+            "question": "__________ a recent surge in demand, Vanita's Catering is hiring four additional servers.",
+            "questionNumber": 130,
+            "answers": [
+                "(A) Everywhere",
+                "(B) Possibly",
+                "(C) In total",
+                "(D) Owing to"
+            ],
+            "correctAnswer": "(D)",
+            "answerInfo": [
+                "Câu yêu cầu một liên từ để chỉ nguyên nhân hoặc lý do dẫn đến một sự kiện hoặc tình huống.",
+                "“Owing to” là một liên từ dùng để chỉ nguyên nhân hoặc lý do của một sự việc.",
+                "Phương án (D) là phù hợp nhất"
+            ],
+            "answerSelection": [
+                "(A) Everywhere: khắp nơi",
+                "(B) Possibly: có thể, có khả năng",
+                "(C) In total: tổng cộng",
+                "(D) Owing to: bởi vì, do, nhờ vào"
+            ],
+            "vocabulary": [
+                "surge (n): sự tăng đột ngột",
+                "demand (n): nhu cầu"
+            ]
+        }
+    ]
+}
